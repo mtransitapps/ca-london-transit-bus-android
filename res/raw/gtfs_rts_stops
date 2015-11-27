@@ -306,7 +306,6 @@
 367,'367','Cheapside & Wellington',43.002451,-81.253889
 368,'368','Cheapside & William',43.005516,-81.24244
 369,'369','Cheapside & William',43.005588,-81.242502
-370,'370','Chelton & Reardon Blvd',42.961402,-81.174381
 371,'371','Cherryhill & Cherryhill Blvd',42.99116,-81.277868
 372,'372','Cherryhill & Cherrhill Cir',42.991687,-81.276465
 373,'373','Cherryhill & Cherryhill Cir 2',42.991843,-81.277179
@@ -370,7 +369,6 @@
 443,'443','Colborne & Princess Ave',42.990303,-81.241638
 445,'445','Commissioners & Adelaide',42.959153,-81.2149
 446,'446','Commissioners & Adelaide St',42.959517,-81.214417
-447,'447','Commissioners & Adelaide St',42.958643,-81.220485
 448,'448','Commissioners & Boler',42.959479,-81.331786
 449,'449','Commissioners & Deveron',42.962324,-81.194459
 450,'450','Commissioners & Deveron Fire Hal',42.962337,-81.195987
@@ -1887,7 +1885,6 @@
 2214,'2214','Commissioners & Boler 2',42.958902,-81.330089
 2215,'2215','Commissioners & Meadowlilly Rd',42.963507,-81.18508
 2216,'2216','Commissioners & Meadowlilly Rd',42.963598,-81.186234
-2217,'2217','Commissioners & Western Counties',42.958442,-81.218679
 2218,'2218','Dufferin & Waterloo St',42.988336,-81.244135
 2219,'2219','Dundas & McCormick Blvd',42.994701,-81.211527
 2220,'2220','Emery & Ridgewood',42.964458,-81.275884
@@ -1931,8 +1928,6 @@
 2277,'2277','Southdale & Jalna Blvd 1',42.941561,-81.246645
 2279,'2279','Trafalgar & Falcon St',42.990638,-81.175968
 2280,'2280','Trevithen & Alexandra',42.968068,-81.230099
-2281,'2281','Victoria Hosptial & Pkng Lot 9 N',42.959953,-81.228778
-2282,'2282','Victoria Hosp & CNIB',42.961326,-81.22709
 2284,'2284','Victoria Hosp W Of Zone C',42.959493,-81.226954
 2285,'2285','Viscount & Andover Dr 2',42.947845,-81.274778
 2286,'2286','Viscount & Andover Dr 1',42.948137,-81.273276
@@ -2135,6 +2130,23 @@
 2614,'2614','Fahawe & Dalmagarry',43.012144,-81.331911
 2615,'2615','Fahawe & Dalmagarry',43.012396,-81.331691
 2616,'2616','Parkwood Hosp & Mental Health Bldg',42.954056,-81.226738
+2617,'2617','Colonelt Talbot & 3278 Colenel Talbot',42.928515,-81.315311
+2618,'2618','Colonelt Talbot & Raleigh',42.932583,-81.316308
+2619,'2619','Colonel Talbot & Southdale',42.936291,-81.317145
+2620,'2620','Crarook & Barclay',42.940934,-81.303746
+2621,'2621','Crarook & Barclay',42.940907,-81.303501
+2622,'2622','Crarook & Birchmount',42.938746,-81.305251
+2623,'2623','Crarook & Roberston Pl',42.93861,-81.306893
+2624,'2624','Crarook & Schraeder',42.938708,-81.307824
+2625,'2625','Crarook & Viscount',42.944139,-81.302879
+2626,'2626','Pack & Settlement Trl',42.926609,-81.311243
+2627,'2627','Settlement Trl & Pioneer Pkwy',42.929645,-81.305672
+2628,'2628','Settlement Trl & Settlement Pl',42.928555,-81.308121
+2629,'2629','Southdale & Pomeroy',42.936735,-81.311914
+2630,'2630','Tillman & Settlement Trl',42.933011,-81.307843
+2631,'2631','Tillman & Southdale',42.937358,-81.30857
+2632,'2632','Tillman & Southdale',42.936809,-81.308815
+2633,'2633','Viscount & Dumoor',42.944816,-81.298567
 100018,'','King Edward & Thompson',42.969475,-81.212779
 100064,'','Richmond & Quee',42.985,-81.250069
 100069,'','Southdale & Nixon',42.942508,-81.236577
@@ -2142,18 +2154,15 @@
 100196,'','Glenora & Adelaide St',43.029123,-81.251813
 100427,'','Sarnia & Wonderland',42.995466,-81.298931
 101092,'','Southdale & Nixon Ave',42.942378,-81.237243
-101504,'','Commissioners & Western Counties Rd',42.958514,-81.22334
 101701,'','Gaiborough & Limberlost Rd',43.006182,-81.307312
 101718,'','Gore & Braeside Ave',42.978433,-81.172081
 102836,'','Dufferin &waterloo',42.988608,-81.243706
 102844,'','Proudfoot & Oxford',42.985155,-81.288054
-102847,'','Adelaide & King',42.987599,-81.231198
 102856,'','Dundas & Wellington',42.984883,-81.245441
 102868,'','Richmond & Cheapside',43.001678,-81.25635
 102872,'','Richmond & York',42.981498,-81.248476
 102873,'','Ridout & York',42.980241,-81.252791
 103525,'','Commissioners & Highbury',42.963056,-81.188761
-103698,'','Victoria Hosp West Enterance',42.958824,-81.228335
 103702,'','Bond & Beverley',42.969386,-81.232712
 103733,'','Kain @ Oxford',42.967763,-81.355173
 103787,'','Farnham & Farnham Grv',42.942997,-81.295103
