@@ -5,7 +5,7 @@ London Transit Bus for MonTransit.
 Schedule. Offline. Real-Time.
 ----------
 What's new in this version?:
-Schedule from September 6, 2015 to November 28, 2015.
+Schedule from November 29, 2015 to February 6, 2016.
 Real-time arrival times from LTC WebWatch.
 ----------
 Full description:
