@@ -347,7 +347,7 @@
 413,'413','Clarke & Royal Cr N Leg',42.996934,-81.172318
 414,'414','Clarke & Royal Cr - N Leg',42.997734,-81.172518
 416,'416','Clarke & Sudbury',42.994076,-81.17083
-417,'417','Clarke & Tragalgar',42.993016,-81.170087
+417,'417','Clarke & Trafalgar',42.993016,-81.170087
 418,'418','Clarke & Trafalgar',42.993134,-81.170342
 419,'419','Clarke & Trafalgar',42.990993,-81.16926
 420,'420','Clarke & Wavell',42.999051,-81.172879
@@ -655,6 +655,7 @@
 770,'770','Glenroy & Deveron Cres',42.954838,-81.194092
 776,'776','Glenroy & Glenroy Court',42.952648,-81.193173
 780,'780','Glenroy & Pond Vw Rd',42.950526,-81.192745
+783,'783','Gore & Braeside Ave',42.978433,-81.172081
 784,'784','Gore & Clarke Rd',42.980392,-81.164769
 785,'785','Gore & Firestone Blvd',42.979208,-81.169434
 788,'788','Grand & Gerrard St',42.971753,-81.242773
@@ -1162,7 +1163,7 @@
 1359,'1359','Oxford & Wharncliffe Rd',42.992133,-81.264637
 1360,'1360','Oxford & William St',42.9993,-81.240156
 1361,'1361','Oxford & William St',42.999381,-81.240321
-1362,'1362','Oxford & Wistow St',43.007612,-81.211855
+1362,'1362','Oxford & Wistow St',43.00755,-81.211851
 1363,'1363','Oxford & Wonderland Rd',42.984173,-81.29128
 1364,'1364','Oxford & Wonderland Rd',42.984031,-81.292317
 1371,'1371','Page & Vetra Memorial Pkwy',43.016019,-81.15896
@@ -2155,7 +2156,6 @@
 100427,'','Sarnia & Wonderland',42.995466,-81.298931
 101092,'','Southdale & Nixon Ave',42.942378,-81.237243
 101701,'','Gaiborough & Limberlost Rd',43.006182,-81.307312
-101718,'','Gore & Braeside Ave',42.978433,-81.172081
 102836,'','Dufferin &waterloo',42.988608,-81.243706
 102844,'','Proudfoot & Oxford',42.985155,-81.288054
 102856,'','Dundas & Wellington',42.984883,-81.245441
