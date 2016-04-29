@@ -369,6 +369,7 @@
 443,'443','Colborne & Princess Ave',42.990303,-81.241638
 445,'445','Commissioners & Adelaide',42.959153,-81.2149
 446,'446','Commissioners & Adelaide St',42.959517,-81.214417
+447,'447','Commissioners & Adelaide St',42.958643,-81.220485
 448,'448','Commissioners & Boler',42.959479,-81.331786
 449,'449','Commissioners & Deveron',42.962324,-81.194459
 450,'450','Commissioners & Deveron Fire Hal',42.962337,-81.195987
@@ -679,7 +680,6 @@
 810,'810','Griffith & Boler Rd',42.944079,-81.329386
 811,'811','Griffith & Commissioners Rd W',42.962581,-81.342749
 812,'812','Griffith & Dearborn Ave NE Leg',42.946162,-81.33628
-813,'813','Griffith & Dearborn Ave SE Leg',42.943679,-81.331522
 814,'814','Griffith & Fairlane Ave',42.949289,-81.338973
 815,'815','Griffith & Griffith Gt',42.948552,-81.33801
 816,'816','Griffith & Helena Montague Ave',42.959851,-81.34213
@@ -855,7 +855,7 @@
 1008,'1008','Huron & Highbury',43.020129,-81.215049
 1009,'1009','Huron & Highbury Ave',43.019962,-81.214864
 1010,'1010','Huron & Highbury',43.019826,-81.21617
-1011,'1011','Huron & McNay St',43.017293,-81.224076
+1011,'1011','Huron & McNay St',43.017581,-81.223094
 1012,'1012','Huron & McNay St',43.017229,-81.224919
 1013,'1013','Huron & Richmond St',43.007251,-81.258524
 1014,'1014','Huron & Richmond St',43.007234,-81.258655
@@ -935,7 +935,6 @@
 1097,'1097','Kipps & Briarhill Rd',43.022453,-81.229344
 1098,'1098','Kipps & Country Ln',43.019722,-81.238523
 1099,'1099','Kipps & Kenmore Pl',43.02175,-81.231774
-1104,'1104','UWO-Lambton Dr & Middlesex/Uni Dr N',43.007611,-81.269936
 1105,'1105','Langarth & Holborn Ave',42.964875,-81.262683
 1106,'1106','Langarth & MacKay Ave',42.964816,-81.2642
 1107,'1107','Lawson & Banting Cr (West Leg)',42.999543,-81.304563
@@ -1143,7 +1142,6 @@
 1339,'1339','Oxford & Royal York Rd',42.973813,-81.326909
 1340,'1340','Oxford & Royal York Rd',42.973802,-81.327313
 1341,'1341','Oxford & Sanatorium Rd',42.971955,-81.333339
-1342,'1342','Oxford & Sanatorium Rd',42.972164,-81.332966
 1343,'1343','Oxford & 2nd St',43.012141,-81.19586
 1344,'1344','Oxford & Fahawe College Blvd',43.012511,-81.195051
 1345,'1345','Oxford & Spittal St',43.005337,-81.219336
@@ -1701,6 +1699,7 @@
 1984,'1984','Western & Ambleside Dr',43.018039,-81.278181
 1985,'1985','Westmiter & Baseline Rd',42.964112,-81.224824
 1986,'1986','Westmiter & Baseline Rd',42.964256,-81.22495
+1988,'1988','Western & Elgin Dr',43.010811,-81.277338
 1989,'1989','Western & Elgin Dr 1',43.008253,-81.277301
 1991,'1991','Western & Essex St',42.995638,-81.267264
 1992,'1992','Western & Hollywood Cres',42.996215,-81.27057
@@ -1886,6 +1885,7 @@
 2214,'2214','Commissioners & Boler 2',42.958902,-81.330089
 2215,'2215','Commissioners & Meadowlilly Rd',42.963507,-81.18508
 2216,'2216','Commissioners & Meadowlilly Rd',42.963598,-81.186234
+2217,'2217','Commissioners & Western Counties',42.958442,-81.218679
 2218,'2218','Dufferin & Waterloo St',42.988336,-81.244135
 2219,'2219','Dundas & McCormick Blvd',42.994701,-81.211527
 2220,'2220','Emery & Ridgewood',42.964458,-81.275884
@@ -2013,6 +2013,7 @@
 2420,'2420','Alderrook & Alderrook Cres',43.015009,-81.319046
 2421,'2421','Stanton & Fahawe Pk Rd',43.010842,-81.333697
 2423,'2423','Victoria Hosp & Zone E',42.961601,-81.224164
+2426,'2426','Commissioners & Western Counties Rd',42.958514,-81.22334
 2427,'2427','Richmond & King St 3',42.983272,-81.249471
 2428,'2428','Wellington & Creston 2',42.948492,-81.227842
 2433,'2433','South Wenige & McCallum',43.044845,-81.249525
@@ -2062,7 +2063,6 @@
 2493,'2493','Hyde Pk & Sarnia',42.989005,-81.327212
 2494,'2494','Hyde Pk & Sarnia',42.989282,-81.32754
 2495,'2495','Richmond & Dufferin',42.986749,-81.250568
-2496,'2496','Richmond & King',42.982736,-81.249232
 2504,'2504','2454 Main St',42.910348,-81.29678
 2505,'2505','517 Fahawe Pk Rd',43.019831,-81.306159
 2506,'2506','Campbell @ Marrianna',42.908825,-81.290361
@@ -2107,9 +2107,6 @@
 2551,'2551','Springbank @ Wonderland',42.963376,-81.293335
 2575,'2575','Beaverbrook & Oakcrossing W Leg',42.987393,-81.311797
 2578,'2578','McMaster & Wonderland',42.943113,-81.287228
-2579,'2579','Pine Vly Blvd & Pine Vly Ln',42.940371,-81.283686
-2581,'2581','Southdale & Wonderland',42.939008,-81.282845
-2583,'2583','Wonderland & Southdale',42.939034,-81.281422
 2589,'2589','Notre Dame & Belmont',42.945862,-81.26784
 2590,'2590','Notre Dame & Norton',42.942767,-81.266955
 2591,'2591','Notre Dame & Southdale',42.940969,-81.266574
@@ -2163,6 +2160,7 @@
 102872,'','Richmond & York',42.981498,-81.248476
 102873,'','Ridout & York',42.980241,-81.252791
 103525,'','Commissioners & Highbury',42.963056,-81.188761
+103698,'','Victoria Hosp West Enterance',42.958824,-81.228335
 103702,'','Bond & Beverley',42.969386,-81.232712
 103733,'','Kain @ Oxford',42.967763,-81.355173
 103787,'','Farnham & Farnham Grv',42.942997,-81.295103
