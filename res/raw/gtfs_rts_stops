@@ -656,7 +656,6 @@
 770,'770','Glenroy & Deveron Cres',42.954838,-81.194092
 776,'776','Glenroy & Glenroy Court',42.952648,-81.193173
 780,'780','Glenroy & Pond Vw Rd',42.950526,-81.192745
-783,'783','Gore & Braeside Ave',42.978433,-81.172081
 784,'784','Gore & Clarke Rd',42.980392,-81.164769
 785,'785','Gore & Firestone Blvd',42.979208,-81.169434
 788,'788','Grand & Gerrard St',42.971753,-81.242773
@@ -664,7 +663,6 @@
 791,'791','Grand & High St 1',42.972112,-81.24004
 792,'792','Grand & High St 2',42.971894,-81.241983
 796,'796','Greenwood & Ridgewood Cres',42.969495,-81.275946
-797,'797','Greenwood & Ridgewood Cres',42.969699,-81.276237
 798,'798','Greenwood & Springbank Dr',42.971009,-81.277308
 799,'799','Greenwood & Springbank Dr',42.970942,-81.277403
 800,'800','Grenfell & Adelaide St',43.038129,-81.256174
@@ -1699,7 +1697,6 @@
 1984,'1984','Western & Ambleside Dr',43.018039,-81.278181
 1985,'1985','Westmiter & Baseline Rd',42.964112,-81.224824
 1986,'1986','Westmiter & Baseline Rd',42.964256,-81.22495
-1988,'1988','Western & Elgin Dr',43.010811,-81.277338
 1989,'1989','Western & Elgin Dr 1',43.008253,-81.277301
 1991,'1991','Western & Essex St',42.995638,-81.267264
 1992,'1992','Western & Hollywood Cres',42.996215,-81.27057
@@ -2151,8 +2148,11 @@
 100181,'','Phillbrook & Fahawe Pk Rd',43.032606,-81.263924
 100196,'','Glenora & Adelaide St',43.029123,-81.251813
 100427,'','Sarnia & Wonderland',42.995466,-81.298931
+100914,'','Oxford & Sanatorium Rd',42.972164,-81.332966
 101092,'','Southdale & Nixon Ave',42.942378,-81.237243
 101701,'','Gaiborough & Limberlost Rd',43.006182,-81.307312
+101718,'','Gore & Braeside Ave',42.978433,-81.172081
+101730,'','Greenwood & Ridgewood Cres',42.969699,-81.276237
 102836,'','Dufferin &waterloo',42.988608,-81.243706
 102844,'','Proudfoot & Oxford',42.985155,-81.288054
 102856,'','Dundas & Wellington',42.984883,-81.245441
