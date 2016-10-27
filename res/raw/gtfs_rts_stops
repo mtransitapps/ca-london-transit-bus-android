@@ -439,7 +439,9 @@
 529,'529','Dow & Ashbury Ave',42.93947,-81.205079
 531,'531','Dufferin & Colborne St',42.988828,-81.241878
 532,'532','Dufferin & Picton St',42.987954,-81.244986
+533,'533','Dufferin & Richmond St',42.986642,-81.250059
 535,'535','Dufferin & Wellington St',42.987807,-81.245999
+536,'536','Dufferin & Wellington St',42.987512,-81.246954
 537,'537','Dundas & Adelaide St',42.988586,-81.232139
 538,'538','Dundas & Adelaide St',42.988694,-81.232111
 539,'539','Dundas & Arvilla Blvd',43.006433,-81.1702
@@ -1426,7 +1428,7 @@
 1729,'1729','Springbank & Berkshire Dr 2',42.966105,-81.28766
 1730,'1730','Springbank & Berkshire Dr',42.964413,-81.291526
 1731,'1731','Springbank & Chessington Ave',42.97028,-81.279181
-1732,'1732','Springbank & Chelsea Ave',42.971026,-81.278028
+1732,'1732','Springbank & Chelsea Ave',42.971031,-81.27803
 1733,'1733','Springbank & Commissioners Rd W',42.954695,-81.3155
 1734,'1734','Springbank & Commissioners Rd W',42.954791,-81.315584
 1735,'1735','Springbank & Greeide Ave',42.973233,-81.273206
@@ -1481,6 +1483,7 @@
 1789,'1789','Trafalgar & Balfour Pl',42.989742,-81.179139
 1790,'1790','Trafalgar & Bancroft Rd',42.994791,-81.1617
 1791,'1791','Trafalgar & Clarke Rd',42.992012,-81.171074
+1792,'1792','Trafalgar & Clarke Rd',42.992585,-81.169541
 1793,'1793','Trafalgar & Clarke Rd',42.992076,-81.171269
 1794,'1794','Trafalgar & Dawn Dr',42.989922,-81.178952
 1796,'1796','Trafalgar & Hudson 1',42.99612,-81.157048
@@ -2035,6 +2038,7 @@
 2549,'2549','Doon & Muskoka Cres',43.022923,-81.260715
 2551,'2551','Springbank @ Wonderland',42.963376,-81.293335
 2575,'2575','Beaverbrook & Oakcrossing W Leg',42.987393,-81.311797
+2577,'2577','Farnham & Farnham Grv',42.942997,-81.295103
 2578,'2578','McMaster & Wonderland',42.943113,-81.287228
 2589,'2589','Notre Dame & Belmont',42.945862,-81.26784
 2590,'2590','Notre Dame & Norton',42.942767,-81.266955
@@ -2090,12 +2094,13 @@
 2648,'2648','Gore & Valleyview Apartments',42.977503,-81.175079
 2649,'2649','Grand Ave & Ridout',42.971402,-81.246306
 2650,'2650','Hale & Hamilton',42.977769,-81.191056
+2651,'2651','Hale & Magee',42.981756,-81.191144
 2652,'2652','Hamilton & Braesyde',42.974125,-81.171728
 2653,'2653','Hamilton & Clarke',42.970898,-81.158681
 2654,'2654','Hamilton & Crimson West Leg',42.971267,-81.163125
 2655,'2655','Hamilton & Crimson West Leg Eastbound',42.971194,-81.163131
 2656,'2656','Hamilton & Fairmont',42.97713,-81.189507
-2657,'2657','Hamilton & Gore',42.97065,-81.159173
+2657,'2657','Clarke & Hamilton',42.970867,-81.1586
 2658,'2658','Hamilton Opp Oaklands Tower',42.974825,-81.174103
 2659,'2659','Hamilton & River Run',42.972893,-81.167624
 2660,'2660','Hamilton & Valleyview Appartments',42.975412,-81.177125
@@ -2111,13 +2116,19 @@
 2671,'2671','Maconi & Woodview',42.986551,-81.160893
 2672,'2672','Montabello & Eldorado',42.97743,-81.178207
 2673,'2673','Montabello & Tweedsmuir',42.980081,-81.17982
+2674,'2674','Tweedsmuir & Bernadette',42.982168,-81.185297
+2675,'2675','Tweedsmuir & Fairway',42.982974,-81.190822
+2676,'2676','Tweedsmuir & Manitoulin',42.982669,-81.187178
+2677,'2677','Wexford & Admiral',42.996373,-81.164955
+2685,'2685','Hyde Pk & North Routledge Pk N Leg',43.003185,-81.334084
+2686,'2686','Hyde Pk & North Routledge Pk N Leg',43.003538,-81.334617
+2687,'2687','Hyde Pk & North Routledge Pk S Leg',43.000982,-81.333294
 100018,'','King Edward & Thompson',42.969475,-81.212779
 100069,'','Southdale & Nixon',42.942508,-81.236577
 100181,'','Phillbrook & Fahawe Pk Rd',43.032606,-81.263924
 100427,'','Sarnia & Wonderland',42.995466,-81.298931
 101092,'','Southdale & Nixon Ave',42.942378,-81.237243
 101718,'','Gore & Braeside Ave',42.978433,-81.172081
-102320,'','Trafalgar & Clarke Rd',42.992585,-81.169541
 102836,'','Dufferin &waterloo',42.988608,-81.243706
 102844,'','Proudfoot & Oxford',42.985155,-81.288054
 102856,'','Dundas & Wellington',42.984883,-81.245441
@@ -2125,7 +2136,3 @@
 102872,'','Richmond & York',42.981498,-81.248476
 102873,'','Ridout & York',42.980241,-81.252791
 103698,'','Victoria Hosp West Enterance',42.958824,-81.228335
-103787,'','Farnham & Farnham Grv',42.942997,-81.295103
-103859,'','Tweedsmuir & Bernadette',42.982687,-81.187235
-103860,'','Tweedsmuir & Manitoulin',42.982669,-81.187178
-103881,'','Wexford & Admiral',42.996373,-81.164955
