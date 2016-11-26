@@ -76,9 +76,9 @@
 9104,0,'Wonderland @ Oxford',91
 9202,0,'Masonville Pl',92
 9203,0,'Victoria Hosp',92
-10200,0,'Downtown Via Western/Wharncliffe',102
-10201,0,'Natural Science Via Western/Wharncliffe',102
-10400,0,'Fanshawe College Via Oxford / Richmond & Dundas',104
-10401,0,'Ridout & Grand Via Oxford',104
-10600,0,'Natural Science Via Richmond',106
-10601,0,'To Downtown Via Richmond',106
+10203,0,'Downtown',102
+10202,0,'Natural Science',102
+10402,0,'Fanshawe College',104
+10403,0,'Ridout & Grand',104
+10603,0,'Downtown',106
+10602,0,'Natural Science',106
