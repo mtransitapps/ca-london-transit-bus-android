@@ -16,7 +16,6 @@
 38,'38','Adelaide & Hl St',42.980363,-81.227992
 39,'39','Adelaide & Huron 1',43.012606,-81.243443
 40,'40','Adelaide & Huron St',43.011146,-81.24272
-41,'41','Adelaide & Huron St 2',43.013971,-81.244138
 42,'42','Adelaide & Huron St 3',43.015827,-81.245032
 43,'43','Adelaide & Kipps Ln',43.018099,-81.246148
 44,'44','Adelaide & Kipps Ln',43.01775,-81.24618
@@ -1643,6 +1642,7 @@
 1984,'1984','Western & Ambleside Dr',43.018039,-81.278181
 1985,'1985','Westmiter & Baseline Rd',42.964112,-81.224824
 1986,'1986','Westmiter & Baseline Rd',42.964256,-81.22495
+1988,'1988','Western & Elgin Dr',43.010811,-81.277338
 1989,'1989','Western & Elgin Dr 1',43.008253,-81.277301
 1991,'1991','Western & Essex St',42.995638,-81.267264
 1992,'1992','Western & Hollywood Cres',42.996215,-81.27057
@@ -1954,7 +1954,7 @@
 2435,'2435','Thistlewood & South Wenige',43.046989,-81.253405
 2436,'2436','Westmount Mall Stop 4',42.947502,-81.291672
 2437,'2437','Westmount Mall Stop 5',42.947277,-81.292552
-2438,'2438','Westmount Mall Stop 6',42.947374,-81.292297
+2438,'2438','Westmount Mall Stop 6',42.947352,-81.291827
 2440,'2440','Wonderland & Viscount',42.947097,-81.288741
 2447,'2447','Highbury & Rembrandt Vall (Drway)',43.033142,-81.222247
 2449,'2449','Pond Mills & Scenic Dr',42.972444,-81.209591
@@ -2091,7 +2091,7 @@
 2645,'2645','Ferndale & Vincent E Leg',42.946761,-81.243845
 2646,'2646','Gore & Braesyde',42.978112,-81.172935
 2647,'2647','Gore & Firestone',42.979066,-81.169465
-2648,'2648','Gore & Valleyview Apartments',42.977503,-81.175079
+2648,'2648','Gore & Valleyview Apartments',42.976956,-81.177237
 2649,'2649','Grand Ave & Ridout',42.971402,-81.246306
 2650,'2650','Hale & Hamilton',42.977769,-81.191056
 2651,'2651','Hale & Magee',42.981756,-81.191144
@@ -2123,6 +2123,8 @@
 2685,'2685','Hyde Pk & North Routledge Pk N Leg',43.003185,-81.334084
 2686,'2686','Hyde Pk & North Routledge Pk N Leg',43.003538,-81.334617
 2687,'2687','Hyde Pk & North Routledge Pk S Leg',43.000982,-81.333294
+2688,'2688','Springbank & Forest Hl',42.972636,-81.274765
+2689,'2689','Wellington & Harlech Gt',42.941826,-81.225455
 100018,'','King Edward & Thompson',42.969475,-81.212779
 100069,'','Southdale & Nixon',42.942508,-81.236577
 100181,'','Phillbrook & Fahawe Pk Rd',43.032606,-81.263924
@@ -2136,4 +2138,3 @@
 102872,'','Richmond & York',42.981498,-81.248476
 102873,'','Ridout & York',42.980241,-81.252791
 103698,'','Victoria Hosp West Enterance',42.958824,-81.228335
-103894,'SPRIFORH','Springbank & Forest Hl',42.972636,-81.274765
