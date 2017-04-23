@@ -633,7 +633,6 @@
 766,'766','Gardenwood & Southcrest Dr',42.964872,-81.285158
 767,'767','Gardenwood & Southcrest Dr 2',42.964982,-81.285133
 768,'768','Glasgow & Mornington Ave',43.001114,-81.221698
-769,'769','Glenora & Adelaide St',43.029123,-81.251813
 770,'770','Glenroy & Deveron Cres',42.954838,-81.194092
 776,'776','Glenroy & Glenroy Court',42.952648,-81.193173
 780,'780','Glenroy & Pond Vw Rd',42.950526,-81.192745
@@ -1759,7 +1758,6 @@
 2128,'2128','Wonderland & Southdale Rd',42.939594,-81.281397
 2129,'2129','Wonderland @ Southdale',42.937318,-81.281179
 2132,'2132','Wonderland & Springbank Dr',42.964403,-81.293102
-2133,'2133','Wonderland & Springbank Dr',42.963094,-81.293081
 2134,'2134','Wonderland & Teeple Terr',42.959046,-81.293315
 2135,'2135','Wonderland & Vlg Grn Ave',42.95074,-81.289716
 2136,'2136','Wonderland & Vlg Grn Ave',42.951463,-81.290115
@@ -1807,7 +1805,6 @@
 2190,'2190','Ambleside & Grangeover',43.016439,-81.290811
 2191,'2191','Baury & Cluney Pl',42.95803,-81.195208
 2192,'2192','Baury & Simms Ct',42.957363,-81.19883
-2193,'2193','Baseline & Fairview',42.962169,-81.22606
 2194,'2194','Base Line & Wharncliffe Rd',42.959332,-81.259828
 2195,'2195','Berkshire & Berkshire Pl',42.962777,-81.288488
 2196,'2196','Berkshire & Berkshire Pl',42.962676,-81.288377
@@ -1825,7 +1822,6 @@
 2215,'2215','Commissioners & Meadowlilly Rd',42.963507,-81.18508
 2216,'2216','Commissioners & Meadowlilly Rd',42.963598,-81.186234
 2217,'2217','Commissioners & Western Counties',42.958442,-81.218679
-2218,'2218','Dufferin & Waterloo St',42.988336,-81.244135
 2219,'2219','Dundas & McCormick Blvd',42.994701,-81.211527
 2220,'2220','Emery & Ridgewood',42.964458,-81.275884
 2223,'2223','Fahawe College Stop 2',43.010981,-81.200959
@@ -1898,7 +1894,6 @@
 2326,'2326','Bradley & Wellington Rd',42.934247,-81.224411
 2327,'2327','Bradley & Wellington St',42.934508,-81.224159
 2329,'2329','Clarke & Avalon',43.006869,-81.176986
-2330,'2330','Dundas & Talbot',42.983253,-81.251521
 2331,'2331','Fahawe College Stop 1',43.011,-81.200713
 2333,'2333','King Edward & Dieppe St',42.967584,-81.212023
 2334,'2334','King Edward & Dieppe St',42.967729,-81.212464
@@ -1908,8 +1903,6 @@
 2341,'2341','Proudfoot & Forest Hls',42.983223,-81.284753
 2342,'2342','Proudfoot & Forest Hls',42.983285,-81.28431
 2343,'2343','Gaiborough & Wonderland Rd 2 W',43.005918,-81.307592
-2349,'2349','Huron & Highbury',43.020279,-81.215671
-2350,'2350','Oxford & Hyde Pk',42.975895,-81.32002
 2352,'2352','Phillbrook & Billybrook Cres (W Leg',43.035213,-81.26481
 2384,'2384','Beaverbrook & Capulet',42.988147,-81.300551
 2385,'2385','Beaverbrook & Oakcrossing E Leg',42.986876,-81.3057
@@ -1955,7 +1948,6 @@
 2436,'2436','Westmount Mall Stop 4',42.947502,-81.291672
 2437,'2437','Westmount Mall Stop 5',42.947277,-81.292552
 2438,'2438','Westmount Mall Stop 6',42.947352,-81.291827
-2440,'2440','Wonderland & Viscount',42.947097,-81.288741
 2447,'2447','Highbury & Rembrandt Vall (Drway)',43.033142,-81.222247
 2449,'2449','Pond Mills & Scenic Dr',42.972444,-81.209591
 2452,'2452','Shelbourne Btn Burlington/Deveron E',42.96255,-81.19923
@@ -2039,7 +2031,6 @@
 2551,'2551','Springbank @ Wonderland',42.963376,-81.293335
 2575,'2575','Beaverbrook & Oakcrossing W Leg',42.987393,-81.311797
 2577,'2577','Farnham & Farnham Grv',42.942997,-81.295103
-2578,'2578','McMaster & Wonderland',42.943113,-81.287228
 2589,'2589','Notre Dame & Belmont',42.945862,-81.26784
 2590,'2590','Notre Dame & Norton',42.942767,-81.266955
 2591,'2591','Notre Dame & Southdale',42.940969,-81.266574
@@ -2125,16 +2116,10 @@
 2687,'2687','Hyde Pk & North Routledge Pk S Leg',43.000982,-81.333294
 2688,'2688','Springbank & Forest Hl',42.972636,-81.274765
 2689,'2689','Wellington & Harlech Gt',42.941826,-81.225455
-100018,'','King Edward & Thompson',42.969475,-81.212779
 100069,'','Southdale & Nixon',42.942508,-81.236577
-100181,'','Phillbrook & Fahawe Pk Rd',43.032606,-81.263924
 100427,'','Sarnia & Wonderland',42.995466,-81.298931
 101092,'','Southdale & Nixon Ave',42.942378,-81.237243
 101718,'','Gore & Braeside Ave',42.978433,-81.172081
 102836,'','Dufferin &waterloo',42.988608,-81.243706
 102844,'','Proudfoot & Oxford',42.985155,-81.288054
-102856,'','Dundas & Wellington',42.984883,-81.245441
-102868,'','Richmond & Cheapside',43.001678,-81.25635
-102872,'','Richmond & York',42.981498,-81.248476
-102873,'','Ridout & York',42.980241,-81.252791
 103698,'','Victoria Hosp West Enterance',42.958824,-81.228335
