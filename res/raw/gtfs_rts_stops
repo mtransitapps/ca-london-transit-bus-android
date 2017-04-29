@@ -195,11 +195,6 @@
 252,'252','Bessemer & Bessemer Crt 2',42.932033,-81.211985
 253,'253','Bessemer & Hargrieve',42.929243,-81.212852
 255,'255','Blackwater & Adelaide St',43.043968,-81.258899
-256,'256','Blackwater & Adelaide St',43.043725,-81.259796
-257,'257','Blackwater & Garibaldi Ave',43.043226,-81.261392
-258,'258','Blackwater & Garibaldi Ave',43.043673,-81.26047
-259,'259','Blackwater & Garibaldi Ave',43.044379,-81.265007
-260,'260','Blackwater & Sunningdale Rd',43.04445,-81.26522
 261,'261','Blackacres & Edgehill Rd',43.011954,-81.311945
 262,'262','Blackacres & Edgehill Rd S Leg',43.012332,-81.31207
 263,'263','Blackacres & Edgehill Cres N Leg',43.012802,-81.315024
@@ -343,7 +338,6 @@
 419,'419','Clarke & Trafalgar',42.990993,-81.16926
 420,'420','Clarke & Wavell',42.999051,-81.172879
 421,'421','Clarke & Wavell',42.998256,-81.172885
-422,'422','Clarke & Whitney',43.002684,-81.174727
 423,'423','Clarke & Whitney',43.003587,-81.175186
 424,'424','Classic & Classic Dr E-W',42.977793,-81.164979
 425,'425','Classic & Whitlow Crt',42.979254,-81.166296
@@ -478,6 +472,7 @@
 572,'572','Dundas & Hale St',42.998415,-81.19858
 573,'573','Dundas & Hale St',42.998058,-81.199337
 574,'574','Dundas & Hale St',42.997855,-81.200533
+575,'575','Dundalk & Harcroft Cres (N Leg)',42.946155,-81.243894
 576,'576','Dundas & Hewitt St',42.990129,-81.226942
 577,'577','Dundas & Highbury',42.996596,-81.204339
 578,'578','Dundas & Highbury Ave',42.996795,-81.20435
@@ -845,7 +840,6 @@
 1027,'1027','Hyde Pk & Fiddlers Grn Rd',42.971742,-81.317032
 1028,'1028','Hyde Pk & Ivanhill Rd',42.981119,-81.323053
 1029,'1029','Hyde Pk & Oxford St',42.97504,-81.320034
-1030,'1030','Hyde Pk & Oxford St',42.975361,-81.320346
 1031,'1031','Hyde Pk & Riverside Dr',42.965014,-81.315052
 1032,'1032','Hyde Pk & Valetta St',42.96904,-81.316032
 1034,'1034','Industrial & Oxford St',43.02051,-81.164333
@@ -907,7 +901,6 @@
 1097,'1097','Kipps & Briarhill Rd',43.022453,-81.229344
 1098,'1098','Kipps & Country Ln',43.019722,-81.238523
 1099,'1099','Kipps & Kenmore Pl',43.02175,-81.231774
-1104,'1104','UWO-Lambton Dr & Middlesex/Uni Dr N',43.007611,-81.269936
 1105,'1105','Langarth & Holborn Ave',42.964875,-81.262683
 1106,'1106','Langarth & MacKay Ave',42.964816,-81.2642
 1107,'1107','Lawson & Banting Cr (West Leg)',42.999543,-81.304563
@@ -1079,11 +1072,9 @@
 1305,'1305','Oxford & Guildwood Blvd',42.980049,-81.305883
 1306,'1306','Oxford & Guildwood Gt',42.977515,-81.314731
 1307,'1307','Oxford & Highbury Ave',43.007889,-81.210425
-1308,'1308','Oxford & Highbury Ave',43.008198,-81.209901
 1309,'1309','Oxford & Highbury Ave',43.008538,-81.208231
 1310,'1310','Oxford & Highbury Ave',43.008983,-81.2073
 1311,'1311','Oxford & Hyde Pk Rd',42.975591,-81.320655
-1312,'1312','Oxford & Hyde Pk Rd',42.975275,-81.322369
 1313,'1313','Oxford & Industrial Rd',43.021161,-81.164167
 1314,'1314','Oxford & Industrial Rd',43.020498,-81.166915
 1315,'1315','Oxford & Industrial Rd',43.020401,-81.16688
@@ -1421,7 +1412,7 @@
 1724,'1724','South Wenige & Marigold St',43.046064,-81.251868
 1725,'1725','South Wenige & Savannah Dr',43.051188,-81.243668
 1726,'1726','South Wenige & Savannah & Nicole',43.048447,-81.243185
-1727,'1727','South Wenige & Sunningdale Rd',43.048582,-81.253065
+1727,'1727','South Wenige & Sunningdale Rd',43.048287,-81.25293
 1728,'1728','Springbank & Berkshire Dr 1',42.964565,-81.290752
 1729,'1729','Springbank & Berkshire Dr 2',42.966105,-81.28766
 1730,'1730','Springbank & Berkshire Dr',42.964413,-81.291526
@@ -1465,8 +1456,6 @@
 1771,'1771','3rd & Oxford',43.013179,-81.19059
 1772,'1772','3rd & Oxford 1',43.011824,-81.190053
 1773,'1773','Thistlewood & Blackwater',43.044314,-81.25747
-1774,'1774','Thistlewood & Blackwater',43.044274,-81.257697
-1775,'1775','Thistlewood & South Wenige Dr',43.047255,-81.252849
 1776,'1776','Thompson & Adelaide St',42.968377,-81.221932
 1777,'1777','Thompson & Adelaide St',42.968275,-81.223112
 1779,'1779','Thompson & Chesterfield Ave',42.969255,-81.216183
@@ -1824,8 +1813,6 @@
 2217,'2217','Commissioners & Western Counties',42.958442,-81.218679
 2219,'2219','Dundas & McCormick Blvd',42.994701,-81.211527
 2220,'2220','Emery & Ridgewood',42.964458,-81.275884
-2223,'2223','Fahawe College Stop 2',43.010981,-81.200959
-2224,'2224','Fahawe College Stop 3',43.011058,-81.20068
 2225,'2225','Fahawe College Stop 4',43.013262,-81.199206
 2226,'2226','Fahawe College Stop 5',43.011165,-81.199804
 2228,'2228','Fahawe College Blvd & Cheapside N',43.016753,-81.201572
@@ -1848,9 +1835,7 @@
 2251,'2251','Mornington & 590 Mornington',43.00473,-81.211838
 2252,'2252','Mornington & Connaught Ave',43.002639,-81.213763
 2257,'2257','Oxford & Clarke Rd 3',43.016714,-81.180353
-2258,'2258','Oxford & Highbury',43.008251,-81.209422
 2259,'2259','Pinnacle Pkwy & Fahawe Pk Rd',43.021158,-81.299333
-2260,'2260','Pond Mills & Thompson',42.972808,-81.21007
 2262,'2262','Pond Mills & Bradley Ave 2',42.937239,-81.191571
 2264,'2264','Pond Mills & Deveron Cres S Leg',42.955404,-81.198939
 2267,'2267','Railton & Daybreak Dr',42.996427,-81.153485
@@ -1880,7 +1865,6 @@
 2306,'2306','Huron & Briarhill Rd 1',43.016243,-81.227928
 2307,'2307','Adelaide & Huron',43.011805,-81.243115
 2309,'2309','Bluell & Sunningdale Rd',43.042783,-81.273013
-2311,'2311','Commissioner & Highbury',42.963263,-81.18815
 2312,'2312','Commissioners & Wharnclif',42.956949,-81.260082
 2313,'2313','Culver & Culver Court',43.009832,-81.184816
 2314,'2314','Dundas & Vetra Memorial Pkwy E',43.009974,-81.156251
@@ -1918,7 +1902,6 @@
 2397,'2397','Hyde Pk & Gaiborough',42.999555,-81.332379
 2398,'2398','Hyde Pk & Gaiborough',42.999298,-81.33237
 2399,'2399','Hyde Pk & Ivanhill RD',42.980882,-81.323069
-2400,'2400','Hyde Pk & Oxford',42.976599,-81.320755
 2401,'2401','Hyde Pk & Prince Phillip',42.983037,-81.324041
 2402,'2402','Hyde Pk & Royal York',42.978095,-81.321505
 2403,'2403','Hyde Pk & Royal York',42.977781,-81.321509
@@ -1988,7 +1971,7 @@
 2502,'2502','Bond & Beverley',42.969386,-81.232712
 2504,'2504','2454 Main St',42.910348,-81.29678
 2505,'2505','517 Fahawe Pk Rd',43.019831,-81.306159
-2506,'2506','Campbell @ Marrianna',42.908825,-81.290361
+2506,'2506','Campbell @ Marianna',42.908825,-81.290361
 2507,'2507','Campbell @ Sunray',42.906921,-81.289498
 2508,'2508','Col Talbot @ Broadway',42.907747,-81.299135
 2509,'2509','Col Talbot @ Southland',42.903403,-81.297191
@@ -2083,15 +2066,14 @@
 2646,'2646','Gore & Braesyde',42.978112,-81.172935
 2647,'2647','Gore & Firestone',42.979066,-81.169465
 2648,'2648','Gore & Valleyview Apartments',42.976956,-81.177237
-2649,'2649','Grand Ave & Ridout',42.971402,-81.246306
 2650,'2650','Hale & Hamilton',42.977769,-81.191056
 2651,'2651','Hale & Magee',42.981756,-81.191144
 2652,'2652','Hamilton & Braesyde',42.974125,-81.171728
-2653,'2653','Hamilton & Clarke',42.970898,-81.158681
+2653,'2653','Clarke & Hamilton',42.970898,-81.158681
 2654,'2654','Hamilton & Crimson West Leg',42.971267,-81.163125
 2655,'2655','Hamilton & Crimson West Leg Eastbound',42.971194,-81.163131
 2656,'2656','Hamilton & Fairmont',42.97713,-81.189507
-2657,'2657','Clarke & Hamilton',42.970867,-81.1586
+2657,'2657','Hamilton & Clarke',42.97066,-81.159213
 2658,'2658','Hamilton Opp Oaklands Tower',42.974825,-81.174103
 2659,'2659','Hamilton & River Run',42.972893,-81.167624
 2660,'2660','Hamilton & Valleyview Appartments',42.975412,-81.177125
@@ -2107,7 +2089,7 @@
 2671,'2671','Maconi & Woodview',42.986551,-81.160893
 2672,'2672','Montabello & Eldorado',42.977398,-81.178169
 2673,'2673','Montabello & Tweedsmuir',42.980081,-81.17982
-2674,'2674','Tweedsmuir & Bernadette',42.982168,-81.185297
+2674,'2674','Tweedsmuir & Court Ln W Leg',42.982168,-81.185297
 2675,'2675','Tweedsmuir & Fairway',42.982974,-81.190822
 2676,'2676','Tweedsmuir & Manitoulin',42.982669,-81.187178
 2677,'2677','Wexford & Admiral',42.996373,-81.164955
@@ -2116,10 +2098,16 @@
 2687,'2687','Hyde Pk & North Routledge Pk S Leg',43.000982,-81.333294
 2688,'2688','Springbank & Forest Hl',42.972636,-81.274765
 2689,'2689','Wellington & Harlech Gt',42.941826,-81.225455
+2690,'2690','Adelaide & Dufferin',42.991425,-81.232891
+2693,'2693','Adelaide & Blackwater',43.044659,-81.259913
+2697,'2697','Sunningdale & Adelaide',43.046477,-81.26173
+2698,'2698','Sunningdale & Adelaide',43.046612,-81.261006
+2699,'2699','Sunningdale & Blackwater',43.045234,-81.26551
+2700,'2700','Sunningdale & YMCA',43.047611,-81.257938
+2701,'2701','Beaverbrook & Whetherfield',42.987011,-81.304547
+2702,'2702','Westmiter & Thompson Rd',42.967767,-81.224865
 100069,'','Southdale & Nixon',42.942508,-81.236577
-100427,'','Sarnia & Wonderland',42.995466,-81.298931
 101092,'','Southdale & Nixon Ave',42.942378,-81.237243
 101718,'','Gore & Braeside Ave',42.978433,-81.172081
 102836,'','Dufferin &waterloo',42.988608,-81.243706
-102844,'','Proudfoot & Oxford',42.985155,-81.288054
 103698,'','Victoria Hosp West Enterance',42.958824,-81.228335
