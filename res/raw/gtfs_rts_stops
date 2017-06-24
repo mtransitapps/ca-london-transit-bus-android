@@ -240,7 +240,6 @@
 307,'307','Brydges & Highbury Ave 2',42.989796,-81.197944
 308,'308','Brydges & Highbury Ave',42.989103,-81.199763
 309,'309','Brydges & Highbury Ave 1',42.989035,-81.19957
-311,'311','Burlington & Burlington Cr',42.963125,-81.205811
 312,'312','Burlington & Cairn St',42.963624,-81.203471
 313,'313','Burlington & Pond Mills Rd',42.963336,-81.201285
 314,'314','Byron Baseline & Belvedere',42.952538,-81.33747
@@ -373,7 +372,6 @@
 464,'464','Commissioners & Leathorne',42.959597,-81.212585
 465,'465','Commissioners & Leathorne',42.95983,-81.212451
 466,'466','Commissioners & Lynden Cr',42.95806,-81.326845
-467,'467','Commissioners & Lynden Cr 1',42.957508,-81.324433
 468,'468','Commissioners & Lynden Cr 2',42.958091,-81.326569
 469,'469','Commissioners & McGregor',42.956894,-81.261913
 470,'470','Commissioners & Nashua Ave',42.95727,-81.324072
@@ -595,7 +593,6 @@
 715,'715','Farnham & Barclay Rd',42.94127,-81.296345
 716,'716','Farnham & Farnham Crt',42.939333,-81.295225
 717,'717','Farrah & Proudfoot Ln',42.986899,-81.289859
-718,'718','Farrah & Wonderland Rd',42.985862,-81.292677
 730,'730','Firestone & Classic',42.978869,-81.16829
 733,'733','Florence & Ashland Ave',42.992132,-81.20756
 734,'734','Florence & Ashland Ave',42.992391,-81.207153
@@ -810,7 +807,6 @@
 993,'993','Hudson & Trafalgar St',42.995616,-81.15591
 995,'995','Huron & Adelaide St',43.011463,-81.24411
 996,'996','Huron & Adelaide St 2',43.012128,-81.242232
-997,'997','Huron & Adelaide St',43.011491,-81.244316
 998,'998','Huron & Adelaide St 1',43.012632,-81.240522
 999,'999','Huron & Barker',43.01518,-81.232182
 1002,'1002','Huron & Briarhill Rd 2',43.016689,-81.22618
@@ -1377,7 +1373,6 @@
 1688,'1688','Southdale & Millbank Dr E Leg',42.944983,-81.209328
 1689,'1689','Southdale & Millbank Dr W Leg',42.944622,-81.212057
 1690,'1690','Southdale & Millbank Dr W Leg',42.944705,-81.212499
-1691,'1691','Southdale & Ernest',42.942535,-81.236357
 1692,'1692','Southdale & Nixon Ave 1',42.942523,-81.237558
 1693,'1693','Southdale & Nixon Ave 2',42.94239,-81.239148
 1694,'1694','Southdale & Notre Dame Dr',42.940031,-81.266737
@@ -1400,7 +1395,6 @@
 1712,'1712','Southdale & Willow Dr',42.943993,-81.220942
 1713,'1713','Southdale & Wonderland Rd',42.939118,-81.279296
 1714,'1714','Southdale & Wonderland Rd',42.939343,-81.278838
-1715,'1715','Sovereign & Admiral',43.003841,-81.147348
 1716,'1716','Sovereign & Belleisle Crt',43.002839,-81.146751
 1717,'1717','Sovereign & Belleisle Crt',43.002321,-81.146558
 1718,'1718','Sovereign & Neptune 1',42.996341,-81.143305
@@ -1761,7 +1755,6 @@
 2146,'2146','Woodward & Tozer Ave',42.984804,-81.269627
 2148,'2148','Wychwood & Leyton Cres 2',43.001489,-81.291671
 2149,'2149','Wychwood & Leyton Cres',43.001191,-81.291636
-2150,'2150','Wychwood & Leyton Cres 1',43.000259,-81.291056
 2151,'2151','Wychwood & Sleightholme Ave',42.999405,-81.289132
 2152,'2152','Wychwood & Sleightholme Ave',42.99956,-81.288807
 2154,'2154','York & Adelaide St',42.986345,-81.230015
@@ -1839,7 +1832,6 @@
 2262,'2262','Pond Mills & Bradley Ave 2',42.937239,-81.191571
 2264,'2264','Pond Mills & Deveron Cres S Leg',42.955404,-81.198939
 2267,'2267','Railton & Daybreak Dr',42.996427,-81.153485
-2271,'2271','Ridgewod & Auburn',42.96733,-81.282037
 2272,'2272','Ridgewood & Kernohan Pkwy',42.967875,-81.280991
 2273,'2273','Sandford & Huron',43.021789,-81.204157
 2276,'2276','South St Hosp',42.976705,-81.235546
@@ -1878,7 +1870,6 @@
 2326,'2326','Bradley & Wellington Rd',42.934247,-81.224411
 2327,'2327','Bradley & Wellington St',42.934508,-81.224159
 2329,'2329','Clarke & Avalon',43.006869,-81.176986
-2331,'2331','Fahawe College Stop 1',43.011,-81.200713
 2333,'2333','King Edward & Dieppe St',42.967584,-81.212023
 2334,'2334','King Edward & Dieppe St',42.967729,-81.212464
 2335,'2335','Neold & Bradley',42.936267,-81.201488
@@ -2093,6 +2084,8 @@
 2675,'2675','Tweedsmuir & Fairway',42.982974,-81.190822
 2676,'2676','Tweedsmuir & Manitoulin',42.982669,-81.187178
 2677,'2677','Wexford & Admiral',42.996373,-81.164955
+2678,'2678','Fahawe Coervation Area',43.048051,-81.181646
+2682,'2682','Pioneer Vlg',43.054082,-81.181971
 2685,'2685','Hyde Pk & North Routledge Pk N Leg',43.003185,-81.334084
 2686,'2686','Hyde Pk & North Routledge Pk N Leg',43.003538,-81.334617
 2687,'2687','Hyde Pk & North Routledge Pk S Leg',43.000982,-81.333294
@@ -2106,7 +2099,6 @@
 2700,'2700','Sunningdale & YMCA',43.047611,-81.257938
 2701,'2701','Beaverbrook & Whetherfield',42.987011,-81.304547
 2702,'2702','Westmiter & Thompson Rd',42.967767,-81.224865
-100069,'','Southdale & Nixon',42.942508,-81.236577
 101092,'','Southdale & Nixon Ave',42.942378,-81.237243
 101718,'','Gore & Braeside Ave',42.978433,-81.172081
 102836,'','Dufferin &waterloo',42.988608,-81.243706
