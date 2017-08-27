@@ -116,7 +116,6 @@
 163,'163','Andover & Viscount',42.948172,-81.275288
 164,'164','Andover & Viscount',42.948217,-81.275205
 165,'165','Andover & Widmore',42.949414,-81.275703
-166,'166','Argyle Mall W Side',43.002898,-81.173514
 167,'167','Argyle Mall E Side',43.003052,-81.173675
 168,'168','Ashbury & Millbank',42.937301,-81.202254
 169,'169','Ashbury & Millbank',42.937358,-81.202382
@@ -292,8 +291,8 @@
 368,'368','Cheapside & William',43.005516,-81.24244
 369,'369','Cheapside & William',43.005588,-81.242502
 371,'371','Cherryhill & Cherryhill Blvd',42.99116,-81.277868
-372,'372','Cherryhill & Cherrhill Cir',42.991687,-81.276465
-373,'373','Cherryhill & Cherryhill Cir 2',42.991334,-81.277047
+372,'372','Cherryhill & Cherrhill Cir',42.991334,-81.277047
+373,'373','Cherryhill & Cherryhill Cir 2',42.991687,-81.276465
 374,'374','Cherryhill & Cherrhill Cir',42.99177,-81.275942
 375,'375','Cherryhill & Cherryhill Cir 1',42.991975,-81.275413
 376,'376','Cherryhill & Cherryhill Pl',42.990272,-81.277785
@@ -337,9 +336,8 @@
 419,'419','Clarke & Trafalgar',42.990993,-81.16926
 420,'420','Clarke & Wavell',42.999051,-81.172879
 421,'421','Clarke & Wavell',42.998256,-81.172885
+422,'422','Clarke & Whitney',43.002684,-81.174727
 423,'423','Clarke & Whitney',43.003587,-81.175186
-424,'424','Classic & Classic Dr E-W',42.977793,-81.164979
-425,'425','Classic & Whitlow Crt',42.979254,-81.166296
 432,'432','Colborne & Central Ave',42.992777,-81.242853
 433,'433','Colborne & Central Ave',42.992253,-81.242789
 434,'434','Colborne & Dufferin Ave',42.989251,-81.241198
@@ -407,8 +405,6 @@
 504,'504','Dalhousie & McMaster 2',42.942093,-81.288592
 505,'505','Dearness & Bradley Ave',42.935217,-81.220893
 506,'506','Dearness & Dunelm Ln',42.937012,-81.221301
-507,'507','Dearness & Dunelm Ln',42.936711,-81.221339
-508,'508','Dearness & Willow Ln',42.938281,-81.22172
 509,'509','UWO-Perth Dr & Middlesex Dr',43.008569,-81.269757
 510,'510','UWO-Perth Dr & Middlesex Dr',43.008818,-81.26958
 511,'511','Deveron & Baury Cres N Leg',42.960526,-81.194348
@@ -593,7 +589,6 @@
 715,'715','Farnham & Barclay Rd',42.94127,-81.296345
 716,'716','Farnham & Farnham Crt',42.939333,-81.295225
 717,'717','Farrah & Proudfoot Ln',42.986899,-81.289859
-730,'730','Firestone & Classic',42.978869,-81.16829
 733,'733','Florence & Ashland Ave',42.992132,-81.20756
 734,'734','Florence & Ashland Ave',42.992391,-81.207153
 736,'736','Florence & Egerton St',42.989745,-81.21583
@@ -638,7 +633,6 @@
 799,'799','Greenwood & Springbank Dr',42.970942,-81.277403
 800,'800','Grenfell & Adelaide St',43.038129,-81.256174
 801,'801','Grenfell & Grenfell Cr',43.03882,-81.251795
-802,'802','Grenfell & Imperial Rd',43.04166,-81.247676
 803,'803','Grenfell & Midale',43.040496,-81.248311
 804,'804','Grey & Colborne St',42.979241,-81.236529
 805,'805','Grey & Waterloo St',42.978687,-81.238647
@@ -750,8 +744,6 @@
 921,'921','Highbury & Magee St',42.979895,-81.195647
 922,'922','Highbury & Oxford St',43.007636,-81.20895
 923,'923','Highbury & Oxford 2',43.005934,-81.208378
-924,'924','Highbury & Oxford St',43.009316,-81.209776
-925,'925','Highbury & Oxford St 1',43.007703,-81.209314
 926,'926','Highbury & Trafalgar St',42.983542,-81.197502
 927,'927','Highbury & Trafalgar St',42.983478,-81.197678
 928,'928','Highbury & Wilton Ave',42.990666,-81.200884
@@ -778,8 +770,6 @@
 949,'949','Highview & Wharncliffe Rd 1',42.953793,-81.259268
 950,'950','Highview & Wharncliffe Rd 1',42.954023,-81.256969
 951,'951','Highview & Wharncliffe Rd 2',42.953883,-81.258879
-954,'954','Holiday & Exeter Rd',42.926412,-81.218862
-955,'955','Holiday & Greenfield Dr',42.928343,-81.219316
 961,'961','Horton & Burwell St',42.981974,-81.236173
 962,'962','Horton & Burwell St',42.982177,-81.235826
 966,'966','Horton & Hamilton Rd',42.982727,-81.233841
@@ -807,6 +797,7 @@
 993,'993','Hudson & Trafalgar St',42.995616,-81.15591
 995,'995','Huron & Adelaide St',43.011463,-81.24411
 996,'996','Huron & Adelaide St 2',43.012128,-81.242232
+997,'997','Huron & Adelaide St',43.011491,-81.244316
 998,'998','Huron & Adelaide St 1',43.012632,-81.240522
 999,'999','Huron & Barker',43.01518,-81.232182
 1002,'1002','Huron & Briarhill Rd 2',43.016689,-81.22618
@@ -873,8 +864,6 @@
 1067,'1067','Jalna & Poplar Cres E Leg',42.941114,-81.231727
 1071,'1071','Jalna & Southdale Rd',42.941258,-81.243625
 1072,'1072','Jalna & Tumbleweed Cres',42.938776,-81.229523
-1075,'1075','Killarney & Carmen Cr E Leg',43.038789,-81.227961
-1076,'1076','Killarney & Killarney Crt',43.039486,-81.226249
 1077,'1077','King Edward & Burlington Cres',42.962132,-81.20638
 1078,'1078','King Edward & Chippendale Cr S Leg',42.964116,-81.208154
 1079,'1079','King Edward & Chippendale Cr N Leg',42.964385,-81.20833
@@ -883,7 +872,6 @@
 1083,'1083','King Edward & Echo Pl',42.966097,-81.209213
 1084,'1084','Kingsway & Oakridge Dr',42.977778,-81.294035
 1085,'1085','Kingsway & Oakridge',42.977689,-81.294624
-1086,'1086','King & Richmond',42.982536,-81.248652
 1087,'1087','King Edward & Scenic Dr',42.967366,-81.210686
 1088,'1088','King Edward & Scenic Dr',42.967282,-81.210728
 1089,'1089','King Edward & Thompson Rd',42.969234,-81.212795
@@ -897,6 +885,7 @@
 1097,'1097','Kipps & Briarhill Rd',43.022453,-81.229344
 1098,'1098','Kipps & Country Ln',43.019722,-81.238523
 1099,'1099','Kipps & Kenmore Pl',43.02175,-81.231774
+1104,'1104','UWO-Lambton Dr & Middlesex/Uni Dr',43.007611,-81.269936
 1105,'1105','Langarth & Holborn Ave',42.964875,-81.262683
 1106,'1106','Langarth & MacKay Ave',42.964816,-81.2642
 1107,'1107','Lawson & Banting Cr (West Leg)',42.999543,-81.304563
@@ -930,8 +919,6 @@
 1143,'1143','Masonville Terminal & Stop #4',43.025883,-81.28161
 1144,'1144','Masonville Terminal & Stop #5',43.025452,-81.281354
 1145,'1145','Masonville Terminal & Stop #6',43.025437,-81.281381
-1147,'1147','McLean & Fahawe Pk Rd',43.041269,-81.231945
-1148,'1148','McLean & Gleurnie Cr',43.039769,-81.231334
 1153,'1153','McMaster & Wonderland Rd',42.94277,-81.287626
 1155,'1155','McNay & Cheapside St',43.011816,-81.221157
 1156,'1156','McNay & Huron St',43.016992,-81.223656
@@ -959,7 +946,6 @@
 1181,'1181','Millbank & Dudley Cres (N Leg)',42.94404,-81.20437
 1182,'1182','Millbank & Dudley Cres (N Leg)',42.944011,-81.204454
 1183,'1183','Millbank & Ury Cres (S Leg)',42.946075,-81.211972
-1184,'1184','Millbank & Ury Cres (N Leg)',42.9487,-81.211287
 1185,'1185','Millbank & Harrow Crt',42.945846,-81.204681
 1186,'1186','Millbank & Parliament Cr E Leg',42.952091,-81.20796
 1187,'1187','Millbank & Parliament Cr E Leg',42.952118,-81.20764
@@ -1011,13 +997,8 @@
 1245,'1245','Oakville & Huron St',43.027589,-81.192298
 1246,'1246','Oakville & Tilipe Rd',43.028653,-81.193699
 1249,'1249','Osgoode & Adelaide St',42.937583,-81.208226
-1250,'1250','Osgoode & Adelaide St',42.938285,-81.209233
 1251,'1251','Osgoode & Breckenridge Cr W Leg',42.937553,-81.217407
-1252,'1252','Osgoode & Breckenridge Cr W Leg',42.93763,-81.217447
-1253,'1253','Osgoode & Fitzroy Pl',42.937771,-81.214978
 1254,'1254','Osgoode & Kiurn Cres',42.937955,-81.213015
-1255,'1255','Osgoode & Kiurn Cres E Leg',42.939015,-81.21095
-1256,'1256','Osgoode & Kiurn Cres W Leg',42.938117,-81.212643
 1257,'1257','Osgoode & Metcalfe Cr E Leg',42.937637,-81.215597
 1258,'1258','Osgoode & Woodrow Cr N Leg',42.938591,-81.206426
 1259,'1259','Osgoode & Woodrow Cr N Leg',42.938269,-81.206641
@@ -1068,6 +1049,7 @@
 1305,'1305','Oxford & Guildwood Blvd',42.980049,-81.305883
 1306,'1306','Oxford & Guildwood Gt',42.977515,-81.314731
 1307,'1307','Oxford & Highbury Ave',43.007889,-81.210425
+1308,'1308','Oxford & Highbury Ave',43.008198,-81.209901
 1309,'1309','Oxford & Highbury Ave',43.008538,-81.208231
 1310,'1310','Oxford & Highbury Ave',43.008983,-81.2073
 1311,'1311','Oxford & Hyde Pk Rd',42.975591,-81.320655
@@ -1127,7 +1109,6 @@
 1376,'1376','Parkwood Hosp & Western Counties Rd',42.956614,-81.22348
 1378,'1378','UWO-Perth Dr & Windermere Rd',43.01492,-81.274939
 1379,'1379','UWO-Perth Dr & Windermere Rd',43.014975,-81.275094
-1380,'1380','Phillbrook & Adelaide St',43.037889,-81.257562
 1381,'1381','Phillbrook & Donnybrook',43.033565,-81.264817
 1383,'1383','Phillbrook & Phillbrook Cr (W Leg)',43.037281,-81.263101
 1385,'1385','Phillbrook & Silverbrook Dr',43.038474,-81.258745
@@ -1287,8 +1268,6 @@
 1568,'1568','Riverside & Braemar Cres',42.977418,-81.286814
 1569,'1569','Riverside & Britannia Ave',42.982751,-81.271188
 1570,'1570','Riverside & Cavendish Cres',42.982955,-81.26652
-1571,'1571','River Run & Classic Dr',42.976107,-81.166887
-1572,'1572','River Run & Danielle Cr',42.974608,-81.166937
 1581,'1581','Riverside & Hartson Rd E Leg',42.962934,-81.318488
 1582,'1582','Riverside & Hartson Rd E Leg',42.96313,-81.318102
 1583,'1583','Riverside & Hartson Rd W Leg',42.962989,-81.326031
@@ -1384,7 +1363,6 @@
 1701,'1701','Southdale & Verulam St',42.943186,-81.230062
 1702,'1702','South & Waterloo St',42.976051,-81.23789
 1703,'1703','Southdale & Wellington Rd 2',42.94359,-81.224377
-1704,'1704','Southdale & Wellington',42.943796,-81.224327
 1705,'1705','South & Wellington St 1',42.975453,-81.24009
 1706,'1706','Southdale & Wharncliffe Rd',42.940606,-81.258723
 1707,'1707','Southdale & Wharncliffe Rd',42.940725,-81.259235
@@ -1567,13 +1545,9 @@
 1923,'1923','Wellington & Baseline Rd',42.961193,-81.230777
 1924,'1924','Wellington & Baseline Rd',42.961977,-81.231306
 1925,'1925','Wellington & Bond St',42.968858,-81.234644
-1926,'1926','Wellington & Bradley Ave',42.935402,-81.223744
 1927,'1927','Wellington & Bradley Ave',42.933922,-81.223468
-1928,'1928','Wellington & Bradley Ave',42.933728,-81.223039
 1929,'1929','Wellington & Chester St',42.96436,-81.231661
 1930,'1930','Wellington & Colgrove Pl',42.970156,-81.236499
-1931,'1931','Wellington & Commissioners Rd',42.958872,-81.230199
-1932,'1932','Wellington & Commissioners Rd',42.959478,-81.230688
 1933,'1933','Wellington & Commissioners Rd',42.957854,-81.230256
 1934,'1934','Wellington & Creston Ave 1',42.946286,-81.227132
 1935,'1935','Wellington & Dearness Dr',42.929847,-81.219712
@@ -1585,16 +1559,11 @@
 1941,'1941','Wellington & Exeter Rd',42.927087,-81.2183
 1942,'1942','Wellington & Grand Ave',42.972393,-81.238086
 1943,'1943','Wellington & Grand Ave',42.972119,-81.23806
-1944,'1944','Wellington & Grey St',42.977663,-81.241503
 1945,'1945','Wellington & Grey St',42.977378,-81.241642
-1946,'1946','Wellington & Hl St',42.976886,-81.241115
 1947,'1947','Wellington & Horton St',42.98049,-81.242866
 1948,'1948','Wellington & Horton St',42.979808,-81.242895
 1949,'1949','Wellington & Horton St',42.97997,-81.242623
 1950,'1950','Wellington & McClary Ave',42.970589,-81.236686
-1952,'1952','Wellington & Montgomery Gt',42.939082,-81.224643
-1953,'1953','Wellington & Montgomery Gt',42.936868,-81.224381
-1954,'1954','Wellington & Montgomery Gt',42.939705,-81.225036
 1955,'1955','Wellington & Moore St',42.966644,-81.232367
 1956,'1956','Wellington & Nadine/Creston 1',42.94844,-81.228036
 1957,'1957','Wellington & Nadine/Creston 2',42.946946,-81.227657
@@ -1602,20 +1571,15 @@
 1959,'1959','Wellington & Quee Ave',42.986076,-81.245798
 1960,'1960','Wellington & Quee Ave',42.985598,-81.245841
 1961,'1961','Wellington & Raywood Ave',42.968293,-81.233614
-1962,'1962','Wellington & Rowntree Ave',42.962818,-81.231229
 1963,'1963','Wellington & Southdale Rd',42.942563,-81.225428
 1964,'1964','Wellington & Southdale Rd',42.944319,-81.226408
 1965,'1965','Wellington & Southdale Rd',42.944743,-81.22623
 1966,'1966','Wellington & Simcoe St',42.978868,-81.242108
 1967,'1967','Wellington & Simcoe St',42.979097,-81.242541
-1968,'1968','Wellington & South St',42.975691,-81.240519
 1969,'1969','Wellington & South St',42.975173,-81.240561
 1970,'1970','Wellington & Thomas Janes Dr',42.965569,-81.232118
-1971,'1971','Wellington & Waterman Ave',42.956452,-81.229685
-1972,'1972','Wellington & Waterman Ave',42.956188,-81.229893
 1974,'1974','Wellington & Wellington Cres',42.968432,-81.234085
 1975,'1975','Wellington & Wilki St',42.951107,-81.228451
-1976,'1976','Wellington & Wilki St',42.953,-81.22913
 1977,'1977','Wellington & Wilki St',42.952993,-81.228905
 1978,'1978','Wellington & Wilki St',42.951023,-81.228688
 1979,'1979','Wellington & York St',42.982917,-81.244106
@@ -1685,15 +1649,13 @@
 2055,'2055','Wharncliffe & Tecumseh Ave',42.96766,-81.261717
 2056,'2056','Wharncliffe & Westdale Ave',42.944526,-81.257707
 2057,'2057','Wharncliffe & Wyatt St',42.982171,-81.26279
-2061,'2061','White Oaks Mall & Stop #2',42.931367,-81.222852
-2062,'2062','White Oaks Mall & Stop #3',42.931711,-81.222616
-2063,'2063','White Oaks Mall & Stop #5',42.932271,-81.22336
-2064,'2064','White Oaks Mall & Stop #6',42.932206,-81.223268
+2060,'2060','White Oaks Mall Stop #1',42.93137,-81.222855
+2061,'2061','White Oaks Mall Stop #2',42.931714,-81.222633
+2062,'2062','White Oaks Mall Stop #3',42.932154,-81.22323
 2066,'2066','Wilki & Chiddington Gt',42.950843,-81.234488
 2067,'2067','Wilki & Chiddington Gt',42.951127,-81.234432
 2068,'2068','Willow & Dearness Dr',42.938624,-81.220898
 2069,'2069','Willow & Osgoode Dr',42.938917,-81.218758
-2070,'2070','Willow & Osgoode Dr',42.93894,-81.218681
 2071,'2071','William & Regent St',43.009705,-81.245297
 2075,'2075','Wilton Grv & Sise Rd',42.927417,-81.201219
 2076,'2076','Windermere & Adelaide 1',43.022076,-81.252742
@@ -1878,6 +1840,7 @@
 2341,'2341','Proudfoot & Forest Hls',42.983223,-81.284753
 2342,'2342','Proudfoot & Forest Hls',42.983285,-81.28431
 2343,'2343','Gaiborough & Wonderland Rd 2',43.005918,-81.307592
+2344,'2344','Wellington & York',42.982406,-81.243932
 2352,'2352','Phillbrook & Billybrook Cres (W Leg',43.035213,-81.26481
 2384,'2384','Beaverbrook & Capulet',42.988147,-81.300551
 2385,'2385','Beaverbrook & Oakcrossing E Leg',42.986876,-81.3057
@@ -1915,7 +1878,6 @@
 2423,'2423','Victoria Hosp & Zone E',42.961601,-81.224164
 2426,'2426','Commissioners & Western Counties Rd',42.958514,-81.22334
 2427,'2427','Richmond & King St 3',42.983272,-81.249471
-2428,'2428','Wellington & Creston 2',42.948492,-81.227842
 2433,'2433','South Wenige & McCallum',43.044845,-81.249525
 2434,'2434','Sunningdale & Gough',43.050511,-81.247662
 2435,'2435','Thistlewood & South Wenige',43.046989,-81.253405
@@ -1965,7 +1927,6 @@
 2506,'2506','Campbell @ Marianna',42.908825,-81.290361
 2507,'2507','Campbell @ Sunray',42.906921,-81.289498
 2508,'2508','Col Talbot @ Broadway',42.907747,-81.299135
-2509,'2509','Col Talbot @ Southland',42.903403,-81.297191
 2510,'2510','Fahawe & Alderrook',43.01512,-81.321545
 2511,'2511','Fahawe & Alderrook',43.015051,-81.322581
 2512,'2512','Fahawe Pk @ Derwent',43.023108,-81.294879
@@ -1975,8 +1936,6 @@
 2516,'2516','Fahawe & Wonderland',43.018567,-81.309713
 2517,'2517','Fahawe & Wonderland',43.0189,-81.309473
 2518,'2518','Main @ Campbell St',42.911671,-81.291879
-2519,'2519','Outer @ Colonel Talbot',42.900291,-81.295347
-2520,'2520','Outer @ Scottsdale',42.903607,-81.28615
 2521,'2521','Wharncliffe @ Bostwick',42.920595,-81.281095
 2522,'2522','Wharncliffe & Campbell',42.912394,-81.290943
 2523,'2523','Wharncliffe @ Savoy',42.917457,-81.284838
@@ -2057,6 +2016,7 @@
 2646,'2646','Gore & Braesyde',42.978112,-81.172935
 2647,'2647','Gore & Firestone',42.979066,-81.169465
 2648,'2648','Gore & Valleyview Apartments',42.976956,-81.177237
+2649,'2649','Grand & Bellevue',42.97138,-81.246221
 2650,'2650','Hale & Hamilton',42.977769,-81.191056
 2651,'2651','Hale & Magee',42.981756,-81.191144
 2652,'2652','Hamilton & Braesyde',42.974125,-81.171728
@@ -2084,21 +2044,16 @@
 2675,'2675','Tweedsmuir & Fairway',42.982974,-81.190822
 2676,'2676','Tweedsmuir & Manitoulin',42.982669,-81.187178
 2677,'2677','Wexford & Admiral',42.996373,-81.164955
-2678,'2678','Fahawe Coervation Area',43.048051,-81.181646
-2682,'2682','Pioneer Vlg',43.054082,-81.181971
 2685,'2685','Hyde Pk & North Routledge Pk N Leg',43.003185,-81.334084
 2686,'2686','Hyde Pk & North Routledge Pk N Leg',43.003538,-81.334617
 2687,'2687','Hyde Pk & North Routledge Pk S Leg',43.000982,-81.333294
 2688,'2688','Springbank & Forest Hl',42.972636,-81.274765
-2689,'2689','Wellington & Harlech Gt',42.941826,-81.225455
 2690,'2690','Adelaide & Dufferin',42.991425,-81.232891
-2693,'2693','Adelaide & Blackwater',43.044659,-81.259913
-2697,'2697','Sunningdale & Adelaide',43.046477,-81.26173
 2698,'2698','Sunningdale & Adelaide',43.046612,-81.261006
-2699,'2699','Sunningdale & Blackwater',43.045234,-81.26551
-2700,'2700','Sunningdale & YMCA',43.047611,-81.257938
 2701,'2701','Beaverbrook & Whetherfield',42.987011,-81.304547
-2702,'2702','Westmiter & Thompson Rd',42.967767,-81.224865
+2731,'2731','Argyle Mall W Side',43.002898,-81.173514
+2733,'2733','White Oaks Mall Stop #4',42.932409,-81.223496
+100181,'','Phillbrook & Fahawe Pk Rd',43.032606,-81.263924
 101092,'','Southdale & Nixon Ave',42.942378,-81.237243
 101718,'','Gore & Braeside Ave',42.978433,-81.172081
 102836,'','Dufferin &waterloo',42.988608,-81.243706

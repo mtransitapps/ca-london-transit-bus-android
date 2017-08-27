@@ -48,6 +48,8 @@
 2704,0,'Kipps @ Adelaide',27
 2803,0,'Outer @ Colonel Talbot',28
 2802,0,'Westmount Mall',28
+2902,0,'Capulet',29
+2903,0,'Wonderland / Oxford',29
 3004,0,'White Oaks Mall',30
 3001,0,'Wilton Grv Ind Pk',30
 3104,0,'Hyde Pk Power Ctr',31
@@ -68,11 +70,17 @@
 3802,0,'Stoney Crk',38
 3904,0,'Hyde Pk Power Ctr',39
 3901,0,'Masonville Mall',39
+4001,0,'Masonville',40
+4004,0,'Northridge',40
 9002,0,'Masonville Pl',90
 9003,0,'White Oaks Mall',90
 9101,0,'Fanshawe College',91
 9104,0,'Wonderland @ Oxford',91
 9202,0,'Masonville Pl',92
 9203,0,'Victoria Hosp',92
-40003,0,'Argyle Mall',400
-40002,0,'Fanshawe',400
+10203,0,'Downtown',102
+10202,0,'Natural Science',102
+10402,0,'Fanshawe College',104
+10403,0,'Ridout & Grand',104
+10603,0,'Downtown',106
+10602,0,'Natural Science',106
