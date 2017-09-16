@@ -627,6 +627,7 @@
 780,'780','Glenroy & Pond Vw Rd',42.950526,-81.192745
 785,'785','Gore & Firestone Blvd',42.979208,-81.169434
 788,'788','Grand & Gerrard St',42.971753,-81.242773
+790,'790','Grand & High St',42.971973,-81.240767
 791,'791','Grand & High St 1',42.972112,-81.24004
 792,'792','Grand & High St 2',42.971894,-81.241983
 796,'796','Greenwood & Ridgewood Cres',42.969495,-81.275946
@@ -1228,6 +1229,7 @@
 1509,'1509','Richmond & Simcoe St',42.977308,-81.246413
 1510,'1510','Richmond & Simcoe St',42.977941,-81.246863
 1511,'1511','Richmond & Sunnyside Dr',43.02172,-81.279942
+1512,'1512','Richmond & University Dr',43.008865,-81.261028
 1513,'1513','Richmond & University Dr',43.009232,-81.261626
 1514,'1514','Richmond & Victoria St',43.003609,-81.257279
 1515,'1515','Richmond & Victoria St',43.003846,-81.257557
@@ -1363,6 +1365,7 @@
 1688,'1688','Southdale & Millbank Dr E Leg',42.944983,-81.209328
 1689,'1689','Southdale & Millbank Dr W Leg',42.944622,-81.212057
 1690,'1690','Southdale & Millbank Dr W Leg',42.944705,-81.212499
+1691,'1691','Southdale & Ernest St',42.942535,-81.236357
 1692,'1692','Southdale & Nixon Ave 1',42.942523,-81.237558
 1693,'1693','Southdale & Nixon Ave 2',42.94239,-81.239148
 1694,'1694','Southdale & Notre Dame Dr',42.940031,-81.266737
@@ -2078,16 +2081,38 @@
 2688,'2688','Springbank & Forest Hl',42.972636,-81.274765
 2689,'2689','Wellington & Harlech Gt',42.941826,-81.225455
 2690,'2690','Adelaide & Dufferin',42.991425,-81.232891
+2691,'2691','Sunray & Howard',42.905571,-81.294421
 2693,'2693','Adelaide & Blackwater',43.044659,-81.259913
 2697,'2697','Sunningdale & Adelaide',43.046477,-81.26173
 2698,'2698','Sunningdale & Adelaide',43.046612,-81.261006
 2699,'2699','Sunningdale & Blackwater',43.045234,-81.26551
 2700,'2700','Sunningdale & YMCA',43.047611,-81.257938
 2701,'2701','Beaverbrook & Whetherfield',42.987011,-81.304547
+2703,'2703','Sunray & Colonel Talbot',42.90512,-81.297752
+2704,'2704','Fahawe & Highbury',43.043082,-81.227354
+2705,'2705','Grenfell & Grenfell Cres',43.03888,-81.249874
+2706,'2706','Grenfell & Adelaide',43.038034,-81.256354
+2707,'2707','Grenfell & Laing',43.03879,-81.252709
+2708,'2708','Grenfell & Midale',43.040411,-81.248328
+2709,'2709','Grenfell & Trossacks',43.042841,-81.24634
+2710,'2710','1550 Highbury',43.033585,-81.222315
+2711,'2711','Highbury & Killarney',43.039625,-81.22522
+2712,'2712','Highbury & Towend',43.028165,-81.219642
+2713,'2713','Philbrook & Billybrook 1',43.035063,-81.26471
+2714,'2714','Philbrook & Billybrook 2',43.037259,-81.263054
+2715,'2715','Philbrook & Donnybrook',43.033056,-81.26439
+2716,'2716','Phillbrook & Pennybrook',43.038484,-81.259974
+2717,'2717','Trossacks & Fahawe',43.038304,-81.244524
 2731,'2731','Argyle Mall W Side',43.002898,-81.173514
 2733,'2733','White Oaks Mall Stop #4',42.932409,-81.223496
+2734,'2734','Faahwe & Stackhouse',43.04059,-81.236044
+100069,'','Southdale & Nixon',42.942508,-81.236577
 100181,'','Phillbrook & Fahawe Pk Rd',43.032606,-81.263924
+100789,'','Fahawe & McLean',43.041634,-81.232485
+100790,'','Fahawe & Glenora Dr',43.039714,-81.238775
 101092,'','Southdale & Nixon Ave',42.942378,-81.237243
 101718,'','Gore & Braeside Ave',42.978433,-81.172081
 102836,'','Dufferin &waterloo',42.988608,-81.243706
 103698,'','Victoria Hosp West Entrance',42.958824,-81.228335
+103933,'','Wonderland & Farrah',42.985342,-81.293364
+103934,'','Fahawe Pk & McLean',43.041596,-81.231737
