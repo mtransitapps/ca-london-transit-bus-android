@@ -747,6 +747,8 @@
 921,'921','Highbury & Magee St',42.979895,-81.195647
 922,'922','Highbury & Oxford St',43.007636,-81.20895
 923,'923','Highbury & Oxford 2',43.005934,-81.208378
+924,'924','Highbury & Oxford St',43.009316,-81.209776
+925,'925','Highbury & Oxford St 1',43.007703,-81.209314
 926,'926','Highbury & Trafalgar St',42.983542,-81.197502
 927,'927','Highbury & Trafalgar St',42.983478,-81.197678
 928,'928','Highbury & Wilton Ave',42.990666,-81.200884
@@ -832,6 +834,7 @@
 1027,'1027','Hyde Pk & Fiddlers Grn Rd',42.971742,-81.317032
 1028,'1028','Hyde Pk & Ivanhill Rd',42.981119,-81.323053
 1029,'1029','Hyde Pk & Oxford St',42.97504,-81.320034
+1030,'1030','Hyde Pk & Oxford St',42.975361,-81.320346
 1031,'1031','Hyde Pk & Riverside Dr',42.965014,-81.315052
 1032,'1032','Hyde Pk & Valetta St',42.96904,-81.316032
 1034,'1034','Industrial & Oxford St',43.02051,-81.164333
@@ -1065,6 +1068,7 @@
 1309,'1309','Oxford & Highbury Ave',43.008538,-81.208231
 1310,'1310','Oxford & Highbury Ave',43.008983,-81.2073
 1311,'1311','Oxford & Hyde Pk Rd',42.975591,-81.320655
+1312,'1312','Oxford & Hyde Pk Rd',42.975275,-81.322369
 1313,'1313','Oxford & Industrial Rd',43.021161,-81.164167
 1314,'1314','Oxford & Industrial Rd',43.020498,-81.166915
 1315,'1315','Oxford & Industrial Rd',43.020401,-81.16688
@@ -1733,6 +1737,7 @@
 2128,'2128','Wonderland & Southdale Rd',42.939594,-81.281397
 2129,'2129','Wonderland & Southdale',42.937318,-81.281179
 2132,'2132','Wonderland & Springbank Dr',42.964403,-81.293102
+2133,'2133','Wonderland & Springbank Dr',42.963094,-81.293081
 2134,'2134','Wonderland & Teeple Terr',42.959046,-81.293315
 2135,'2135','Wonderland & Vlg Grn Ave',42.95074,-81.289716
 2136,'2136','Wonderland & Vlg Grn Ave',42.951463,-81.290115
@@ -1798,6 +1803,8 @@
 2217,'2217','Commissioners & Western Counties',42.958442,-81.218679
 2219,'2219','Dundas & McCormick Blvd',42.994701,-81.211527
 2220,'2220','Emery & Ridgewood',42.964458,-81.275884
+2223,'2223','Fahawe College Stop 2',43.010981,-81.200959
+2224,'2224','Fahawe College Stop 3',43.011058,-81.20068
 2225,'2225','Fahawe College Stop 4',43.013262,-81.199206
 2226,'2226','Fahawe College Stop 5',43.011165,-81.199804
 2228,'2228','Fahawe College Blvd & Cheapside',43.016753,-81.201572
@@ -1820,6 +1827,7 @@
 2251,'2251','Mornington & 590 Mornington',43.00473,-81.211838
 2252,'2252','Mornington & Connaught Ave',43.002639,-81.213763
 2257,'2257','Oxford & Clarke Rd 3',43.016714,-81.180353
+2258,'2258','Oxford & Highbury',43.008251,-81.209422
 2259,'2259','Pinnacle Pkwy & Fahawe Pk Rd',43.021158,-81.299333
 2262,'2262','Pond Mills & Bradley Ave 2',42.937239,-81.191571
 2264,'2264','Pond Mills & Deveron Cres S Leg',42.955404,-81.198939
@@ -1862,6 +1870,7 @@
 2326,'2326','Bradley & Wellington Rd',42.934247,-81.224411
 2327,'2327','Bradley & Wellington St',42.934508,-81.224159
 2329,'2329','Clarke & Avalon',43.006869,-81.176986
+2331,'2331','Fahawe College Stop 1',43.011,-81.200713
 2333,'2333','King Edward & Dieppe St',42.967584,-81.212023
 2334,'2334','King Edward & Dieppe St',42.967729,-81.212464
 2335,'2335','Neold & Bradley',42.936267,-81.201488
@@ -1871,6 +1880,7 @@
 2342,'2342','Proudfoot & Forest Hls',42.983285,-81.28431
 2343,'2343','Gaiborough & Wonderland Rd 2',43.005918,-81.307592
 2344,'2344','Wellington & York',42.982406,-81.243932
+2350,'2350','Oxford & Hyde Pk',42.975895,-81.32002
 2352,'2352','Phillbrook & Billybrook Cres (W Leg',43.035213,-81.26481
 2384,'2384','Beaverbrook & Capulet',42.988147,-81.300551
 2385,'2385','Beaverbrook & Oakcrossing E Leg',42.986876,-81.3057
@@ -1886,6 +1896,7 @@
 2397,'2397','Hyde Pk & Gaiborough',42.999555,-81.332379
 2398,'2398','Hyde Pk & Gaiborough',42.999298,-81.33237
 2399,'2399','Hyde Pk & Ivanhill RD',42.980882,-81.323069
+2400,'2400','Hyde Pk & Oxford',42.976599,-81.320755
 2401,'2401','Hyde Pk & Prince Phillip',42.983037,-81.324041
 2402,'2402','Hyde Pk & Royal York',42.978095,-81.321505
 2403,'2403','Hyde Pk & Royal York',42.977781,-81.321509
@@ -2113,6 +2124,7 @@
 101092,'','Southdale & Nixon Ave',42.942378,-81.237243
 101718,'','Gore & Braeside Ave',42.978433,-81.172081
 102836,'','Dufferin &waterloo',42.988608,-81.243706
+102856,'','Dundas & Wellington',42.984883,-81.245441
 103698,'','Victoria Hosp West Entrance',42.958824,-81.228335
 103933,'','Wonderland & Farrah',42.985342,-81.293364
 103934,'','Fahawe Pk & McLean',43.041596,-81.231737
