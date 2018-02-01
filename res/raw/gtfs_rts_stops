@@ -609,6 +609,7 @@
 751,'751','Fuller & Vesta Rd',43.022911,-81.222931
 752,'752','Fuller & Vesta Pl',43.023228,-81.222149
 754,'754','Gaiborough & Limberlost Rd',43.005616,-81.308209
+755,'755','Gaiborough & Limberlost Rd',43.006182,-81.307312
 756,'756','Gaiborough & Wonderland Rd',43.006225,-81.306097
 757,'757','Gaiborough & Wonderland Rd 1',43.006698,-81.304967
 759,'759','Gardenwood & Berkshire Dr',42.962908,-81.284862
@@ -862,7 +863,7 @@
 1083,'1083','King Edward & Echo Pl',42.966097,-81.209213
 1084,'1084','Kingsway & Oakridge Dr',42.977778,-81.294035
 1085,'1085','Kingsway & Oakridge',42.977689,-81.294624
-1086,'1086','King & Richmond',42.982536,-81.248652
+1086,'1086','King & Richmond',42.982623,-81.248685
 1087,'1087','King Edward & Scenic Dr',42.967366,-81.210686
 1088,'1088','King Edward & Scenic Dr',42.967282,-81.210728
 1089,'1089','King Edward & Thompson Rd',42.969234,-81.212795
@@ -903,12 +904,12 @@
 1137,'1137','Marconi & Noel Ave',42.990376,-81.164965
 1138,'1138','Marconi & Railton',42.986971,-81.152882
 1139,'1139','Marconi & Trafalgar St',42.992638,-81.167302
-1140,'1140','Masonville Mall & Stop # 1',43.025446,-81.281591
-1141,'1141','Masonville Mall & Stop #2',43.025666,-81.281723
-1142,'1142','Masonville Terminal & Stop #3',43.02586,-81.281823
-1143,'1143','Masonville Terminal & Stop #4',43.025883,-81.28161
-1144,'1144','Masonville Terminal & Stop #5',43.025452,-81.281354
-1145,'1145','Masonville Terminal & Stop #6',43.025437,-81.281381
+1140,'1140','Masonville Terminal Stop #1',43.025446,-81.281591
+1141,'1141','Masonville Terminal Stop #2',43.025666,-81.281723
+1142,'1142','Masonville Terminal Stop #3',43.02586,-81.281823
+1143,'1143','Masonville Terminal Stop #4',43.025883,-81.28161
+1144,'1144','Masonville Terminal Stop #5',43.025452,-81.281354
+1145,'1145','Masonville Terminal Stop #6',43.025437,-81.281381
 1153,'1153','McMaster & Wonderland Rd',42.94277,-81.287626
 1155,'1155','McNay & Cheapside St',43.011816,-81.221157
 1156,'1156','McNay & Huron St',43.016992,-81.223656
@@ -1308,6 +1309,7 @@
 1639,'1639','Sarnia & Castlegrove Blvd',42.998833,-81.287041
 1640,'1640','Sarnia & Coombs Ave',43.000373,-81.281972
 1641,'1641','Sarnia & Leyton Cres',42.997241,-81.293041
+1642,'1642','Sarnia & Middlewoods Cr',42.9963,-81.296312
 1643,'1643','Sarnia & Rippleton Ave',42.997194,-81.292838
 1644,'1644','Sarnia & Sleightholme',42.998918,-81.287283
 1645,'1645','Sarnia & Thistledown Way',42.994976,-81.300882
