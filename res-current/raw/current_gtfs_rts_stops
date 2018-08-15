@@ -134,6 +134,7 @@
 187,'187','Base Line @ Elworthy',42.960366,-81.248749
 188,'188','Base Line East Fairview Ave',42.962145,-81.225577
 189,'189','Base Line West Of Fairview Ave',42.962147,-81.226993
+190,'190','Base Line West OfFairview',42.962039,-81.226664
 192,'192','Base Line @ High',42.961362,-81.235476
 193,'193','Base Line & High St',42.961332,-81.236728
 195,'195','Base Line @ McKeon',42.961132,-81.239026
@@ -420,8 +421,7 @@
 542,'542','Dundas East Of Ashland',42.995535,-81.208574
 543,'543','Dundas @ Beatrice',43.003464,-81.180178
 544,'544','Dundas @ Beatrice',43.003435,-81.180831
-545,'545','Dundas @ Burdick Pl',43.000215,-81.191631
-546,'546','Dundas @ Burdick',43.000275,-81.192075
+546,'546','Dundas @ 2nd',43.000759,-81.190277
 547,'547','Dundas @ Carlyle',43.008743,-81.161078
 550,'550','Dundas @ Clarke',43.00455,-81.176374
 551,'551','Dundas @ Clarke',43.004671,-81.176482
@@ -430,7 +430,6 @@
 554,'554','Dundas @ Dorinda',42.993689,-81.214982
 556,'556','Dundas @ Eastwood',43.005664,-81.172855
 557,'557','Dundas East Of Eastwood',43.005338,-81.173386
-558,'558','Dundas @ Edgeworth',43.00412,-81.177839
 559,'559','Dundas @ Edmonton',43.002458,-81.183767
 560,'560','Dundas @ Egerton',42.992935,-81.217246
 561,'561','Dundas @ Egerton',42.993006,-81.217444
@@ -439,13 +438,10 @@
 565,'565','Dundas @ English',42.990231,-81.226943
 566,'566','Dundas @ 1st',42.999356,-81.194651
 567,'567','Dundas East Of 1st',42.999659,-81.194212
-568,'568','Dundas West Of 1st',42.999142,-81.196111
 569,'569','Dundas @ Forest Lawn',43.007235,-81.166554
 570,'570','Dundas @ Forest Lawn',43.007187,-81.167455
-571,'571','Dundas East Of Hale',42.99873,-81.19687
 572,'572','Dundas East Of Hale',42.998415,-81.19858
 573,'573','Dundas West Of Hale',42.998058,-81.199337
-574,'574','Dundas West Of Hale',42.997855,-81.200533
 575,'575','Dundalk @ Harcroft Cres',42.946155,-81.243894
 576,'576','Dundas @ Hewitt',42.990129,-81.226942
 577,'577','Dundas @ Highbury',42.996596,-81.204339
@@ -453,7 +449,6 @@
 579,'579','Dundalk @ Hines',42.945118,-81.244214
 580,'580','Dundalk @ Hines',42.944798,-81.244219
 581,'581','Dundas @ Industrial',43.009168,-81.160049
-582,'582','Dundas @ Kathleen',43.002758,-81.183265
 583,'583','Dundas @ Kellogg Ln',42.993579,-81.214938
 584,'584','Dundas @ Lyle',42.989387,-81.229835
 585,'585','Dundas @ Maitland',42.987275,-81.237054
@@ -465,16 +460,13 @@
 595,'595','Dundas @ Quec',42.9924,-81.219503
 596,'596','Dundas @ Rectory',42.990756,-81.224836
 597,'597','Dundas @ Rectory',42.990957,-81.22441
-601,'601','Dundas @ Ronald',43.004071,-81.178616
 602,'602','Dundas @ Saskatoon',43.000664,-81.190041
-603,'603','Dundas @ Saul',43.001256,-81.188536
 604,'604','Dundalk @ Southdale',42.942477,-81.243882
 605,'605','Dundas @ Speight',43.007731,-81.164719
 606,'606','Dundas East Of Speight',43.008122,-81.163976
 607,'607','Dundas West Of Speight',43.007614,-81.165815
 608,'608','Dundalk @ Stockton',42.942628,-81.243814
 612,'612','Dundas @ 3rd',43.001981,-81.186037
-613,'613','Dundas @ Vancouver',43.001338,-81.187674
 614,'614','Dundas East Of Waterloo',42.985819,-81.241849
 615,'615','Dundas @ Waterloo',42.985855,-81.242283
 617,'617','Dundas East Of Wavell',43.006422,-81.169406
@@ -517,6 +509,7 @@
 666,'666','Ernest @ Muriell',42.936425,-81.237508
 667,'667','Ernest @ Pauline',42.937018,-81.238241
 668,'668','Ernest @ Scotchmere',42.926915,-81.235957
+669,'669','Ernest @ Scotchmere',42.926654,-81.2358
 670,'670','Exeter @ Meg',42.92479,-81.228489
 671,'671','Exeter @ Sholto',42.924966,-81.228259
 672,'672','Exeter @ Wellington',42.926036,-81.215134
@@ -532,6 +525,7 @@
 690,'690','Fahawe West OfFreemont',43.03602,-81.250953
 691,'691','Fahawe @ Geary',43.03289,-81.261771
 692,'692','Fahawe @ Glengarry',43.037458,-81.246181
+694,'694','Fahawe & Glenora Dr',43.039714,-81.238775
 695,'695','Fahawe @ Hastings East',43.031099,-81.267184
 696,'696','Fahawe @ Hastings',43.030992,-81.268125
 697,'697','Fahawe @ Hastings West',43.030109,-81.2705
@@ -540,6 +534,7 @@
 700,'700','Fahawe @ Jennifer 2',43.029285,-81.273907
 701,'701','Fahawe @ Louise',43.024436,-81.289879
 702,'702','Fahawe @ Louise',43.024713,-81.289437
+703,'703','Fahawe @ McLean',43.041634,-81.232485
 704,'704','Fahawe West Of North Ctr',43.028057,-81.277532
 705,'705','Fahawe West Of North Ctr',43.028239,-81.277573
 706,'706','Fahawe East Of North Ctr',43.028932,-81.274472
@@ -584,6 +579,7 @@
 770,'770','Glenroy @ Deveron',42.954838,-81.194092
 776,'776','Glenroy @ Glenroy Court',42.952648,-81.193173
 780,'780','Glenroy @ Pond Vw',42.950526,-81.192745
+783,'783','Gore @ Braeside',42.978433,-81.172081
 785,'785','Gore @ Firestone',42.979208,-81.169434
 790,'790','Grand @ High',42.971973,-81.240767
 791,'791','Grand @ High',42.972112,-81.24004
@@ -806,10 +802,12 @@
 1077,'1077','King Edward @ Burlington',42.962132,-81.20638
 1078,'1078','King Edward @ Chippendale',42.964116,-81.208154
 1079,'1079','King Edward @ Chippendale',42.964385,-81.20833
+1080,'1080','King @ Clarence',42.983335,-81.245868
 1082,'1082','King Edward @ Eagle',42.963123,-81.207767
 1083,'1083','King Edward @ Echo',42.966097,-81.209213
 1084,'1084','Kingsway @ Oakridge',42.977778,-81.294035
 1085,'1085','Kingsway @ Oakridge',42.977689,-81.294624
+1086,'1086','King @ Richmond',42.982623,-81.248685
 1087,'1087','King Edward @ Scenic',42.967366,-81.210686
 1088,'1088','King Edward @ Scenic',42.967282,-81.210728
 1089,'1089','King Edward @ Thompson',42.969234,-81.212795
@@ -830,7 +828,6 @@
 1110,'1110','Lawson @ Limberlost',42.99789,-81.306596
 1111,'1111','Lawson @ Lodale',43.001279,-81.299444
 1112,'1112','Lawson @ Lodale',43.00137,-81.29941
-1113,'1113','Lawson @ Longbow',43.002563,-81.29633
 1116,'1116','Lawson @ Wychwood',43.003581,-81.292807
 1117,'1117','Lawson @ Wychwood',43.003609,-81.292931
 1118,'1118','Limberlost @ Ardsley',43.001686,-81.309274
@@ -1113,6 +1110,7 @@
 1465,'1465','Richmond @ Cheapside',43.001785,-81.25651
 1466,'1466','Richmond @ Dufferin',42.986938,-81.250608
 1467,'1467','Richmond @ Dufferin',42.986949,-81.250774
+1469,'1469','Richmond South Of Dundas',42.983422,-81.249632
 1474,'1474','Richmond @ Fullarton',42.985588,-81.250648
 1475,'1475','Richmond @ Grey',42.976781,-81.246257
 1476,'1476','Richmond @ Grosvenor',43.000039,-81.255383
@@ -1137,7 +1135,6 @@
 1496,'1496','Richmond @ Pall Mall',42.992773,-81.251649
 1497,'1497','Richmond @ Parkdale Ave',43.011195,-81.263629
 1498,'1498','Richmond @ Parkdale',43.010389,-81.262793
-1499,'1499','Richmond @ Piccadilly',42.994345,-81.252516
 1501,'1501','Richmond @ Quee',42.985456,-81.250388
 1503,'1503','Richmond North Of Raymond',43.012999,-81.26554
 1505,'1505','Richmond South Of Raymond',43.01216,-81.26464
@@ -1300,7 +1297,7 @@
 1722,'1722','Sovereign @ Trafalgar',42.998875,-81.144742
 1723,'1723','South Wenige @ Father Dalton Ave',43.046634,-81.24536
 1724,'1724','South Wenige @ Marigold St',43.046064,-81.251868
-1725,'1725','South Weniget @ Savannah Dr',43.051188,-81.243668
+1725,'1725','South Wenige @ Savannah Dr',43.051188,-81.243668
 1726,'1726','South Wenige Between Savannah & Nicole',43.048447,-81.243185
 1727,'1727','South Wenige @ Sunningdale',43.048287,-81.25293
 1728,'1728','Springbank @ Berkshire Dr 1',42.964565,-81.290752
@@ -1654,7 +1651,6 @@
 2179,'2179','London Airport',43.027719,-81.148702
 2185,'2185','Adelaide North Of Leathorne 3',42.965978,-81.221654
 2186,'2186','Adelaide @ Willowdale',43.02927,-81.251929
-2187,'2187','Alderrook Gt @ Alderrook Rd',43.014321,-81.321366
 2188,'2188','Alderrook Gt @ Alderrook Rd',43.014303,-81.321415
 2190,'2190','Ambleside @ Grangeover',43.016439,-81.290811
 2191,'2191','Baury @ Cluney Pl',42.95803,-81.195208
@@ -1737,6 +1733,7 @@
 2318,'2318','Hamilton @ William',42.98248,-81.231086
 2320,'2320','Ridgewood @ Kernohan',42.967856,-81.280726
 2322,'2322','Wonderland South Of Sarnia',42.994507,-81.298298
+2323,'2323','Wonderland @ Springbank',42.963094,-81.293081
 2324,'2324','Bradley Between Adelaide & Willow',42.935836,-81.21345
 2325,'2325','Bradley @ Willow 2',42.935125,-81.216969
 2326,'2326','Bradley West Of Wellington Rd',42.934247,-81.224411
@@ -1832,6 +1829,7 @@
 2492,'2492','Sise @ Wilton Grv',42.926519,-81.203194
 2493,'2493','Hyde Pk @ Sarnia',42.989005,-81.327212
 2494,'2494','Hyde Pk @ Sarnia',42.989282,-81.32754
+2499,'2499','Victoria Hosp West Entrance',42.958824,-81.228335
 2502,'2502','Bond @ Beverley',42.969386,-81.232712
 2504,'2504','Main @ Bainard St',42.910348,-81.29678
 2505,'2505','517 Fahawe Pk Rd',43.019831,-81.306159
@@ -1884,11 +1882,9 @@
 2596,'2596','Wonderland & Power Ctr Driveway',42.936613,-81.280747
 2597,'2597','Bradley Medical Ctr',42.934185,-81.229978
 2598,'2598','Jalna South Of Archer 2',42.925966,-81.228609
-2599,'2599','Lawson @ Longbow',43.002839,-81.295755
 2600,'2600','3rd South Of Oxford',43.01016,-81.18933
 2601,'2601','Briarhill South Of Melsandra 2',43.018166,-81.22686
 2605,'2605','Baseline @ Cotswold',42.958416,-81.27099
-2608,'2608','King @ Clarence',42.983335,-81.245868
 2610,'2610','Wonderland & Wharncliffe 2',42.926019,-81.278341
 2611,'2611','3935 Cheese Factory Rd',42.933423,-81.160603
 2612,'2612','Commerce @ Global',42.933104,-81.167782
@@ -1983,25 +1979,32 @@
 2715,'2715','Phillbrook @ Donnybrook',43.033056,-81.26439
 2716,'2716','Phillbrook @ Pennybrook',43.038484,-81.259974
 2717,'2717','Trossacks & Fahawe',43.038304,-81.244524
+2730,'2730','Wonderland South Of Farrah',42.985342,-81.293364
 2731,'2731','Argyle Mall - Stop 1',43.002596,-81.17356
+2732,'2732','Fahawe @ McLean',43.041596,-81.231737
 2733,'2733','White Oaks Mall Stop 4',42.932409,-81.223496
 2734,'2734','Fahawe @ Stackhouse',43.04059,-81.236044
 2735,'2735','King @ Richmond',42.982479,-81.249212
 2736,'2736','King @ Talbot',42.981858,-81.251345
-2737,'2737','King @ Wellington',42.983787,-81.244139
-2738,'2738','Waterloo & King St',42.984423,-81.241892
-2739,'2739','Quee @ Richmond',42.985124,-81.250081
-2740,'2740','Quee @ Talbot',42.984518,-81.25234
+2737,'2737','Quee @ Richmond',42.985124,-81.250081
+2738,'2738','Quee @ Talbot',42.984518,-81.25234
+2739,'2739','King @ Wellington',42.983787,-81.244139
+2740,'2740','Richmond @ King',42.982623,-81.249175
 2741,'2741','Richmond North Of Quee',42.985098,-81.250438
-2743,'2743','Richmond @ King',42.982623,-81.249175
-2744,'2744','Ridout @ York',42.980336,-81.252865
+2742,'2742','Richmond South Of Quee',42.984459,-81.250107
+2743,'2743','Ridout @ York',42.980336,-81.252865
+2744,'2744','Waterloo & King St',42.984423,-81.241892
+2745,'2745','Oxford @ Veteran''s Memorial Pkwy',43.022779,-81.15913
+2748,'2748','Southdale @ Singleton',42.939259,-81.27664
+2749,'2749','Southdale @ Springmeadow',42.939714,-81.270057
+2750,'2750','Sunningdale @ Canvas Way',43.043604,-81.271192
+2751,'2751','Wharncliffe @ Castle Rock',42.932731,-81.266579
+2752,'2752','Wonderland @ Bradley',42.929391,-81.279073
+2753,'2753','Fahawe @ Dalmagarry 1',43.01347,-81.327632
+2754,'2754','Fahawe @ Dalmagarry 2',43.013903,-81.326357
+2755,'2755','Fahawe @ Foxwood',43.016456,-81.317319
+2756,'2756','Fahawe West Of Wonderland',43.017394,-81.314351
+2757,'2757','Hyde Pk @ Fahawe',43.010222,-81.337845
 100069,'','Southdale @ Nixon',42.942508,-81.236577
 100181,'','Phillbrook @ Fahawe',43.032606,-81.263924
-100789,'','Fahawe @ McLean',43.041634,-81.232485
-100790,'','Fahawe & Glenora Dr',43.039714,-81.238775
-101092,'','Southdale @ Nixon',42.942378,-81.237243
-101718,'','Gore @ Braeside',42.978433,-81.172081
 102836,'','Dufferin @ Waterloo',42.988608,-81.243706
-103698,'','Victoria Hosp West Entrance',42.958824,-81.228335
-103933,'','Wonderland South Of Farrah',42.985342,-81.293364
-103934,'','Fahawe @ McLean',43.041596,-81.231737
