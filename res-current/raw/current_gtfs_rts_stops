@@ -507,8 +507,12 @@
 677,'677','Fairview @ Chester',42.964703,-81.226708
 678,'678','Fairview @ Fairview Crt',42.967765,-81.227328
 679,'679','Fairview @ Whetter',42.966166,-81.22705
+682,'682','Fahawe @ Adelaide',43.035026,-81.254038
 684,'684','Fahawe West Of Adelaide',43.034771,-81.255542
+688,'688','Fahawe East Of Freemont',43.036537,-81.24922
+690,'690','Fahawe West OfFreemont',43.03602,-81.250953
 691,'691','Fahawe @ Geary',43.03289,-81.261771
+692,'692','Fahawe @ Glengarry',43.037458,-81.246181
 694,'694','Fahawe & Glenora Dr',43.039714,-81.238775
 695,'695','Fahawe @ Hastings East',43.031099,-81.267184
 696,'696','Fahawe @ Hastings',43.030992,-81.268125
@@ -1752,9 +1756,17 @@
 2468,'2468','Darnley @ Meadowgate',42.954763,-81.173716
 2469,'2469','Fahawe @ Glenora',43.039771,-81.2382
 2470,'2470','Fahawe West Of McLean',43.040448,-81.235822
+2471,'2471','Glenora @ Adelaide',43.029339,-81.251166
+2472,'2472','Glenora @ Glengarry',43.031788,-81.243471
+2473,'2473','Glenora @ Glenview',43.030324,-81.247323
+2474,'2474','Glenora @ McGill',43.033229,-81.239718
+2475,'2475','Glenora @ Rideau',43.035027,-81.236915
 2476,'2476','Lighthouse @ Emerald',42.958934,-81.171508
 2477,'2477','Lighthouse @ Reardon',42.960028,-81.171739
 2478,'2478','Lighthouse @ White Sands',42.956574,-81.170588
+2479,'2479','McLean @ Fahawe',43.041201,-81.23199
+2480,'2480','McLean @ Maxwell',43.037596,-81.235227
+2481,'2481','McLean @ Wakefield',43.038699,-81.232351
 2482,'2482','Meadowgate @ Dormer',42.956891,-81.179056
 2483,'2483','Meadowgate @ Eva',42.960995,-81.180924
 2484,'2484','Meadowgate @ Goodfellow',42.958945,-81.181192
@@ -1953,5 +1965,6 @@
 2771,'2771','Topping @ Eaton Pk',42.956973,-81.283527
 2772,'2772','Windermere @ Western',43.015039,-81.276075
 100069,'','Southdale @ Nixon',42.942508,-81.236577
+100181,'','Phillbrook @ Fahawe',43.032606,-81.263924
 102001,'','McMaster @ Wonderland',42.942934,-81.287573
 102836,'','Dufferin @ Waterloo',42.988309,-81.243822
