@@ -116,7 +116,7 @@
 163,'163','Andover @ Viscount',42.948172,-81.275288
 164,'164','Andover South Of Viscount',42.948217,-81.275205
 165,'165','Andover @ Widmore',42.949414,-81.275703
-167,'167','Argyle Mall - Stop 2',43.003062,-81.173579
+167,'167','Argyle Mall - Stop 2',43.003045,-81.173569
 168,'168','Ashbury @ Millbank',42.937301,-81.202254
 169,'169','Ashbury @ Millbank',42.937358,-81.202382
 170,'170','Ashbury @ Surrey Cres',42.938413,-81.204312
@@ -664,6 +664,7 @@
 921,'921','Highbury @ Magee',42.979895,-81.195647
 922,'922','Highbury South Of Oxford',43.007636,-81.20895
 923,'923','953 Highbury',43.005934,-81.208378
+924,'924','John Paul Seconday School',43.009316,-81.209776
 925,'925','Oxbury Mall',43.007703,-81.209314
 926,'926','Highbury @ Trafalgar',42.983542,-81.197502
 927,'927','Highbury @ Trafalgar',42.983478,-81.197678
@@ -1739,7 +1740,7 @@
 2434,'2434','Sunningdale @ Gough',43.050511,-81.247662
 2435,'2435','Thistlewood @ South Wenige',43.046989,-81.253405
 2436,'2436','Westmount Mall @ Stop 4',42.947502,-81.291672
-2437,'2437','Westmount Mall @ Stop 5',42.947277,-81.292552
+2437,'2437','Westmount Mall @ Stop 5',42.9473,-81.292217
 2438,'2438','Westmount Mall @ Stop 6',42.947352,-81.291827
 2447,'2447','Highbury @ Rembrandt Vly',43.033142,-81.222247
 2449,'2449','Pond Mills North Of Scenic',42.972444,-81.209591
@@ -1962,7 +1963,6 @@
 2768,'2768','Southdale @ Pine Vly',42.938701,-81.283717
 2769,'2769','Southdale @ SW Community Ctr',42.938393,-81.288383
 2770,'2770','Topping Ln @ Commissioners',42.955886,-81.283106
-2771,'2771','Topping @ Eaton Pk',42.956973,-81.283527
 2772,'2772','Windermere @ Western',43.015039,-81.276075
 100069,'','Southdale @ Nixon',42.942508,-81.236577
 100181,'','Phillbrook @ Fahawe',43.032606,-81.263924
