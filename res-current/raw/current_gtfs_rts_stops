@@ -98,6 +98,7 @@
 149,'1141','Masonville Pl Stop #2',43.025666,-81.281723
 150,'1144','Masonville Pl Stop #5',43.025452,-81.281354
 151,'2118','Wonderland South Of Oxford',42.981865,-81.29174
+152,'2323','Wonderland @ Springbank',42.963094,-81.293081
 153,'2196','Berkshire @ Berkshire Pl',42.962676,-81.288377
 154,'1999','Westmount Mall @ Stop 3',42.947484,-81.292059
 155,'1706','Southdale West Of Wharncliffe',42.940606,-81.258723
@@ -129,7 +130,6 @@
 200,'909','Highbury @ Hamilton',42.978142,-81.19467
 201,'895','London Trait Office',42.98814,-81.199636
 203,'900','Highbury @ Dundas',42.997192,-81.203795
-204,'924','John Paul Seconday School',43.009316,-81.209776
 205,'913','Highbury @ Huron',43.019576,-81.215148
 206,'176','Barker @ Huron',43.016179,-81.232
 209,'925','Oxbury Mall',43.007703,-81.209314
@@ -166,7 +166,6 @@
 253,'1334','Oxford @ Richmond',42.995433,-81.253762
 255,'1328','Oxford @ Proudfoot',42.985491,-81.287381
 257,'1364','Oxford @ Wonderland',42.984031,-81.292317
-258,'459','Commissioners West Of Halls Mills',42.961399,-81.337636
 262,'1173','Talbot College',43.008224,-81.270543
 267,'1032','Hyde Pk @ Valetta',42.96904,-81.316032
 268,'1312','Oxford @ Hyde Pk',42.975275,-81.322369
@@ -182,6 +181,7 @@
 287,'1008','Huron East Of Highbury',43.020129,-81.215049
 288,'345','Cheapside West Of Adelaide',43.006102,-81.240697
 289,'2165','York @ Rectory',42.987526,-81.222993
+291,'830','Hale @ Brydges',42.990805,-81.195321
 294,'418','Clarke North Of Trafalgar',42.993134,-81.170342
 295,'829','Hale @ Brydges',42.99049,-81.195112
 296,'743','Florence @ Highbury',42.994128,-81.203191
@@ -356,6 +356,7 @@
 753,'1488','Richmond @ Kent',42.988374,-81.250678
 755,'1483','Richmond @ Hyman',42.991222,-81.250886
 756,'1496','Richmond @ Pall Mall',42.992773,-81.251649
+757,'1499','Richmond @ Piccadilly',42.994345,-81.252516
 758,'1486','Richmond @ St James',42.997499,-81.254137
 759,'1476','Richmond @ Grosvenor',43.000039,-81.255383
 760,'1514','Richmond @ Victoria',43.003609,-81.257279
@@ -484,14 +485,12 @@
 915,'1634','St Thomas Aquanis Secondary School',42.969123,-81.333177
 916,'1632','Sanatorium @ Riverside',42.965376,-81.331258
 917,'1630','Sanatorium @ Plymouth',42.966492,-81.3318
-918,'844','Halls Mills @ Halls Mills Pl',42.961453,-81.334034
 919,'458','Commissioners East Of Halls Mills',42.960372,-81.334565
 920,'482','Commissioners @ Stephen',42.962034,-81.339632
 921,'811','Griffith @ Commissioners',42.962581,-81.342749
 922,'816','Griffith @ Helena Montague',42.959851,-81.34213
 923,'817','Griffith @ Norman',42.956299,-81.34119
 924,'314','Byron Baseline @ Belvedere',42.952538,-81.33747
-925,'315','Byron Baseline @ Brock',42.952739,-81.33537
 926,'316','Byron Baseline @ Byron Blvd',42.952929,-81.333022
 927,'278','Boler @ Glenrose',42.956735,-81.332025
 930,'1631','Sanatorium @ Riverside',42.965445,-81.331142
@@ -505,7 +504,6 @@
 938,'1583','Riverside @ Hartson West',42.962989,-81.326031
 939,'1562','Riverside @ St Anthony',42.962403,-81.323363
 940,'1581','Riverside @ Hartson East',42.962934,-81.318488
-941,'1031','Hyde Pk @ Riverside',42.965014,-81.315052
 942,'1026','Hyde Pk @ Fiddlers Grn',42.971772,-81.316912
 943,'1029','Hyde Pk South Of Oxford',42.97504,-81.320034
 944,'1291','Oxford @ Fiddlers Grn',42.976309,-81.318179
@@ -631,7 +629,7 @@
 1084,'1694','Southdale West Of Notre Dame Dr',42.940031,-81.266737
 1085,'2337','Southdale East Of Notre Dame Dr',42.940153,-81.264311
 1087,'1708','Southdale East Of Wharncliffe',42.940758,-81.256515
-1088,'1710','Southdale @ White Oak Sideroad',42.941108,-81.252669
+1088,'1710','Southdale @ White Oak Sideroad',42.941189,-81.251447
 1090,'1681','Southdale East Of Jalna Blvd',42.941877,-81.242985
 1091,'1673','Southdale @ Dulaney Dr',42.942115,-81.24042
 1092,'1691','Southdale @ Nixon',42.942378,-81.237243
@@ -642,14 +640,14 @@
 1099,'297','Bradley East Of Wellington Rd',42.934543,-81.222187
 1100,'298','Bradley @ Willow 1',42.934873,-81.218812
 1101,'291','Bradley Between Willow & Adelaide',42.935783,-81.213495
-1102,'2203','Bradley @ Adelaide',42.935958,-81.21024
+1102,'2203','Bradley @ Adelaide',42.935911,-81.209743
 1104,'1689','Southdale @ Millbank Dr West',42.944622,-81.212057
 1105,'1687','St Francis Elementary School',42.944869,-81.209276
 1106,'1683','Southdale @ Koru Crt',42.94568,-81.200586
 1107,'1697','Southdale @ Pond Mills Rd',42.945932,-81.197587
 1108,'1415','450 Pond Mills',42.953063,-81.196476
 1109,'1417','Pond Mills @ Millridge',42.951371,-81.196403
-1110,'1419','Pond Mills @ Commissionerd',42.960678,-81.200278
+1110,'1419','Pond Mills @ Commissioners',42.960678,-81.200278
 1111,'449','Commissioners @ Deveron',42.962324,-81.194459
 1112,'921','Highbury @ Magee',42.979895,-81.195647
 1113,'926','Highbury @ Trafalgar',42.983542,-81.197502
@@ -765,15 +763,12 @@
 1254,'147','Ambleside @ Hillside',43.017645,-81.280695
 1256,'149','Ambleside @ Whitehaven',43.019798,-81.292995
 1257,'150','286 Ambleside',43.021005,-81.294306
-1259,'152','Andover @ Applegreen Grv',42.954252,-81.275796
-1260,'153','Andover @ Blackthorne',42.949811,-81.275885
 1261,'154','Andover @ Commissioners',42.955725,-81.275336
 1262,'155','Andover @ Commissioners',42.955721,-81.275497
 1263,'156','Andover @ Elmgrove Cr',42.951688,-81.275511
 1265,'158','Andover @ Novello',42.952839,-81.275472
 1267,'160','Andover @ Vlg Grn',42.953684,-81.275744
 1268,'161','Andover @ Vlg Grn',42.95356,-81.275802
-1270,'165','Andover @ Widmore',42.949414,-81.275703
 1271,'2191','Baury @ Cluney Pl',42.95803,-81.195208
 1272,'174','Baury @ Deveron',42.959097,-81.192684
 1274,'2192','Baury @ Simms Ct',42.957363,-81.19883
@@ -797,7 +792,6 @@
 1313,'212','30 Baseline',42.959042,-81.264016
 1314,'213','Base Line West Of West St',42.958329,-81.271553
 1315,'214','90 Baseline',42.958764,-81.267069
-1316,'215','106 Baselline',42.958624,-81.26859
 1317,'217','Base Line @ Wortley',42.960609,-81.245298
 1318,'218','Base Line @ Wortley',42.960615,-81.245981
 1319,'222','Beachwood @ Base Line',42.957793,-81.275356
@@ -873,30 +867,23 @@
 1408,'342','Chambers @ Skyline',43.041719,-81.271282
 1409,'343','Chambers @ Whisker',43.038329,-81.270524
 1411,'346','Cheapside East Of Adelaide',43.006567,-81.23826
-1412,'347','Cheapside @ Appel',43.010732,-81.223778
 1413,'348','Cheapside @ Barker',43.009427,-81.22825
 1414,'349','Cheapside @ Boullee',43.010127,-81.225877
 1415,'350','Cheapside @ Boullee',43.010344,-81.225389
 1416,'351','Cheapside @ Brampton',43.007764,-81.233993
-1417,'2209','Cheapside @ Brampton',43.007864,-81.233979
+1417,'2209','Cheapside @ Elliott',43.007537,-81.235117
 1418,'352','Cheapside @ Colborne',43.003757,-81.248777
 1419,'353','Cheapside @ Colborne',43.003974,-81.248369
 1420,'354','Cheapside @ Gammage',43.008605,-81.231088
 1421,'355','Cheapside @ Gammage',43.008478,-81.23179
-1422,'356','Cheapside @ Lyman',43.011258,-81.222226
 1423,'357','Cheapside @ Maitland',43.004728,-81.24527
 1424,'358','Cheapside @ Maitland',43.004599,-81.246139
 1425,'359','Cheapside @ McNay',43.011324,-81.221707
 1426,'360','Cheapside @ Richmond',43.001983,-81.255573
 1427,'361','Cheapside @ Sterling',43.009301,-81.228968
-1428,'362','Cheapside @ Taylor',43.006909,-81.236842
-1429,'363','Cheapside @ Taylor',43.007133,-81.236426
 1430,'364','Cheapside @ Waterloo',43.002959,-81.251627
 1431,'365','Cheapside @ Waterloo',43.003196,-81.251129
-1432,'366','Cheapside @ Wellington',43.002182,-81.254448
-1433,'367','Cheapside @ Wellington',43.002451,-81.253889
 1434,'368','Cheapside @ William',43.005516,-81.24244
-1435,'369','Cheapside @ William',43.005588,-81.242502
 1436,'371','Cherryhill @ Cherryhill Blvd',42.99116,-81.277868
 1437,'372','Cherryhill @ Cherryhill Blvd',42.990945,-81.27788
 1439,'374','Cherryhill East Of Cherryhill Cir',42.99177,-81.275942
@@ -925,7 +912,6 @@
 1475,'445','Commissioners @ Adelaide',42.959153,-81.2149
 1476,'446','Commissioners East Of Adelaide',42.959517,-81.214417
 1477,'447','Commissioners West Of Adelaide',42.958643,-81.220485
-1478,'2214','Byron Vlg Plz',42.958902,-81.330089
 1479,'2213','Commissioners @ Boler',42.959432,-81.332109
 1480,'454','Commissioners @ Frontenac',42.960312,-81.20809
 1481,'455','Commissioners @ Frontenac',42.960331,-81.209188
@@ -936,12 +922,11 @@
 1487,'463','Commissioners @ King Edward',42.960842,-81.205928
 1488,'464','Commissioners @ Leathorne',42.959597,-81.212585
 1489,'465','Commissioners @ Leathorne',42.95983,-81.212451
-1490,'466','Commissioners @ Lynden Cres',42.95806,-81.326845
 1492,'468','Opposite St George''s Parish',42.958091,-81.326569
 1494,'2215','Commissioners @ Meadowlilly',42.963507,-81.18508
 1495,'2216','Commissioners @ Meadowlilly',42.963598,-81.186234
 1496,'470','Commissioners @ Nashua',42.95727,-81.324072
-1497,'471','Commissioners @ North',42.956628,-81.322018
+1497,'471','Commissioners @ North',42.956376,-81.321049
 1498,'472','Commissioners @ North',42.956876,-81.322416
 1499,'473','Commissioners West Of Nottinghill',42.952527,-81.299502
 1500,'475','Commissioners West Of Pondmills',42.961323,-81.201406
@@ -1015,7 +1000,7 @@
 1593,'592','Dundas @ Ontario',42.991523,-81.222292
 1594,'593','Dundas @ Ontario',42.991671,-81.22204
 1595,'594','Dundas @ Quec',42.992387,-81.219149
-1596,'596','Dundas @ Rectory',42.990756,-81.224836
+1596,'596','Dundas @ Rectory',42.990839,-81.224434
 1597,'597','Dundas @ Rectory',42.990957,-81.22441
 1600,'602','Dundas @ Saskatoon',43.000664,-81.190041
 1602,'605','Dundas @ Speight',43.007731,-81.164719
@@ -1081,7 +1066,7 @@
 1687,'736','Florence @ Egerton',42.989745,-81.21583
 1688,'737','Florence @ Egerton',42.989892,-81.21581
 1689,'738','Florence @ Eleanor',42.991399,-81.210202
-1690,'739','Florence @ Eleanor',42.991649,-81.209703
+1690,'739','Florence @ Eleanor',42.991506,-81.210279
 1691,'740','Florence @ Fairgrounds South Gt',42.988583,-81.218615
 1692,'741','Florence @ Fairgrounds South Gt',42.988638,-81.218949
 1693,'744','Florence @ Kellogg Ln',42.990512,-81.213309
@@ -1110,15 +1095,12 @@
 1734,'805','Grey @ Waterloo',42.978687,-81.238647
 1735,'806','Grey @ Wellington',42.977985,-81.241188
 1736,'807','Griffith @ Byron Baseline',42.953093,-81.325714
-1737,'809','479 Griffith',42.950519,-81.339957
 1738,'812','Boler Mtn',42.946162,-81.33628
 1740,'814','Griffith @ Fairlane',42.949289,-81.338973
-1741,'815','Griffith @ Griffith Gt',42.948552,-81.33801
 1742,'818','Griffith @ Robinwood',42.942271,-81.333418
 1743,'819','Griffith @ Somerset',42.945662,-81.327138
 1744,'820','Griffith @ Wayne',42.94933,-81.328357
 1745,'821','Griffith @ Whisperwood',42.951637,-81.327343
-1746,'822','Griffith @ Widdicomb',42.944539,-81.33588
 1752,'828','Hale @ Beattie',42.994478,-81.197049
 1753,'831','Hale @ Doulton',42.996102,-81.197705
 1754,'832','Hale @ Doulton',42.995742,-81.197646
@@ -1181,7 +1163,6 @@
 1834,'949','Highview @ Wharncliffe',42.953793,-81.259268
 1835,'2236','89 Highview',42.953949,-81.257261
 1836,'950','90 Highview',42.954023,-81.256969
-1846,'2238','Horton @ Clarence',42.979463,-81.245334
 1847,'2239','Horton @ Colborne',42.981884,-81.236955
 1848,'2240','Horton @ Colborne',42.981597,-81.237487
 1849,'966','Horton @ Hamilton',42.982727,-81.233841
@@ -1402,9 +1383,7 @@
 2131,'1489','Richmond @ Kent',42.988156,-81.250752
 2132,'1490','Richmond @ King',42.982432,-81.248946
 2135,'1497','Richmond @ Parkdale Ave',43.011195,-81.263629
-2136,'1498','Richmond @ Parkdale',43.010389,-81.262793
 2138,'1503','Richmond North Of Raymond',43.012999,-81.26554
-2140,'1505','Richmond South Of Raymond',43.01216,-81.26464
 2141,'1509','Richmond @ Simcoe',42.977308,-81.246413
 2142,'1510','Richmond @ Simcoe',42.977941,-81.246863
 2143,'1512','Richmond @ University',43.008865,-81.261028
@@ -1579,8 +1558,6 @@
 2396,'1877','Viscount South Of Galloway Cr',42.950234,-81.268816
 2397,'1878','Viscount @ Galloway Cr',42.949847,-81.269034
 2398,'1879','Viscount @ Gardenvale',42.947631,-81.280906
-2400,'1881','Viscount @ Piedmount Cres',42.947282,-81.277836
-2401,'1882','Viscount @ Piedmount',42.94735,-81.278068
 2402,'1883','Viscount @ Pine Vly Dr',42.947553,-81.280877
 2403,'1884','Viscount @ Steeplechase',42.947528,-81.283968
 2404,'1885','Viscount @ Tavistock Rd',42.953716,-81.268278
@@ -1687,9 +1664,7 @@
 2543,'2154','York @ Adelaide',42.986345,-81.230015
 2544,'2155','York @ Adelaide',42.986415,-81.230103
 2546,'2157','York @ Colborne',42.984043,-81.238324
-2547,'2159','York @ Gle',42.987352,-81.226344
-2548,'2160','York @ Gle',42.987464,-81.226267
-2549,'2161','York @ Lyle',42.986809,-81.228349
+2549,'2161','York @ Lyle',42.987087,-81.227241
 2550,'2162','York @ Lyle',42.986971,-81.228111
 2551,'2163','York @ Maitland',42.984718,-81.235931
 2552,'2164','York @ Maitland',42.98496,-81.23544
@@ -1819,6 +1794,7 @@
 3738,'2542','Kai @ Kirkpatrick',42.972453,-81.356629
 3739,'2545','Kai @ Riverbend',42.974116,-81.36311
 3740,'2547','Riverbend @ Shr',42.969093,-81.361089
+3741,'2548','Shr @ Kai',42.969417,-81.355801
 3742,'2533','Commissioners @ Chestnut Hl 1',42.965489,-81.351525
 3743,'2534','Commissioners @ Chestnut Hl 2',42.963767,-81.347056
 3744,'2535','Commissioners @ Grandview',42.963298,-81.344232
@@ -1893,7 +1869,6 @@
 3865,'2646','Gore @ Braesyde',42.978112,-81.172935
 3866,'2647','Gore @ Firestone',42.979066,-81.169465
 3867,'2663','Hyde Pk @ Hazelden',42.968815,-81.316153
-3868,'2664','Hyde Pk @ Riverside',42.964655,-81.314941
 3869,'2643','Ferndale @ Homeview',42.94692,-81.250697
 3870,'2641','Ferndale @ Hampstead',42.94714,-81.247113
 3871,'2642','Ferndale @ Hampstead',42.947192,-81.247644
@@ -1948,7 +1923,10 @@
 3944,'2740','Richmond @ King',42.982623,-81.249175
 3945,'2743','Ridout @ York',42.980336,-81.252865
 3946,'2750','Sunningdale @ Canvas Way',43.043604,-81.271192
+3947,'2757','Hyde Pk @ Fahawe',43.010222,-81.337845
 3948,'2753','Fahawe @ Dalmagarry 1',43.01347,-81.327632
+3949,'2755','Fahawe @ Foxwood',43.016456,-81.317319
+3950,'2756','Fahawe West Of Wonderland',43.017394,-81.314351
 3951,'2754','Fahawe @ Dalmagarry 2',43.013903,-81.326357
 3954,'2745','Oxford @ Veteran''s Memorial Pkwy',43.022779,-81.15913
 3955,'2762','Kernohan @ Ridgewood Cres',42.968108,-81.280591
@@ -1968,4 +1946,5 @@
 3973,'2761','Dalhousie South Of McMaster',42.940333,-81.28826
 3974,'2760','Dalhousie @ Brixham',42.938928,-81.291187
 3975,'2769','Southdale @ SW Community Ctr',42.938393,-81.288383
-3976,'2768','Southdale @ Pine Vly',42.938701,-81.283717
+3976,'','Southdale @ Pine Vly',42.938701,-81.283717
+3977,'','Wonderland @ Viscount 1',42.948855,-81.289568
