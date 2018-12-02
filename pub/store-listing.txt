@@ -2,17 +2,16 @@ Title: London Transit (LTC) Bus - MonTransit
 ----------
 Short description:
 London Transit Bus for MonTransit.
-Schedule. Real-Time. News.
+Schedule. News.
 ----------
 What's new in this version?:
-Schedule from September 2, 2018 to February 3, 2019.
-Real-time arrival times from LTC WebWatch.
+Schedule from November 25, 2018 to February 3, 2019.
 Tweets from @LTCLdnOnt.
 ----------
 Full description:
 This app adds London Transit Commission buses information to MonTransit.
 
-This app provides the buses schedule (offline and real-time from LTC WebWatch Real-Time Bus Monitor) and news from @LTCLdnOnt on Twitter.
+This app provides the buses schedule and news from @LTCLdnOnt on Twitter.
 
 LTC buses serve London in Ontario, Canada.
 
@@ -30,7 +29,7 @@ https://github.com/mtransitapps/ca-london-transit-bus-android
 This app is not related with the London Transit Commission (LTC).
 
 Permissions:
-- Other: required to read real-time schedule from www.ltconline.ca and Twitter.
+- Other: required to read the latest news from Twitter.
 ----------
 Application type: Applications
 ----------
