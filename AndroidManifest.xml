@@ -88,19 +88,5 @@
                 android:name="@string/news_provider_target"
                 android:value="@string/twitter_target_for_poi_authority" />
         </provider>
-        <!-- LTCONLINE TRANSIT PROVIDER -->
-        <provider
-            android:name="org.mtransit.android.commons.provider.CaLTCOnlineProvider"
-            android:authorities="@string/ca_ltconline_authority"
-            android:exported="true"
-            android:readPermission="org.mtransit.android.provider.permission.READ_PROVIDER"
-            tools:ignore="MissingRegistered" >
-            <meta-data
-                android:name="@string/status_provider"
-                android:value="@string/status_provider" />
-            <meta-data
-                android:name="@string/status_provider_target"
-                android:value="@string/ca_ltconline_status_for_poi_authority" />
-        </provider>
     </application>
 </manifest>
