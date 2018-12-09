@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <integer name="ca_ltconline_db_version">2</integer>
+    <string name="ca_ltconline_authority">org.mtransit.android.ca_london_transit_bus.ltconline</string>
+    <string name="ca_ltconline_status_for_poi_authority">@string/gtfs_rts_authority</string>
+</resources>
