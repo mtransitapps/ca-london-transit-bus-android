@@ -5,7 +5,7 @@ London Transit Bus for MonTransit.
 Schedule. Real-Time. News.
 ----------
 What's new in this version?:
-Schedule from November 25, 2018 to February 3, 2019.
+Schedule from November 25, 2018 to April 27, 2019.
 Real-time bus info from realtime.londontransit.ca.
 Tweets from @LTCLdnOnt.
 ----------
