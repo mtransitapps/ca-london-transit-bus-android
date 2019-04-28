@@ -46,8 +46,6 @@
 2704,0,'Kipps Ln',27
 2803,0,'Lambeth',28
 2802,0,'Westmount Mall',28
-2903,0,'Capulet Ln',29
-2902,0,'Natural Science',29
 3001,0,'Cheese Factory Rd',30
 3004,0,'White Oaks Mall',30
 3101,0,'Alumni Hall',31
@@ -76,9 +74,3 @@
 9104,0,'Oxford & Wonderland',91
 9202,0,'Masonville Mall',92
 9203,0,'Victoria Hosp',92
-10203,0,'Downtown',102
-10202,0,'Natural Science',102
-10402,0,'Fanshawe College',104
-10403,0,'Ridout & Grand',104
-10603,0,'Downtown',106
-10602,0,'Natural Science',106
