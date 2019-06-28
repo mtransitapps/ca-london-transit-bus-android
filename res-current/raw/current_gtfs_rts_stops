@@ -50,7 +50,7 @@
 77,'390','Chiddington @ Wilki',42.952296,-81.233496
 78,'1540','Ridout @ Emery',42.964715,-81.244873
 82,'1260','Oxford @ Adelaide',42.99992,-81.237831
-83,'2225','Fahawe College Stop 4',43.013262,-81.199206
+83,'2225','Fahawe College Stop 5',43.013262,-81.199206
 87,'1558','Ridout @ York',42.980443,-81.253033
 88,'982','Horton West Of Wharncliffe 2',42.97667,-81.265273
 89,'241','Berkshire North Of Gardenwood',42.962481,-81.286307
@@ -78,7 +78,7 @@
 125,'1604','Riverside @ Wonderland',42.976327,-81.289551
 127,'1391','Platts Ln @ Oxford',42.990499,-81.272074
 128,'1647','Sarnia @ Western',43.001883,-81.277365
-129,'1649','Sarnia @ Wonderland',42.995449,-81.299448
+129,'1649','Sarnia @ Wonderland',42.99574,-81.298424
 131,'1636','Sarnia @ Alderrook',42.993911,-81.30438
 134,'2248','Lawson @ Blue Forest',43.000417,-81.301891
 135,'1635','Sarnia @ Alderrook',42.993777,-81.304513
@@ -133,7 +133,7 @@
 209,'925','Oxbury Mall',43.007703,-81.209314
 210,'901','Highbury @ Dundas',42.996432,-81.203754
 212,'896','Highbury @ Brydges',42.987717,-81.199767
-213,'910','Highbury @ Hamilton',42.978297,-81.19498
+213,'910','Highbury @ Hamilton',42.978272,-81.195015
 214,'1686','Southdale East Of Millbank',42.945472,-81.203992
 215,'1546','Ridout @ Horton',42.977359,-81.251468
 216,'216','Base Line @ Wharncliffe',42.959398,-81.260128
@@ -160,7 +160,7 @@
 246,'1770','3rd @ Culver',43.008655,-81.188486
 248,'2331','Fahawe College Stop 1',43.011,-81.200713
 249,'2313','Culver @ Culver Court',43.009832,-81.184816
-251,'2226','Fahawe College Stop 5',43.011165,-81.199804
+251,'2226','Fahawe College Stop 6',43.011165,-81.199804
 253,'1334','Oxford @ Richmond',42.995433,-81.253762
 255,'1328','Oxford @ Proudfoot',42.985491,-81.287381
 257,'1364','Oxford @ Wonderland',42.984031,-81.292317
@@ -220,7 +220,7 @@
 386,'1899','Wavell @ Clarkeroad',42.998523,-81.173288
 458,'1443','Quee @ Ridout',42.98368,-81.254207
 459,'2415','Beaverbrook @ Capulet',42.988455,-81.299991
-460,'1326','Oxford @ Platts Ln',42.990083,-81.271602
+460,'1326','Oxford @ Platts Ln',42.989933,-81.272489
 463,'1311','Oxford @ Hyde Pk',42.975591,-81.320655
 464,'2179','London Airport',43.027719,-81.148702
 478,'1721','Sovereign @ Trafalgar',42.999174,-81.144828
@@ -465,7 +465,6 @@
 899,'1359','Oxford @ Wharncliffe',42.992133,-81.264637
 900,'1290','Oxford @ Fernely',42.991842,-81.26563
 901,'1332','Oxford @ Rathowen',42.991005,-81.268365
-902,'1267','Oxford @ Britannia',42.989729,-81.272972
 903,'1271','Oxford @ Cherryhill Blvd',42.988906,-81.275677
 904,'1265','Oxford East Of Beaverbrook',42.987331,-81.280986
 905,'1264','Oxford West Of Beaverbrook',42.986398,-81.284148
@@ -499,6 +498,7 @@
 938,'1583','Riverside @ Hartson West',42.962989,-81.326031
 939,'1562','Riverside @ St Anthony',42.962403,-81.323363
 940,'1581','Riverside @ Hartson East',42.962934,-81.318488
+941,'1031','Hyde Pk @ Riverside',42.965014,-81.315052
 942,'1026','Hyde Pk @ Fiddlers Grn',42.971772,-81.316912
 943,'1029','Hyde Pk South Of Oxford',42.97504,-81.320034
 944,'1291','Oxford @ Fiddlers Grn',42.976309,-81.318179
@@ -520,7 +520,6 @@
 960,'928','Highbury @ Wilton',42.990666,-81.200884
 961,'893','Highbury @ Beattie',42.993153,-81.202075
 962,'919','Regional Mental Health Ctr',43.003245,-81.206768
-963,'922','Highbury South Of Oxford',43.007636,-81.20895
 964,'916','Robarts School',43.012418,-81.211375
 965,'898','Highbury @ Cheapside',43.014531,-81.212459
 966,'907','Highbury @ Godfrey',43.016829,-81.213651
@@ -544,7 +543,7 @@
 987,'929','Highbury @ Wilton',42.990734,-81.200996
 989,'927','Highbury @ Trafalgar',42.983478,-81.197678
 990,'897','Highbury @ Calvin',42.979733,-81.195733
-991,'453','Commissioners East Of Deveron',42.962615,-81.193652
+991,'453','Commissioners East Of Deveron',42.962645,-81.193643
 992,'1410','Pond Mills North Of Deveron',42.960494,-81.200409
 993,'1401','Pond Mills @ Baury',42.957486,-81.199719
 994,'1411','Pond Mills South Of Deveron',42.955138,-81.198965
@@ -602,7 +601,6 @@
 1057,'1637','Sarnia @ Brescia Ln',43.000384,-81.282356
 1058,'1644','Sarnia @ Sleightholme',42.998918,-81.287283
 1059,'1641','Sarnia @ Leyton',42.997241,-81.293041
-1060,'1642','Sarnia @ Middlewoods',42.9963,-81.296312
 1061,'2127','Wonderland North Of Sarnia',42.997012,-81.299648
 1062,'2098','Wonderland @ Beaverbrook Ave',42.989438,-81.295648
 1064,'2104','Wonderland North Of Farrah',42.985811,-81.293766
@@ -829,7 +827,6 @@
 1372,'2326','Bradley West Of Wellington Rd',42.934247,-81.224411
 1373,'2206','White Oaks Elementary School',42.9342,-81.232633
 1374,'300','Briarhill @ Huron',43.016976,-81.226235
-1375,'301','Briarhill South Of Melsandra',43.019388,-81.227379
 1376,'303','Bruce @ Marley Pl',42.972934,-81.251357
 1377,'304','Bruce @ Wortley',42.972448,-81.253366
 1378,'305','Brydges @ Hale',42.990508,-81.195478
@@ -980,7 +977,7 @@
 1579,'579','Dundalk @ Hines',42.945118,-81.244214
 1580,'580','Dundalk @ Hines',42.944798,-81.244219
 1581,'581','Dundas @ Industrial',43.009168,-81.160049
-1583,'583','Dundas @ Kellogg Ln',42.993579,-81.214938
+1583,'583','Dundas @ Kellogg Ln',42.993594,-81.214891
 1584,'584','Dundas @ Lyle',42.989387,-81.229835
 1585,'585','Dundas @ Maitland',42.987275,-81.237054
 1586,'586','Dundas @ Maitland',42.987404,-81.236751
@@ -1063,7 +1060,6 @@
 1697,'748','Fuller @ Highbury',43.024354,-81.218116
 1698,'749','Fuller @ McNay/Regal',43.022062,-81.225848
 1699,'751','Fuller @ Vesta',43.022911,-81.222931
-1700,'754','Gaiborough @ Limberlost',43.005616,-81.308209
 1702,'756','Sherwood Forest Mall',43.006225,-81.306097
 1703,'757','Sherwood Forest Mall',43.006698,-81.304967
 1704,'2343','Gaiborough Between Wonderland & Limberlost',43.005918,-81.307592
@@ -1178,7 +1174,6 @@
 1876,'1004','1185 Huron',43.017032,-81.224996
 1877,'1005','Huron @ Colborne',43.009233,-81.25175
 1878,'1006','Huron @ Fraser',43.009652,-81.250539
-1879,'1007','Huron @ Gatewood',43.014432,-81.23432
 1880,'1012','Huron @ McNay',43.017229,-81.224919
 1881,'1015','Huron @ Sandford',43.022767,-81.205444
 1882,'1016','Huron @ Sandford',43.022613,-81.206383
@@ -1240,12 +1235,10 @@
 1955,'1096','Kipps @ Belfield',43.019017,-81.240873
 1956,'1097','Kipps @ Briarhill',43.022453,-81.229344
 1957,'1098','Kipps @ Country Ln',43.019722,-81.238523
-1958,'1099','Kipps @ Kenmore Pl',43.02175,-81.231774
 1961,'1105','Langarth @ Holborn',42.964875,-81.262683
 1963,'1107','Lawson @ Banting',42.999543,-81.304563
 1964,'1108','Lawson @ Banting',42.999634,-81.304529
 1965,'1109','Lawson @ Denlaw',42.997874,-81.306513
-1966,'1110','Lawson @ Limberlost',42.99789,-81.306596
 1967,'1111','Lawson @ Lodale',43.001279,-81.299444
 1968,'1112','Lawson @ Lodale',43.00137,-81.29941
 1970,'1116','Lawson @ Wychwood',43.003581,-81.292807
@@ -1256,7 +1249,6 @@
 1975,'1119','Limberlost North Of Ardsley',43.002366,-81.309254
 1976,'1120','Limberlost Between Lawson & Ardsley',42.999973,-81.308371
 1977,'1121','Limberlost South Of Ardsley',42.999916,-81.308442
-1979,'1123','Limberlost @ Fairfax',43.00389,-81.308979
 1980,'1124','Limberlost @ Gaiborough',43.005037,-81.309399
 1981,'1125','Limberlost @ Gaiborough',43.004912,-81.309452
 1985,'1131','MacKay @ Emery',42.963916,-81.264329
@@ -1506,6 +1498,7 @@
 2336,'1810','Tweedsmuir @ Court Ln East',42.982252,-81.183322
 2337,'1811','Tweedsmuir @ Court Ln West',42.982365,-81.185867
 2338,'1813','Tweedsmuir @ Hale',42.982862,-81.191508
+2339,'1814','Tweedsmuir @ Jasper',42.983139,-81.189357
 2343,'1825','Upper Quee North Of Chiddington',42.95352,-81.240689
 2344,'1826','Upper Quee @ Commissioners Rd',42.957458,-81.241439
 2345,'1827','Upper Quee @ Commissioners Rd',42.957062,-81.24153
@@ -1849,6 +1842,7 @@
 3865,'2646','Gore @ Braesyde',42.978112,-81.172935
 3866,'2647','Gore @ Firestone',42.979066,-81.169465
 3867,'2663','Hyde Pk @ Hazelden',42.968815,-81.316153
+3868,'2664','Hyde Pk @ Riverside',42.964655,-81.314941
 3869,'2643','Ferndale @ Homeview',42.94692,-81.250697
 3870,'2641','Ferndale @ Hampstead',42.94714,-81.247113
 3871,'2642','Ferndale @ Hampstead',42.947192,-81.247644
@@ -1925,4 +1919,5 @@
 3974,'2760','Dalhousie @ Brixham',42.938928,-81.291187
 3975,'2769','Southdale @ SW Community Ctr',42.938393,-81.288383
 3976,'2768','Southdale @ Pine Vly',42.938701,-81.283717
-3977,'2138','Wonderland @ Viscount 1',42.948855,-81.289568
+3977,'','Wonderland @ Viscount 1',42.948855,-81.289568
+4122,'','Fahawe College Stop 4',43.010774,-81.201441
