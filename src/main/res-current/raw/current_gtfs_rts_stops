@@ -42,12 +42,11 @@
 66,'1541','Ridout @ Emery',42.965227,-81.245179
 67,'384','Chiddington Ave @ Chiddington Gt',42.952254,-81.233581
 69,'','Southdale @ Nixon',42.942508,-81.236577
-71,'2295','Jalna & White Oaks Mall',42.931158,-81.227254
+71,'2295','Jalna @ White Oaks Mall',42.931158,-81.227254
 72,'2296','Jalna @ White Oaks Mall',42.931102,-81.227399
 76,'608','Dundalk @ Stockton',42.942628,-81.243814
 77,'390','Chiddington @ Wilki',42.952296,-81.233496
 78,'1540','Ridout @ Emery',42.964715,-81.244873
-80,'1470','Richmond South Of Dundas',42.983175,-81.249319
 82,'1260','Oxford @ Adelaide',42.99992,-81.237831
 83,'2225','Fahawe College Stop 5',43.013262,-81.199206
 87,'1558','Ridout @ York',42.980443,-81.253033
@@ -250,12 +249,15 @@
 653,'1935','Wellington @ Dearness',42.929847,-81.219712
 655,'1086','King @ Richmond',42.982623,-81.248536
 656,'1080','King @ Clarence',42.983335,-81.245868
+657,'1948','Wellington @ Horton',42.979808,-81.242895
 659,'1945','Wellington @ Grey',42.977378,-81.241642
 660,'1969','Wellington @ South',42.975173,-81.240561
 661,'1943','Wellington @ Grand',42.972119,-81.23806
 664,'1970','Wellington @ Thomas Janes',42.965569,-81.232118
 665,'1958','Wellington @ Percy',42.963536,-81.231625
 667,'1933','Wellington South Of Commissioners',42.957854,-81.230256
+668,'1972','Wellington @ Waterman',42.954466,-81.229486
+670,'1978','Wellington South Of Wilki',42.951023,-81.228688
 671,'1956','705 Wellington',42.94844,-81.228036
 672,'1957','Wellington @ Creston',42.946946,-81.227657
 673,'1954','Wellington North Of Montgomery G.T',42.939705,-81.225036
@@ -278,6 +280,7 @@
 690,'529','Dow @ Ashbury',42.93947,-81.205079
 691,'1259','Osgoode @ Woodrow',42.938269,-81.206641
 692,'1256','1081 Osgoode',42.938117,-81.212643
+693,'1253','Osgoode @ Fitzroy',42.937771,-81.214978
 694,'1252','Osgoode @ Breckenridge',42.93763,-81.217447
 695,'2070','Willow @ Osgoode',42.93894,-81.218681
 696,'508','Dearness @ Willow Ln',42.938281,-81.22172
@@ -287,7 +290,7 @@
 701,'955','Holiday @ Greenfield',42.928343,-81.219316
 702,'954','Holiday @ Exeter',42.926412,-81.218862
 703,'2061','White Oaks Mall Stop 2',42.931714,-81.222633
-704,'1928','Wellington South Of Bradley Ave',42.933728,-81.223039
+705,'1926','Wellington North Of Bradley',42.935402,-81.223744
 706,'1952','Wellington @ Montgomery Gt',42.939082,-81.224643
 707,'505','Dearness @ Bradley',42.935217,-81.220893
 708,'506','Dearness @ Dunelm Ln',42.937012,-81.221301
@@ -308,15 +311,18 @@
 724,'1191','Millbank @ Shaftury East',42.950273,-81.205551
 725,'1187','Millbank @ Parliament',42.952118,-81.20764
 726,'1194','Millbank @ Shaftury West',42.949744,-81.210611
+727,'1184','Millbank @ Ury',42.9487,-81.211287
 728,'1183','131 Millbank',42.946075,-81.211972
 729,'1190','Laurier Secondary School',42.94561,-81.204729
 730,'1688','964 Southdale',42.944983,-81.209328
 731,'1667','Southdale @ Adelaide',42.944488,-81.215236
 732,'1712','Southdale @ Willow',42.943993,-81.220942
+733,'1704','Southdale @ Wellington',42.943796,-81.224327
 734,'1934','Wellington @ Creston Ave',42.946286,-81.227132
 735,'1965','Wellington North Of Southdale Rd',42.944743,-81.22623
 736,'1975','Wellington South Of Wilki St',42.951107,-81.228451
 737,'1977','Wellington North Of Wilki',42.9546,-81.229335
+738,'1971','Wellington @ Waterman',42.956452,-81.229685
 739,'1931','Wellington @ Commissioners',42.958872,-81.230199
 741,'1929','Wellington @ Chester',42.96436,-81.231661
 742,'1922','Wellington & Alexandra St',42.967398,-81.232396
@@ -324,7 +330,9 @@
 744,'1925','Wellington @ Bond',42.968858,-81.234644
 745,'1950','Wellington @ McClary AVE',42.970589,-81.236686
 746,'1942','Wellington @ Grand Ave',42.972393,-81.238086
+747,'1968','Wellington @ South St',42.975691,-81.240519
 749,'1944','Wellington @ Grey St',42.978105,-81.241688
+751,'1949','Wellington South Of Horton',42.979975,-81.242637
 752,'1442','Quee @ Clarence',42.98586,-81.247506
 753,'1488','Richmond @ Kent',42.988374,-81.250678
 755,'1483','Richmond @ Hyman',42.991222,-81.250886
@@ -632,6 +640,7 @@
 1151,'1772','3rd @ Oxford',43.011824,-81.190053
 1152,'412','Clarke @ Royal',42.996122,-81.171725
 1153,'414','Sunrise Baptist Church',42.997734,-81.172518
+1154,'1250','Osgoode West Of Adelaide',42.938882,-81.210941
 1155,'276','Boler South Of Commissioners',42.958331,-81.332375
 1156,'400','Clarke @ Culver',43.011313,-81.179156
 1158,'38','Adelaide @ Hl',42.980363,-81.227992
@@ -795,7 +804,6 @@
 1415,'350','Cheapside @ Boullee',43.010344,-81.225389
 1416,'351','Cheapside @ Brampton',43.007764,-81.233993
 1417,'2209','Cheapside @ Elliott',43.007531,-81.235149
-1418,'352','Cheapside @ Colborne',43.003757,-81.248777
 1419,'353','Cheapside @ Colborne',43.003974,-81.248369
 1420,'354','Cheapside @ Gammage',43.008605,-81.231088
 1421,'355','Cheapside @ Gammage',43.008478,-81.23179
@@ -1176,7 +1184,7 @@
 2014,'1169','Meg @ Exeter',42.925303,-81.232154
 2015,'1199','Montabello @ Fundy',42.978533,-81.178654
 2016,'1200','Montabello @ Gore',42.977249,-81.178022
-2018,'1206','Montabello AtTweedsmuir',42.979914,-81.179396
+2018,'1206','Montabello @ Tweedsmuir',42.979914,-81.179396
 2019,'1207','Mornington @ Connaught',43.003582,-81.211879
 2020,'1208','Mornington East Of Connaught',43.003289,-81.212212
 2022,'1209','Mornington @ Curry',43.002531,-81.217507
@@ -1199,7 +1207,7 @@
 2044,'1246','Oakville @ Tilipe',43.028653,-81.193699
 2045,'2410','Oxford @ Vetera',43.022426,-81.159591
 2046,'1273','Oxford East Of Clarke',43.016547,-81.180449
-2047,'1274','General Motors Defee Gt 1',43.01769,-81.176831
+2047,'1274','General Dynamics Gt 1',43.01769,-81.176831
 2048,'1275','General Dynamics Gt 1',43.017621,-81.176624
 2049,'2257','Oxford East Of Clarke',43.016714,-81.180353
 2050,'1276','Oxford West Of Clarke',43.015147,-81.185342
@@ -1457,6 +1465,7 @@
 2431,'1916','Wavell @ Vancouver St',42.994928,-81.185574
 2433,'1918','Wavell @ Winnipeg Blvd',42.99567,-81.183263
 2434,'','Wellington @ Baseline Rd',42.962116,-81.230972
+2435,'2428','Wellington Between Creston & Wilki',42.948492,-81.227842
 2436,'1936','Wellington @ Dufferin St',42.987394,-81.246459
 2437,'1947','Wellington North Of Horton',42.98049,-81.242866
 2440,'1960','Wellington @ Quee Ave',42.985598,-81.245841
@@ -1731,7 +1740,7 @@
 3880,'2635','Admiral @ Trafalgar',42.994339,-81.165684
 3881,'2677','Wexford & Admiral',42.996373,-81.164955
 3888,'2683','Horton @ Springbank',42.975348,-81.269979
-3889,'2649','Grand @ Bellevue',42.97138,-81.246221
+3889,'2684','Grand @ Bellevue',42.97138,-81.246221
 3891,'2687','Hyde Pk @ North Routledge Pk 2',43.000982,-81.333294
 3892,'2685','Hyde Pk @ North Routledge Pk',43.003185,-81.334084
 3893,'2686','Hyde Pk @ North Routledge Pk 1',43.003538,-81.334617
@@ -1915,3 +1924,4 @@
 4112,'2797','Colborne @ Grosvenor',43.001941,-81.247725
 4113,'2798','Colborne @ Grosvenor',43.001633,-81.24739
 4114,'2796','Colborne @ Cheapside',43.003593,-81.248574
+4115,'2795','Cheapside @ Colborne',43.003856,-81.248275
