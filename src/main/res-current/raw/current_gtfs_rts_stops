@@ -96,7 +96,7 @@
 153,'2196','Berkshire @ Berkshire Pl SB',42.962676,-81.288377
 154,'1999','Westmount Mall @ Stop 3',42.947484,-81.292059
 155,'1706','Southdale West Of Wharncliffe EB',42.940606,-81.258723
-156,'2062','White Oaks Mall Stop 3',42.932003,-81.222982
+156,'2062','White Oaks Mall Stop 3',42.932033,-81.222974
 157,'648','Emery @ Phyllis WB',42.963571,-81.272846
 159,'1997','Westmount Mall @ Stop 1',42.947415,-81.29255
 161,'487','Cranbrook @ Commissioners NB',42.951921,-81.302897
@@ -290,7 +290,7 @@
 701,'955','Holiday @ Greenfield SB',42.928343,-81.219316
 702,'954','Holiday @ Exeter SB',42.926412,-81.218862
 703,'2061','White Oaks Mall Stop 2',42.931714,-81.222633
-705,'1926','Wellington North Of Bradley NB',42.935402,-81.223744
+705,'1926','Wellington North Of Bradley NB',42.935398,-81.223745
 706,'1952','Wellington @ Montgomery Gt NB',42.939082,-81.224643
 707,'505','Dearness @ Bradley NB',42.935217,-81.220893
 708,'506','Dearness @ Dunelm Ln NB',42.937012,-81.221301
@@ -804,6 +804,7 @@
 1415,'350','Cheapside @ Boullee WB',43.010344,-81.225389
 1416,'351','Cheapside @ Brampton EB',43.007764,-81.233993
 1417,'2209','Cheapside @ Elliott WB',43.007531,-81.235149
+1418,'352','Cheapside @ Colborne EB',43.003757,-81.248777
 1419,'353','Cheapside @ Colborne WB',43.003974,-81.248369
 1420,'354','Cheapside @ Gammage EB',43.008605,-81.231088
 1421,'355','Cheapside @ Gammage WB',43.008478,-81.23179
@@ -1657,7 +1658,6 @@
 3738,'2542','Kains @ Kirkpatrick NB',42.972453,-81.356629
 3739,'2545','Kains @ Riverbend WB',42.974116,-81.36311
 3740,'2547','Riverbend @ Shr SB',42.969093,-81.361089
-3741,'2548','Shr @ Kains EB',42.969417,-81.355801
 3742,'2533','Commissioners @ Chestnut Hl 1 SB',42.965489,-81.351525
 3743,'2534','Commissioners @ Chestnut Hl 2 SB',42.963767,-81.347056
 3744,'2535','Commissioners @ Grandview EB',42.963298,-81.344232
@@ -1924,4 +1924,3 @@
 4112,'2797','Colborne @ Grosvenor SB',43.001941,-81.247725
 4113,'2798','Colborne @ Grosvenor NB',43.001633,-81.24739
 4114,'2796','Colborne @ Cheapside SB',43.003593,-81.248574
-4115,'2795','Cheapside @ Colborne EB',43.003856,-81.248275
