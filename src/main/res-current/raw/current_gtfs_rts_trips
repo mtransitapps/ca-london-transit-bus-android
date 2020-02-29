@@ -6,8 +6,8 @@
 304,0,'Downtown',3
 402,0,'Fanshawe College',4
 403,0,'White Oaks Mall',4
+501,0,'Argyle Mall',5
 504,0,'Byron',5
-501,0,'Downtown',5
 602,0,'Natural Science',6
 603,0,'Parkwood Hosp',6
 701,0,'Argyle Mall',7
@@ -20,7 +20,7 @@
 1203,0,'Wharncliffe & Wonderland',12
 1302,0,'Masonville Mall',13
 1303,0,'White Oaks Mall',13
-1502,0,'Downtown',15
+1502,0,'Oakville & Huron',15
 1503,0,'Westmount Mall',15
 1602,0,'Masonville Mall',16
 1603,0,'Summerside',16
