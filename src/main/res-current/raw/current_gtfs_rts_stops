@@ -163,7 +163,7 @@
 268,'1312','Oxford @ Hyde Pk WB',42.975275,-81.322369
 269,'1306','Oxford @ Guildwood Gt WB',42.977515,-81.314731
 274,'1431','Proudfoot @ Oxford SB',42.984805,-81.287837
-276,'1435','Quebec &t Dundas NB',42.992891,-81.219093
+276,'1435','Quebec @ Dundas NB',42.992891,-81.219093
 277,'1217','Mornington @ Salisbury EB',43.002589,-81.214663
 278,'1218','Mornington @ Salisbury WB',43.002796,-81.215322
 279,'595','Dundas @ Quebec WB',42.9924,-81.219503
@@ -208,7 +208,7 @@
 373,'2259','Pinnacle Pkwy @ Fanshawe NB',43.021158,-81.299333
 374,'1142','Masonville Pl Stop #3',43.02586,-81.281823
 378,'287','Bonaventure @ Trafalgar SB',42.997744,-81.153783
-386,'1899','Wavell @ Clarkeroad WB',42.998523,-81.173288
+386,'1899','Wavell @ Clarke WB',42.998523,-81.173288
 458,'1443','Queens @ Ridout WB',42.98368,-81.254207
 459,'2415','Beaverbrook @ Capulet WB',42.988455,-81.299991
 460,'1326','Oxford @ Platts Ln WB',42.989933,-81.272489
@@ -343,7 +343,7 @@
 761,'1506','Richmond @ Regent NB',43.005693,-81.25836
 762,'1481','Richmond @ Huron NB',43.007342,-81.259406
 763,'1821','Elgin Hall WB',43.007963,-81.265357
-764,'1520','Richmond North Of WindermereNB',43.016808,-81.272741
+764,'1520','Richmond North Of Windermere NB',43.016808,-81.272741
 765,'1516','Richmond @ Westchester NB',43.018073,-81.274989
 766,'1460','Richmond @ Canterbury NB',43.019282,-81.277079
 767,'1511','Richmond @ Sunnyside NB',43.02172,-81.279942
@@ -411,7 +411,7 @@
 859,'404','Clarke @ Firestone NB',42.983111,-81.164911
 860,'395','Clarke @ Charterhouse NB',42.99043,-81.168805
 861,'397','Marconi Club NB',42.987716,-81.16735
-862,'417','Clarke North OfTrafalgar NB',42.993016,-81.170087
+862,'417','Clarke North Of Trafalgar NB',42.993016,-81.170087
 864,'420','Clarke Rd Secondary School',42.999051,-81.172879
 865,'398','Clarke @ Churchill NB',43.00102,-81.173848
 868,'402','Clarke @ Dundas NB',43.005365,-81.176055
@@ -862,7 +862,6 @@
 1498,'472','Commissioners @ North WB',42.956876,-81.322416
 1499,'473','Commissioners West Of Nottinghill EB',42.952527,-81.299502
 1500,'475','Commissioners West Of Pondmills EB',42.961323,-81.201406
-1501,'476','Commissioners East Of Pondmills WB',42.961819,-81.199216
 1502,'477','Commissioners East Of Pondmills EB',42.961925,-81.197476
 1503,'478','Commissioners West Of Pondmills WB',42.9615,-81.20151
 1504,'2426','Commissioners @ Western Counties Rd',42.958514,-81.22334
@@ -1253,7 +1252,7 @@
 2107,'1439','Quebec @ Lorne SB',42.995327,-81.220397
 2108,'1440','Quebec @ Mornington SB',43.000372,-81.222939
 2109,'1441','Quebec @ Queens NB',42.993921,-81.219616
-2111,'1785','Thompson @ Jacquelinet WB',42.969025,-81.2199
+2111,'1785','Thompson @ Jacqueline WB',42.969025,-81.2199
 2112,'1445','Railton @ Kennedy Pl SB',42.994444,-81.152093
 2113,'1446','Railton @ Portsmouth SB',42.988241,-81.150232
 2114,'1447','Railton @ Saddy SB',42.990818,-81.151272
@@ -1662,7 +1661,7 @@
 3744,'2535','Commissioners @ Grandview EB',42.963298,-81.344232
 3745,'2538','Commissioners @ Reynolds SB',42.962395,-81.341114
 3747,'2539','Commissioners @ Stephen SB',42.961279,-81.33756
-3748,'2537','Commissioners @ Halls Mills SB',42.960233,-81.334417
+3748,'2537','Commissioners @ Halls Mills EB',42.960233,-81.334417
 3750,'2549','Doon North Of Muskoka NB',43.022923,-81.260715
 3753,'2551','Springbank @ Wonderland',42.963376,-81.293335
 3781,'2575','Beaverbrook @ Oakcrossing West WB',42.987393,-81.311797
