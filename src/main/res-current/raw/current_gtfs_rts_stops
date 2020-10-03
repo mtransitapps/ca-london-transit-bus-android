@@ -92,7 +92,7 @@
 149,'1141','Masonville Pl Stop #2',43.025666,-81.281723
 150,'1144','Masonville Pl Stop #5',43.025452,-81.281354
 151,'2118','Wonderland South Of Oxford SB',42.981865,-81.29174
-152,'2323','Wonderland @ Springbank SB',42.963094,-81.293081
+152,'2133','Wonderland @ Springbank SB',42.963094,-81.293081
 153,'2196','Berkshire @ Berkshire Pl SB',42.962676,-81.288377
 154,'1999','Westmount Mall @ Stop 3',42.947484,-81.292059
 155,'1706','Southdale West Of Wharncliffe EB',42.940606,-81.258723
@@ -311,6 +311,7 @@
 724,'1191','Millbank @ Shaftsbury East NB',42.950273,-81.205551
 725,'1187','Millbank @ Parliament WB',42.952118,-81.20764
 726,'1194','Millbank @ Shaftsbury West SB',42.949744,-81.210611
+727,'1184','Millbank @ Ebury SB',42.9487,-81.211287
 728,'1183','131 Millbank',42.946075,-81.211972
 729,'1190','Laurier Secondary School',42.94561,-81.204729
 730,'1688','964 Southdale WB',42.944983,-81.209328
@@ -688,7 +689,6 @@
 1207,'95','Admiral @ Carlyle EB',43.001932,-81.158102
 1208,'96','Admiral @ Carlyle WB',43.00203,-81.158034
 1209,'97','319 Admiral',42.999776,-81.161407
-1211,'99','Admiral @ Kipling EB',42.997513,-81.161871
 1212,'100','Admiral @ Sovereign WB',43.004599,-81.148364
 1213,'101','Admiral @ Vaubois EB',43.002464,-81.156352
 1214,'102','Admiral @ Vaubois WB',43.002581,-81.15622
@@ -1899,7 +1899,6 @@
 4093,'2905','White Oak Rd @ Exeter NS 2 SB',42.923436,-81.248007
 4094,'2898','White Oak Rd South Of Bradley SB',42.92971,-81.249489
 4095,'2831','Fanshawe @ Richmond EB',43.026756,-81.282094
-4096,'2832','Fanshawe @ Richmond WB',43.02702,-81.282138
 4097,'2886','Wellington @ Southdale NS 1 NB',42.942949,-81.225455
 4098,'2887','Wellington @ Southdale NS 3 NB',42.942176,-81.225262
 4099,'2888','Wellington @ Southdale FS SB',42.94299,-81.225878
