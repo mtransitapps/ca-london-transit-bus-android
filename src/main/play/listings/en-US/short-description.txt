@@ -1,2 +1,1 @@
-London Transit Bus for MonTransit.
-Schedule. Real-Time. News.
+London Transit Bus for MonTransit. Schedule. Detours. News.
