@@ -1,6 +1,6 @@
 # London Transit (LTC) Bus for [MonTransit](https://github.com/mtransitapps/mtransit-for-android)
 
-<img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-london-transit-bus-android/master/pub/hi-res-app-icon.png"/>
+<img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-london-transit-bus-android/master/src/main/play/listings/en-US/graphics/icon/1.png"/>
 
 ## Download on Google Play
 
@@ -8,15 +8,13 @@
 
 ## Screenshots
 
-<img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-london-transit-bus-android/master/pub/screenshot-phone-1.png"/>
-<img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-london-transit-bus-android/master/pub/screenshot-phone-2.png"/>
-<img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-london-transit-bus-android/master/pub/screenshot-phone-3.png"/>
+<img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-london-transit-bus-android/master/src/main/play/listings/en-US/graphics/phone-screenshots/1.png"/>
+<img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-london-transit-bus-android/master/src/main/play/listings/en-US/graphics/phone-screenshots/2.png"/>
+<img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-london-transit-bus-android/master/src/main/play/listings/en-US/graphics/phone-screenshots/3.png"/>
 
 ## Social
 
 * [Facebook](https://www.facebook.com/MonTransit)
-
-* [Google+](http://gplus.to/MonTransit/)
 
 * [Twitter](https://twitter.com/montransit)
 
@@ -26,4 +24,4 @@ Learn more about the BETA program [here](https://github.com/mtransitapps/mtransi
 
 ## License
 
-* [Apache Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
+* [Apache Version 2.0](https://www.apache.org/licenses/LICENSE-2.0.html)
