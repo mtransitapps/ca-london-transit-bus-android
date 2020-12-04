@@ -1432,7 +1432,6 @@
 2125,'2125','Sarnia @ Wonderland WB',42.995739,-81.29845
 2128,'2128','Wonderland @ Southdale NB',42.939594,-81.281397
 2132,'2132','Wonderland @ Springbank NB',42.964403,-81.293102
-2133,'2133','Wonderland @ Springbank SB',42.963094,-81.293081
 2134,'2134','Wonderland @ Teeple Terrance NB',42.959046,-81.293315
 2135,'2135','Wonderland @ Vlg Grn NB',42.95074,-81.289716
 2136,'2136','Wonderland @ VillageGreen Ave SB',42.951463,-81.290115
@@ -1533,6 +1532,7 @@
 2317,'2317','Hamilton @ William EB',42.98227,-81.230895
 2318,'2318','Hamilton @ William WB',42.98248,-81.231086
 2322,'2322','Wonderland South Of Sarnia SB',42.994507,-81.298298
+2323,'2323','Wonderland @ Springbank SB',42.963094,-81.293081
 2324,'2324','Bradley Between Adelaide & Willow WB',42.935836,-81.21345
 2325,'2325','Bradley @ Willow 2 EB',42.935125,-81.216969
 2326,'2326','Bradley West Of Wellington Rd EB',42.934247,-81.224411
@@ -1845,6 +1845,7 @@
 2829,'2829','Exeter @ Wonderland FS EB',42.920771,-81.276599
 2830,'2830','Fanshawe @ Freemont WB',43.036392,-81.250153
 2831,'2831','Fanshawe @ Richmond EB',43.026756,-81.282094
+2832,'2832','Fanshawe @ Richmond WB',43.02702,-81.282138
 2833,'2833','Fanshawe @ Trossacks FS EB',43.038004,-81.243949
 2834,'2834','Fanshawe @ Trossacks FS WB',43.038011,-81.24474
 2835,'2835','Fanshawe @ Wonderland NS EB',43.018259,-81.310615
