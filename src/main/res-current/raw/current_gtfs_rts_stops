@@ -243,7 +243,7 @@
 386,'386','Chiddington @ Huntingdon WB',42.953562,-81.235669
 389,'389','Chiddington @ Upper Queens WB',42.953264,-81.239981
 390,'390','Chiddington @ Wilkins NB',42.952296,-81.233496
-391,'391','Chippewa Elementary School',43.028257,-81.197729
+391,'391','Chippewa ES',43.028257,-81.197729
 392,'392','Chippewa @ Appache WB',43.026565,-81.202334
 393,'393','Chippewa @ Trevor WB',43.02762,-81.199787
 394,'394','Clarke @ Avalon NB',43.006881,-81.176782
@@ -269,7 +269,7 @@
 417,'417','Clarke N Of Trafalgar NB',42.993016,-81.170087
 418,'418','Clarke N Of Trafalgar SB',42.993134,-81.170342
 419,'419','Clarke S Of Trafalgar SB',42.990993,-81.16926
-420,'420','Clarke Rd Secondary School',42.999051,-81.172879
+420,'420','Clarke Rd SS',42.999051,-81.172879
 421,'421','Clarke @ Wavell SB',42.998256,-81.172885
 432,'432','Colborne @ Central NB',42.992777,-81.242853
 433,'433','Colborne @ Central SB',42.992253,-81.242789
@@ -569,7 +569,7 @@
 900,'900','Highbury @ Dundas NB',42.997192,-81.203795
 901,'901','Highbury @ Dundas SB',42.996432,-81.203754
 903,'903','Highbury @ Edgevalley SB',43.035601,-81.223379
-905,'905','Montcalm Seconday School',43.023826,-81.217326
+905,'905','Montcalm Seconday S',43.023826,-81.217326
 906,'906','Highbury @ Fuller SB',43.02419,-81.217828
 907,'907','Highbury @ Godfrey NB',43.016829,-81.213651
 908,'908','Highbury @ Godfrey SB',43.016125,-81.213557
@@ -580,14 +580,14 @@
 913,'913','Highbury @ Huron NB',43.019576,-81.215148
 914,'914','Highbury @ Killarney SB',43.039184,-81.225139
 915,'915','Highbury @ Kilally SB',43.031662,-81.221536
-916,'916','Robarts School',43.012418,-81.211375
+916,'916','Robarts S',43.012418,-81.211375
 917,'917','Highbury @ Landor SB',43.012378,-81.211623
 919,'919','Regional Mental Health Ctr NB',43.003245,-81.206768
 920,'920','Regional Mental Health Ctr',43.002418,-81.206675
 921,'921','Highbury @ Magee NB',42.979895,-81.195647
 922,'922','Highbury S Of Oxford NB',43.007636,-81.20895
 923,'923','953 Highbury',43.005934,-81.208378
-924,'924','John Paul Seconday School',43.009316,-81.209776
+924,'924','John Paul Seconday S',43.009316,-81.209776
 925,'925','Oxbury Mall',43.007703,-81.209314
 926,'926','Highbury @ Trafalgar NB',42.983542,-81.197502
 927,'927','Highbury @ Trafalgar SB',42.983478,-81.197678
@@ -762,7 +762,7 @@
 1187,'1187','Millbank @ Parliament WB',42.952118,-81.20764
 1188,'1188','Millbank @ Southdale NB',42.945211,-81.21175
 1189,'1189','Millbank @ Southdale SB',42.944955,-81.211803
-1190,'1190','Laurier Secondary School',42.94561,-81.204729
+1190,'1190','Laurier SS',42.94561,-81.204729
 1191,'1191','Millbank @ Shaftsbury E NB',42.950273,-81.205551
 1192,'1192','Millbank @ Shaftsbury E SB',42.950104,-81.205462
 1193,'1193','Millbank @ Shaftsbury NB',42.949798,-81.210517
@@ -855,7 +855,7 @@
 1307,'1307','Oxbury Ctr',43.007889,-81.210425
 1308,'1308','Oxford @ Highbury WB',43.008198,-81.209901
 1309,'1309','Oxford @ Highbury EB',43.008538,-81.208231
-1310,'1310','John Paul Secondary School',43.008983,-81.2073
+1310,'1310','John Paul SS',43.008983,-81.2073
 1311,'1311','Oxford @ Hyde Pk EB',42.975591,-81.320655
 1312,'1312','Oxford @ Hyde Pk WB',42.975275,-81.322369
 1313,'1313','Oxford E Of Ind EB',43.021161,-81.164167
@@ -884,7 +884,7 @@
 1337,'1337','Oxford @ Royal York EB',42.974746,-81.323709
 1338,'1338','Oxford @ Royal York WB',42.974646,-81.324364
 1339,'1339','St Aidens Church',42.973813,-81.326909
-1340,'1340','Marie Curie School',42.973802,-81.327313
+1340,'1340','Marie Curie S',42.973802,-81.327313
 1341,'1341','Oxford @ Sanatorium EB',42.971955,-81.333339
 1343,'1343','Oxford @ 2nd EB',43.012141,-81.19586
 1344,'1344','Oxford @ Fanshawe College Blvd WB',43.012511,-81.195051
@@ -971,7 +971,7 @@
 1463,'1463','Richmond @ Central SB',42.990176,-81.250873
 1464,'1464','Richmond @ Cheapside NB',43.001527,-81.256205
 1465,'1465','Richmond @ Cheapside SB',43.001785,-81.25651
-1467,'1467','Richmond @ Dufferin SB',42.986306,-81.250755
+1467,'1467','Richmond @ Dufferin SB',42.98696,-81.250781
 1475,'1475','Richmond @ Grey SB',42.976781,-81.246257
 1476,'1476','Richmond @ Grosvenor NB',43.000039,-81.255383
 1477,'1477','Richmond @ Grosvenor SB',42.999325,-81.255246
@@ -1073,7 +1073,7 @@
 1631,'1631','Sanatorium @ Riverside NB',42.965445,-81.331142
 1632,'1632','Sanatorium @ Riverside SB',42.965376,-81.331258
 1633,'1633','Sanatorium @ Sutton Pl NB',42.968935,-81.332904
-1634,'1634','St Thomas Aquanis Secondary School SB',42.969123,-81.333177
+1634,'1634','St Thomas Aquanis SS SB',42.969123,-81.333177
 1635,'1635','Sarnia @ Aldersbrook EB',42.993777,-81.304513
 1636,'1636','Sarnia @ Aldersbrook WB',42.993911,-81.30438
 1637,'1637','Sarnia @ Brescia Ln WB',43.000384,-81.282356
@@ -1112,7 +1112,7 @@
 1684,'1684','Southdale @ Koru Crt WB',42.945718,-81.200797
 1685,'1685','Southdale @ Millbank Dr E EB',42.945247,-81.205007
 1686,'1686','Southdale E Of Millbank WB',42.945472,-81.203992
-1687,'1687','St Francis Elementary School EB',42.944869,-81.209276
+1687,'1687','St Francis ES EB',42.944869,-81.209276
 1688,'1688','964 Southdale WB',42.944983,-81.209328
 1689,'1689','Southdale @ Millbank Dr W EB',42.944622,-81.212057
 1690,'1690','Southdale W Of Millbank WB',42.944705,-81.212499
@@ -1185,7 +1185,7 @@
 1771,'1771','3rd @ Oxford NB',43.013179,-81.19059
 1772,'1772','3rd @ Oxford SB',43.011824,-81.190053
 1773,'1773','Thistlewood @ Blackwater EB',43.044314,-81.25747
-1776,'1776','Princess Elizabeth Elementary School EB',42.968377,-81.221932
+1776,'1776','Princess Elizabeth ES EB',42.968377,-81.221932
 1777,'1777','Thompson @ Adelaide WB',42.968275,-81.223112
 1779,'1779','Thompson @ Chesterfield EB',42.969255,-81.216183
 1780,'1780','Thompson @ Chesterfield WB',42.969298,-81.21699
@@ -1262,7 +1262,7 @@
 1885,'1885','Viscount @ Tavistock Rd NB',42.953716,-81.268278
 1886,'1886','Viscount @ Tavistock Rd 1 SB',42.95324,-81.268281
 1888,'1888','Viscount @ Vlg Grn WB',42.944876,-81.299283
-1889,'1889','Saunders Secondary School EB',42.946666,-81.291751
+1889,'1889','Saunders SS EB',42.946666,-81.291751
 1890,'1890','Viscount E Of Wonderland WB',42.947195,-81.288537
 1891,'1891','Viscount E Of Wonderland EB',42.947173,-81.288021
 1893,'1893','Viscount W Of Wonderland EB',42.946911,-81.289895
@@ -1470,7 +1470,7 @@
 2198,'2198','Berkshire S Of Gardenwood SB',42.962572,-81.28437
 2203,'2203','Bradley @ Adelaide EB',42.935911,-81.209743
 2205,'2205','Bradley @ Willow 2 WB',42.934989,-81.218937
-2206,'2206','White Oaks Elementary School',42.9342,-81.232633
+2206,'2206','White Oaks ES',42.9342,-81.232633
 2207,'2207','Brydges @ Cornish EB',42.991416,-81.192435
 2208,'2208','Brydges @ Graydon WB',42.992032,-81.191809
 2209,'2209','Cheapside @ Elliott WB',43.007531,-81.235149
@@ -1593,7 +1593,7 @@
 2449,'2449','Pond Mills N Of Scenic SB',42.972444,-81.209591
 2452,'2452','Shelbourne Between Burlington & Deveron EB',42.96255,-81.19923
 2453,'2453','Commissioners @ Highbury EB',42.963056,-81.188761
-2458,'2458','Riverside Elemertary School EB',42.975214,-81.305469
+2458,'2458','Riverside Elemertary S EB',42.975214,-81.305469
 2461,'2461','Commissioners @ Beachwood WB',42.956137,-81.276837
 2462,'2462','Commissioners W Of Beachwood EB',42.955804,-81.278701
 2463,'2463','353 Commissioners',42.955854,-81.279878
@@ -1653,6 +1653,7 @@
 2546,'2546','Kains @ Summerville NB',42.973192,-81.357717
 2547,'2547','Riverbend @ Shr SB',42.969093,-81.361089
 2549,'2549','Doon N Of Muskoka NB',43.022923,-81.260715
+2551,'2551','Springbank @ Wonderland',42.963376,-81.293335
 2575,'2575','Beaverbrook @ Oakcrossing W WB',42.987393,-81.311797
 2589,'2589','Notre Dame @ Belmont NB',42.945862,-81.26784
 2590,'2590','Notre Dame @ Norton NB',42.942767,-81.266955
@@ -1697,7 +1698,7 @@
 2645,'2645','Ferndale @ Vincent WB',42.946761,-81.243845
 2646,'2646','Gore @ Braesyde EB',42.978112,-81.172935
 2647,'2647','Gore @ Firestone EB',42.979066,-81.169465
-2648,'2648','Gore @ Valleyview Apartments EB',42.976956,-81.177237
+2648,'2648','Gore @ Valleyview Apts EB',42.976956,-81.177237
 2650,'2650','Hale @ Hamilton NB',42.977769,-81.191056
 2651,'2651','Hale @ Magee NB',42.981756,-81.191144
 2652,'2652','Hamilton @ Braesyde WB',42.974125,-81.171728
@@ -1790,7 +1791,7 @@
 2766,'2766','Southcrest @ Gardenwood Dr WB',42.963886,-81.284769
 2767,'2767','Southcrest E Of Gardenwood EB',42.96383,-81.28437
 2768,'2768','Southdale @ Pine Vly EB',42.938701,-81.283717
-2769,'2769','Southdale @ SW Community Ctr EB',42.938393,-81.288383
+2769,'2769','Southdale @ SW CC EB',42.938393,-81.288383
 2770,'2770','Topping Ln @ Commissioners NB',42.955886,-81.283106
 2772,'2772','Windermere @ Western EB',43.015039,-81.276075
 2773,'2773','Opp 1985 Richmond NB',43.035214,-81.286993
