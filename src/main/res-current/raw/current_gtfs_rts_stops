@@ -66,6 +66,7 @@
 95,'95','Admiral @ Carlyle EB',43.001932,-81.158102
 96,'96','Admiral @ Carlyle WB',43.00203,-81.158034
 97,'97','319 Admiral',42.999776,-81.161407
+99,'99','Admiral @ Kipling EB',42.997513,-81.161871
 100,'100','Admiral @ Sovereign WB',43.004599,-81.148364
 101,'101','Admiral @ Vaubois EB',43.002464,-81.156352
 102,'102','Admiral @ Vaubois WB',43.002581,-81.15622
@@ -433,7 +434,6 @@
 653,'653','Enterprise @ Pond Mills EB',42.931561,-81.189731
 654,'654','Ernest @ Bradley NB',42.934816,-81.236399
 655,'655','Ernest @ Bradley SB',42.934612,-81.236504
-656,'656','Ernest @ Conway NB',42.932709,-81.23643
 657,'657','Ernest @ Conway SB',42.933053,-81.236551
 658,'658','Ernest @ Elvira SB',42.939341,-81.238539
 659,'659','Ernest @ Fennel NB',42.929488,-81.23594
@@ -991,24 +991,20 @@
 1494,'1494','Richmond @ Oxford NB',42.995977,-81.253301
 1495,'1495','Richmond @ Oxford SB',42.994909,-81.252915
 1496,'1496','Richmond @ Pall Mall NB',42.992773,-81.251649
-1497,'1497','Richmond @ Parkdale Ave SB',43.011195,-81.263629
 1501,'1501','Richmond @ Queens NB',42.985456,-81.250388
 1502,'1502','Richmond N Of Raymond NB',43.013188,-81.265588
-1503,'1503','Richmond N Of Raymond SB',43.012999,-81.26554
 1506,'1506','Richmond @ Regent NB',43.005693,-81.25836
 1508,'1508','Richmond @ Shavian SB',43.021409,-81.279995
 1509,'1509','Richmond @ Simcoe NB',42.977308,-81.246413
 1510,'1510','Richmond @ Simcoe SB',42.977941,-81.246863
 1511,'1511','Richmond @ Sunnyside NB',43.02172,-81.279942
 1512,'1512','Richmond @ University NB',43.008865,-81.261028
-1513,'1513','Richmond @ University SB',43.009232,-81.261626
 1514,'1514','Richmond @ Victoria NB',43.003609,-81.257279
 1515,'1515','Richmond @ Victoria SB',43.003846,-81.257557
 1516,'1516','Richmond @ Westchester NB',43.018073,-81.274989
 1518,'1518','Richmond @ Western SB',43.019685,-81.278143
 1519,'1519','1548 Richmond',43.018984,-81.276938
 1520,'1520','Richmond N Of Windermere NB',43.016808,-81.272741
-1521,'1521','Richmond @ Windermere SB',43.015204,-81.270279
 1523,'1523','Richmond @ Wyndham Gt SB',43.017966,-81.275139
 1531,'1531','Ridout @ Baker NB',42.967407,-81.246257
 1532,'1532','Ridout @ Baseline NB',42.960517,-81.242718
@@ -1382,7 +1378,6 @@
 2057,'2057','Wharncliffe @ Wyatt SB',42.982171,-81.26279
 2060,'2060','White Oaks Mall Stop 1',42.931378,-81.22283
 2061,'2061','White Oaks Mall Stop 2',42.931714,-81.222633
-2062,'2062','White Oaks Mall Stop 3',42.932033,-81.222974
 2066,'2066','Wilkins @ Chiddington Gt NB',42.950843,-81.234488
 2067,'2067','Wilkins @ Chiddington Gt SB',42.951127,-81.234432
 2068,'2068','Willow @ Dearness EB',42.938624,-81.220898
@@ -1727,7 +1722,6 @@
 2676,'2676','Tweedsmuir & Manitoulin EB',42.982669,-81.187178
 2677,'2677','Wexford & Admiral NB',42.996373,-81.164955
 2683,'2683','Horton @ Springbank WB',42.975348,-81.269979
-2684,'2684','Grand @ Bellevue EB',42.97138,-81.246221
 2685,'2685','Hyde Pk @ N Routledge Pk NB',43.003185,-81.334084
 2686,'2686','Hyde Pk @ N Routledge Pk 1 SB',43.003538,-81.334617
 2687,'2687','Hyde Pk @ N Routledge Pk 2 SB',43.000982,-81.333294
@@ -1793,7 +1787,6 @@
 2768,'2768','Southdale @ Pine Vly EB',42.938701,-81.283717
 2769,'2769','Southdale @ SW CC EB',42.938393,-81.288383
 2770,'2770','Topping Ln @ Commissioners NB',42.955886,-81.283106
-2772,'2772','Windermere @ Western EB',43.015039,-81.276075
 2773,'2773','Opp 1985 Richmond NB',43.035214,-81.286993
 2774,'2774','1985 Richmond SB',43.035062,-81.287222
 2779,'2779','Adelaide @ Glenora SB',43.028772,-81.251725
@@ -1801,7 +1794,6 @@
 2781,'2781','Ambleside @ Grangeover Cres NS SB',43.016308,-81.290829
 2782,'2782','Ambleside @ Hesketh NS SB',43.019092,-81.292747
 2784,'2784','Ambleside @ Whitehaven NS SB',43.020914,-81.294322
-2785,'2785','Philip Aziz @ Western NB',43.002102,-81.27609
 2786,'2786','Barker @ Huron NB',43.015762,-81.231649
 2787,'2787','Barker @ Kipps NS NB',43.020269,-81.236254
 2788,'2788','Barker @ Melsandra FS NB',43.018783,-81.232522
@@ -1846,11 +1838,11 @@
 2829,'2829','Exeter @ Wonderland FS EB',42.920771,-81.276599
 2830,'2830','Fanshawe @ Freemont WB',43.036392,-81.250153
 2831,'2831','Fanshawe @ Richmond EB',43.026756,-81.282094
-2832,'2832','Fanshawe @ Richmond WB',43.02702,-81.282138
 2833,'2833','Fanshawe @ Trossacks FS EB',43.038004,-81.243949
 2834,'2834','Fanshawe @ Trossacks FS WB',43.038011,-81.24474
 2835,'2835','Fanshawe @ Wonderland NS EB',43.018259,-81.310615
 2836,'','Dufferin @ Waterloo WB',42.988309,-81.243822
+2838,'2838','Glenora @ Adelaide EB',43.029212,-81.251314
 2839,'2839','Glenora @ Fanshawe SB',43.039197,-81.238956
 2840,'2840','Glenora @ Glengarry EB',43.031786,-81.243307
 2841,'2841','Glenora @ McLean NB',43.036837,-81.236716
@@ -1861,7 +1853,6 @@
 2846,'2846','Grenfell @ Stackhouse WB',43.044562,-81.23994
 2847,'2847','Grenfell @ Stackhouse EB',43.044568,-81.239735
 2848,'2848','Grenfell @ Trossacks WB',43.043026,-81.245849
-2849,'2849','Huron @ Lambton NB',43.006084,-81.271791
 2850,'2850','Kipps @ Adelaide WB',43.018164,-81.24418
 2852,'2852','Kipps @ Belfield NS WB',43.019159,-81.240758
 2853,'2853','Meadowlands @ Quarrier SB',43.032365,-81.294308
@@ -1895,9 +1886,7 @@
 2883,'2883','Sunningdale @ Vlg Walk NS EB',43.037003,-81.292949
 2884,'2884','Tilbury @ Pomeroy WB',42.934464,-81.310761
 2885,'2885','Tillman @ Raleigh SB',42.934839,-81.308467
-2886,'2886','Wellington @ Southdale NS 1 NB',42.942949,-81.225455
 2887,'2887','Wellington @ Southdale NS 3 NB',42.942176,-81.225262
-2888,'2888','Wellington @ Southdale FS SB',42.94299,-81.225878
 2889,'2889','Western @ Elgin SB',43.010028,-81.277456
 2891,'2891','Western @ Wellington Dr FS SB',43.010693,-81.27753
 2892,'2892','Wharncliffe @ Base Line NS NB',42.958709,-81.260758
