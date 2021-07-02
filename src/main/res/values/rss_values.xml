@@ -11,9 +11,9 @@
     <string-array name="rrs_file_cleaning_replacement">
     </string-array>
     <string-array name="rss_feeds">
-        <item>http://www.londontransit.ca/category/news/feed/</item>
-        <item>http://www.londontransit.ca/category/service-changes/feed/</item>
-        <item>http://www.londontransit.ca/category/detours/feed/</item>
+        <item>https://www.londontransit.ca/category/news/feed/</item>
+        <item>https://www.londontransit.ca/category/service-changes/feed/</item>
+        <item>https://www.londontransit.ca/category/detours/feed/</item>
     </string-array>
     <string-array name="rss_feeds_author_name">
         <item>LTC (News)</item>
@@ -21,9 +21,9 @@
         <item>LTC (Detours)</item>
     </string-array>
     <string-array name="rss_feeds_author_url">
-        <item>http://www.londontransit.ca/category/news/</item>
-        <item>http://www.londontransit.ca/category/service-changes/</item>
-        <item>http://www.londontransit.ca/category/detours/</item>
+        <item>https://www.londontransit.ca/category/news/</item>
+        <item>https://www.londontransit.ca/category/service-changes/</item>
+        <item>https://www.londontransit.ca/category/detours/</item>
     </string-array>
     <string-array name="rss_feeds_label">
         <item>www.londontransit.ca</item>
