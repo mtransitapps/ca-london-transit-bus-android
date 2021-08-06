@@ -154,7 +154,7 @@
 252,'252','Bessemer @ Bessemer Crt 2 NB',42.932033,-81.211985
 253,'253','Bessemer @ Hargrieve NB',42.929243,-81.212852
 255,'255','Blackwater E Of Adelaide EB',43.043968,-81.258899
-262,'262','Blackacres @ Edgehill Rd WB',43.012332,-81.31207
+262,'262','Blackacres @ Edgehill Cres 1 WB',43.011095,-81.311339
 263,'263','Blackacres @ Edgehill Cres WB',43.012802,-81.315024
 265,'265','Blackacres @ Hawthorne NB',43.009442,-81.310468
 267,'267','Blackacres @ Wonderland WB',43.009924,-81.306375
@@ -434,6 +434,7 @@
 653,'653','Enterprise @ Pond Mills EB',42.931561,-81.189731
 654,'654','Ernest @ Bradley NB',42.934816,-81.236399
 655,'655','Ernest @ Bradley SB',42.934612,-81.236504
+656,'656','Ernest @ Conway NB',42.932709,-81.23643
 657,'657','Ernest @ Conway SB',42.933053,-81.236551
 658,'658','Ernest @ Elvira SB',42.939341,-81.238539
 659,'659','Ernest @ Fennel NB',42.929488,-81.23594
