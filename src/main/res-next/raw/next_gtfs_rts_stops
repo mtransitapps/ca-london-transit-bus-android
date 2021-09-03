@@ -992,8 +992,10 @@
 1494,'1494','Richmond @ Oxford NB',42.995977,-81.253301
 1495,'1495','Richmond @ Oxford SB',42.994909,-81.252915
 1496,'1496','Richmond @ Pall Mall NB',42.992773,-81.251649
+1497,'1497','Richmond @ Parkdale Ave SB',43.011195,-81.263629
 1501,'1501','Richmond @ Queens NB',42.985456,-81.250388
 1502,'1502','Richmond N Of Raymond NB',43.013188,-81.265588
+1503,'1503','Richmond N Of Raymond SB',43.012999,-81.26554
 1506,'1506','Richmond @ Regent NB',43.005693,-81.25836
 1508,'1508','Richmond @ Shavian SB',43.021409,-81.279995
 1509,'1509','Richmond @ Simcoe NB',42.977308,-81.246413
@@ -1727,6 +1729,7 @@
 2676,'2676','Tweedsmuir & Manitoulin EB',42.982669,-81.187178
 2677,'2677','Wexford & Admiral NB',42.996373,-81.164955
 2683,'2683','Horton @ Springbank WB',42.975348,-81.269979
+2684,'2684','Grand @ Bellevue EB',42.97138,-81.246221
 2685,'2685','Hyde Pk @ N Routledge Pk NB',43.003185,-81.334084
 2686,'2686','Hyde Pk @ N Routledge Pk 1 SB',43.003538,-81.334617
 2687,'2687','Hyde Pk @ N Routledge Pk 2 SB',43.000982,-81.333294
@@ -1791,6 +1794,7 @@
 2768,'2768','Southdale @ Pine Vly EB',42.938701,-81.283717
 2769,'2769','Southdale @ SW CC EB',42.938393,-81.288383
 2770,'2770','Topping Ln @ Commissioners NB',42.955886,-81.283106
+2772,'2772','Windermere @ Western EB',43.015039,-81.276075
 2773,'2773','Opp 1985 Richmond NB',43.035214,-81.286993
 2774,'2774','1985 Richmond SB',43.035062,-81.287222
 2779,'2779','Adelaide @ Glenora SB',43.028772,-81.251725
