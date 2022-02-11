@@ -153,7 +153,6 @@
 250,'250','Bessemer @ Exeter NB',42.927041,-81.212835
 252,'252','Bessemer @ Bessemer Crt 2 NB',42.932033,-81.211985
 253,'253','Bessemer @ Hargrieve NB',42.929243,-81.212852
-255,'255','Blackwater E Of Adelaide EB',43.043968,-81.258899
 262,'262','Blackacres @ Edgehill Cres 1 WB',43.011095,-81.311339
 263,'263','Blackacres @ Edgehill Cres WB',43.012802,-81.315024
 265,'265','Blackacres @ Hawthorne NB',43.009442,-81.310468
@@ -208,8 +207,6 @@
 336,'336','Cathcart @ Elmwood NB',42.970601,-81.254468
 339,'339','Cathcart @ Langarth NB',42.965372,-81.253657
 340,'340','Cathcart @ Tecumseh NB',42.967892,-81.254039
-341,'341','Chambers @ Sandybrook NB',43.039748,-81.270162
-342,'342','Chambers @ Skyline NB',43.041719,-81.271282
 343,'343','Chambers @ Whisker SB',43.038329,-81.270524
 344,'344','Cheapside @ Adelaide EB',43.006237,-81.239049
 345,'345','Cheapside W Of Adelaide WB',43.006102,-81.240697
@@ -467,6 +464,7 @@
 706,'706','Fanshawe E Of N Ctr EB',43.028932,-81.274472
 707,'707','Fanshawe E Of N Ctr WB',43.026276,-81.284527
 708,'708','Fanshawe @ Phillbrook WB',43.032115,-81.264402
+709,'709','Fanshawe E Of Richmond EB',43.027429,-81.27953
 711,'711','Fanshawe @ Stoneybrook E EB',43.033409,-81.25933
 712,'712','Fanshawe @ Stoneybrook E WB',43.033749,-81.258955
 713,'713','Fanshawe @ Stoneybrook W EB',43.032203,-81.263454
@@ -555,10 +553,7 @@
 884,'884','Hamilton @ St Julien WB',42.979134,-81.204082
 885,'885','Hamilton @ Tennyson EB',42.97947,-81.207224
 887,'887','Hamilton @ Watmar EB',42.976094,-81.182582
-889,'889','Hastings @ Chambers NB',43.037134,-81.270738
 890,'890','Hastings @ Chambers SB',43.037031,-81.270715
-891,'891','Hastings @ Donnybrook NB',43.032086,-81.268232
-892,'892','Hastings @ Virginia NB',43.034071,-81.269268
 893,'893','Highbury @ Beattie NB',42.993153,-81.202075
 894,'894','Highbury @ Beattie SB',42.993444,-81.202342
 895,'895','London Transit Office',42.98814,-81.199636
@@ -991,8 +986,10 @@
 1494,'1494','Richmond @ Oxford NB',42.995977,-81.253301
 1495,'1495','Richmond @ Oxford SB',42.994909,-81.252915
 1496,'1496','Richmond @ Pall Mall NB',42.992773,-81.251649
+1497,'1497','Richmond @ Parkdale Ave SB',43.011195,-81.263629
 1501,'1501','Richmond @ Queens NB',42.985456,-81.250388
 1502,'1502','Richmond N Of Raymond NB',43.013188,-81.265588
+1503,'1503','Richmond N Of Raymond SB',43.012999,-81.26554
 1506,'1506','Richmond @ Regent NB',43.005693,-81.25836
 1508,'1508','Richmond @ Shavian SB',43.021409,-81.279995
 1509,'1509','Richmond @ Simcoe NB',42.977308,-81.246413
@@ -1182,7 +1179,6 @@
 1770,'1770','3rd @ Culver SB',43.008655,-81.188486
 1771,'1771','3rd @ Oxford NB',43.013179,-81.19059
 1772,'1772','3rd @ Oxford SB',43.011824,-81.190053
-1773,'1773','Thistlewood @ Blackwater EB',43.044314,-81.25747
 1776,'1776','Princess Elizabeth ES EB',42.968377,-81.221932
 1777,'1777','Thompson @ Adelaide WB',42.968275,-81.223112
 1779,'1779','Thompson @ Chesterfield EB',42.969255,-81.216183
@@ -1523,7 +1519,6 @@
 2304,'2304','Windermere @ Doon EB',43.020432,-81.258271
 2305,'2305','Wonderland @ Viscount Rd SB',42.947805,-81.28928
 2306,'2306','945 Huron',43.016243,-81.227928
-2309,'2309','Bluebell @ Sunningdale NB',43.042783,-81.273013
 2312,'2312','Commissioners & Wharnclif',42.956949,-81.260082
 2313,'2313','Culver @ Culver Court WB',43.009832,-81.184816
 2314,'2314','Dundas @ VMP EB',43.009974,-81.156251
@@ -1583,8 +1578,7 @@
 2426,'2426','Commissioners @ Western Counties Rd',42.958514,-81.22334
 2428,'2428','Wellington Between Creston & Wilkins NB',42.948492,-81.227842
 2433,'2433','S Wenige @ McCallum WB',43.044845,-81.249525
-2434,'2434','Wellington @ Baseline Rd FS NB',42.962116,-81.230972
-2435,'2435','Thistlewood @ S Wenige EB',43.046989,-81.253405
+2434,'2434','Wellington @ Baseline Rd Fs NB',42.962116,-81.230972
 2436,'2436','Westmount Mall @ Stop 4',42.947502,-81.291672
 2437,'2437','Westmount Mall @ Stop 5',42.9473,-81.292217
 2438,'2438','Westmount Mall @ Stop 6',42.947352,-81.291827
@@ -1733,10 +1727,7 @@
 2689,'2689','Wellington @ Harlech Gt SB',42.941826,-81.225455
 2690,'2690','Adelaide @ Dufferin SB',42.991425,-81.232891
 2691,'2691','Sunray @ Howard WB',42.905571,-81.294421
-2693,'2693','Adelaide @ Blackwater SB',43.044659,-81.259913
 2697,'2697','Sunningdale @ Adelaide WB',43.046477,-81.26173
-2699,'2699','Sunningdale @ Blackwater EB',43.045234,-81.26551
-2700,'2700','Sunningdale @ YMCA WB',43.047611,-81.257938
 2701,'2701','Beaverbrook @ Whetherfield EB',42.987011,-81.304547
 2702,'2702','Westminster @ Thompson Rd SB',42.967767,-81.224865
 2703,'2703','Colonel Talbot @ Sunray NB',42.905244,-81.297939
@@ -1790,6 +1781,7 @@
 2768,'2768','Southdale @ Pine Vly EB',42.938701,-81.283717
 2769,'2769','Southdale @ SW CC EB',42.938393,-81.288383
 2770,'2770','Topping Ln @ Commissioners NB',42.955886,-81.283106
+2772,'2772','Windermere @ Western EB',43.015039,-81.276075
 2773,'2773','Opp 1985 Richmond NB',43.035214,-81.286993
 2774,'2774','1985 Richmond SB',43.035062,-81.287222
 2779,'2779','Adelaide @ Glenora SB',43.028772,-81.251725
