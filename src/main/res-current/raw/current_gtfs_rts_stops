@@ -208,6 +208,8 @@
 336,'336','Cathcart @ Elmwood NB',42.970601,-81.254468
 339,'339','Cathcart @ Langarth NB',42.965372,-81.253657
 340,'340','Cathcart @ Tecumseh NB',42.967892,-81.254039
+341,'341','Chambers @ Sandybrook NB',43.039748,-81.270162
+342,'342','Chambers @ Skyline NB',43.041719,-81.271282
 343,'343','Chambers @ Whisker SB',43.038329,-81.270524
 344,'344','Cheapside @ Adelaide EB',43.006237,-81.239049
 345,'345','Cheapside W Of Adelaide WB',43.006102,-81.240697
@@ -432,6 +434,7 @@
 653,'653','Enterprise @ Pond Mills EB',42.931561,-81.189731
 654,'654','Ernest @ Bradley NB',42.934816,-81.236399
 655,'655','Ernest @ Bradley SB',42.934612,-81.236504
+656,'656','Ernest @ Conway NB',42.932709,-81.23643
 657,'657','Ernest @ Conway SB',42.933053,-81.236551
 658,'658','Ernest @ Elvira SB',42.939341,-81.238539
 659,'659','Ernest @ Fennel NB',42.929488,-81.23594
@@ -454,6 +457,7 @@
 695,'695','Fanshawe @ Hastings E EB',43.031099,-81.267184
 696,'696','Fanshawe @ Hastings WB',43.030992,-81.268125
 697,'697','Fanshawe @ Hastings W EB',43.030109,-81.2705
+698,'698','Fanshawe @ Highbury EB',43.042919,-81.227496
 699,'699','Fanshawe @ Jennifer 1 WB',43.030043,-81.271423
 700,'700','Fanshawe @ Jennifer 2 WB',43.029285,-81.273907
 701,'701','Fanshawe @ Louise EB',43.024436,-81.289879
@@ -553,7 +557,10 @@
 884,'884','Hamilton @ St Julien WB',42.979134,-81.204082
 885,'885','Hamilton @ Tennyson EB',42.97947,-81.207224
 887,'887','Hamilton @ Watmar EB',42.976094,-81.182582
+889,'889','Hastings @ Chambers NB',43.037134,-81.270738
 890,'890','Hastings @ Chambers SB',43.037031,-81.270715
+891,'891','Hastings @ Donnybrook NB',43.032086,-81.268232
+892,'892','Hastings @ Virginia NB',43.034071,-81.269268
 893,'893','Highbury @ Beattie NB',42.993153,-81.202075
 894,'894','Highbury @ Beattie SB',42.993444,-81.202342
 895,'895','London Transit Office',42.98814,-81.199636
@@ -1515,6 +1522,7 @@
 2304,'2304','Windermere @ Doon EB',43.020432,-81.258271
 2305,'2305','Wonderland @ Viscount Rd SB',42.947805,-81.28928
 2306,'2306','945 Huron',43.016243,-81.227928
+2309,'2309','Bluebell @ Sunningdale NB',43.042783,-81.273013
 2312,'2312','Commissioners & Wharnclif',42.956949,-81.260082
 2313,'2313','Culver @ Culver Court WB',43.009832,-81.184816
 2314,'2314','Dundas @ VMP EB',43.009974,-81.156251
@@ -1624,6 +1632,7 @@
 2516,'2516','Fanshawe @ Wonderland EB',43.018567,-81.309713
 2517,'2517','Fanshawe @ Wonderland WB',43.0189,-81.309473
 2518,'2518','Main @ Campbell EB',42.911671,-81.291879
+2522,'2522','Wharncliffe & Campbell',42.912394,-81.290943
 2523,'2523','Wharncliffe @ Savoy SB',42.917457,-81.284838
 2525,'2525','Wonderland @ Bradley FS NB',42.932846,-81.279825
 2528,'2528','Wonderland @ Wharncliffe NB',42.924222,-81.277947
@@ -1723,7 +1732,9 @@
 2689,'2689','Wellington @ Harlech Gt SB',42.941826,-81.225455
 2690,'2690','Adelaide @ Dufferin SB',42.991425,-81.232891
 2691,'2691','Sunray @ Howard WB',42.905571,-81.294421
+2693,'2693','Adelaide @ Blackwater SB',43.044659,-81.259913
 2697,'2697','Sunningdale @ Adelaide WB',43.046477,-81.26173
+2699,'2699','Sunningdale @ Blackwater EB',43.045234,-81.26551
 2700,'2700','Sunningdale @ YMCA WB',43.047611,-81.257938
 2701,'2701','Beaverbrook @ Whetherfield EB',42.987011,-81.304547
 2702,'2702','Westminster @ Thompson Rd SB',42.967767,-81.224865
@@ -1828,7 +1839,6 @@
 2829,'2829','Exeter @ Wonderland FS EB',42.920771,-81.276599
 2830,'2830','Fanshawe @ Freemont WB',43.036392,-81.250153
 2831,'2831','Fanshawe @ Richmond EB',43.026756,-81.282094
-2832,'2832','Fanshawe @ Richmond WB',43.02702,-81.282138
 2833,'2833','Fanshawe @ Trossacks FS EB',43.038004,-81.243949
 2834,'2834','Fanshawe @ Trossacks FS WB',43.038011,-81.24474
 2835,'2835','Fanshawe @ Wonderland NS EB',43.018259,-81.310615
@@ -1881,7 +1891,6 @@
 2889,'2889','Western @ Elgin SB',43.010028,-81.277456
 2891,'2891','Western @ Wellington Dr FS SB',43.010693,-81.27753
 2892,'2892','Wharncliffe @ Base Line NS NB',42.958709,-81.260758
-2893,'2893','Wharncliffe @ Base Line FS SB',42.95866,-81.261057
 2896,'2896','Wharncliffe @ Riverside NB',42.983189,-81.262587
 2898,'2898','White Oak Rd S Of Bradley SB',42.92971,-81.249489
 2899,'2899','White Oak Rd @ Bradley NS NB',42.931339,-81.249597
