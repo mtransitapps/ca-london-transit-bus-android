@@ -22,8 +22,8 @@
 1300,0,'White Oaks Mall',13
 1501,0,'Downtown',15
 1500,0,'Westmount Mall',15
-1600,0,'Commissioners W Of Deveron 2 WB',16
-1601,0,'Masonville Pl Stop #6',16
+1601,0,'Masonville Mall',16
+1600,0,'Pond Mills',16
 1700,0,'Argyle Mall',17
 1701,0,'Byron',17
 1901,0,'Downtown',19
@@ -40,8 +40,8 @@
 2801,0,'White Oaks Mall',28
 3000,0,'Cheese Factory Rd',30
 3001,0,'White Oaks Mall',30
-3101,0,'Alumni Hall WB',31
-3100,0,'Seagull @ Hyde Pk WB',31
+3101,0,'Alumni Hall',31
+3100,0,'Seagull & Hyde Pk',31
 3301,0,'Alumni Hall',33
 3300,0,'Proudfoot',33
 3400,0,'CW via Natural Science',34
@@ -54,8 +54,8 @@
 3700,0,'Neptune Cr',37
 3800,0,'Argyle Mall',38
 3801,0,'Innovation Pk',38
-9001,0,'Masonville Pl Stop #4',90
-9000,0,'White Oaks Mall Stop 3',90
+9001,0,'Masonville Mall',90
+9000,0,'White Oaks Mall',90
 9100,0,'Fanshawe College',91
 9101,0,'Oxford & Wonderland',91
 9200,0,'Masonville Mall',92
@@ -64,9 +64,5 @@
 9301,0,'White Oaks Mall',93
 9400,0,'Argyle Mall',94
 9401,0,'Natural Science',94
-10200,0,'Downtown',102
-10201,0,'Natural Science',102
-10400,0,'Fanshawe College',104
-10401,0,'Ridout & Grand',104
-10601,0,'Downtown',106
-10600,0,'Natural Science',106
+9500,0,'Fanshawe College',95
+9501,0,'White Oaks Mall',95
