@@ -32,3 +32,6 @@
 93,'93','Masonville Mall <> White Oaks Mall','FF8000',1818,3
 94,'94','Argyle Mall <> Natural Science','FF8000',1819,3
 95,'95','Fanshawe College <> White Oaks Mall','FF8000',1820,3
+102,'102','Downtown <> Natural Science','C58AFF',48627,3
+104,'104','Fanshawe College <> Ridout & Grand','C58AFF',48629,3
+106,'106','Natural Science <> Downtown','C58AFF',48631,3
