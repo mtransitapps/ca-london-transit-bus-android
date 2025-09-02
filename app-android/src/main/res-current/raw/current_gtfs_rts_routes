@@ -32,3 +32,7 @@
 93,'93','Masonville Mall <> White Oaks Mall','F89D53',1818,3
 94,'94','Argyle Mall <> Natural Science','F89D53',1819,3
 95,'95','Fanshawe College <> White Oaks Mal','F89D53',1820,3
+102,'102','Downtown <> Natural Science','75AAAE',48627,3
+104,'104','Fanshawe College <> Downtown','A685BC',48629,3
+106,'106','Natural Science <> Downtown','D6DF21',48631,3
+127,'127','Natural Science <> Capulet Ln @ Oxford SB','9F93A5',48694,3
