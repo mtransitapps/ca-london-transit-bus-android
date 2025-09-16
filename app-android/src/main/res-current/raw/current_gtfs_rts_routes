@@ -28,11 +28,9 @@
 38,'38','Argyle Mall <> Innovation Pk','DB7DAE',1637,3
 90,'90','White Oaks Mall <> Masonville Mall','F89D53',1815,3
 91,'91','Fanshawe College <> Oxford & Wonderland','F89D53',1816,3
-92,'92','Masonville Mall <> Victoria Hosp','F89D53',1817,3
 93,'93','Masonville Mall <> White Oaks Mall','F89D53',1818,3
 94,'94','Argyle Mall <> Natural Science','F89D53',1819,3
-95,'95','Fanshawe College <> White Oaks Mal','F89D53',1820,3
 102,'102','Downtown <> Natural Science','75AAAE',48627,3
 104,'104','Fanshawe College <> Downtown','A685BC',48629,3
 106,'106','Natural Science <> Downtown','D6DF21',48631,3
-127,'127','Natural Science <> Capulet Ln @ Oxford SB','9F93A5',48694,3
+127,'127','Natural Science <> Capulet Ln','9F93A5',48694,3
