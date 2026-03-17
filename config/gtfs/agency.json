@@ -1,0 +1,24 @@
+{
+  "target_route_type_id": 3,
+  "default_color": "009F60",
+  "default_color_comment": "GREEN (from website CSS)",
+  "default_color_enabled": true,
+  "default_strings_cleaner_enabled": true,
+  "to_lower_upper_case_strings": true,
+  "ignore_upper_case_words": [
+    "CW",
+    "CWW",
+    "NB",
+    "SB",
+    "WB",
+    "EB",
+    "SE",
+    "SW",
+    "NW",
+    "NE",
+    "NS",
+    "3M",
+    "VMP",
+    "YMCA"
+  ]
+}
