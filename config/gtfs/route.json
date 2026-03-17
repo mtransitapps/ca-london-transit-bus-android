@@ -1,0 +1,114 @@
+{
+  "default_route_id_enabled": true,
+  "use_route_short_name_for_route_id": true,
+  "route_short_name_cleaners": [
+    {
+      "regex": "^0*"
+    }
+  ],
+  "default_route_long_name_enabled": true,
+  "route_long_name_cleaners": [
+    {
+      "regex": "(^route \\d+\\s?)",
+      "ignore_case": true
+    }
+  ],
+  "direction_finder_enabled": true,
+  "direction_headsign_cleaners": [
+    {
+      "regex": "(^\\d*[a-z] )",
+      "ignore_case": true
+    },
+    {
+      "regex": "^(Masonville via Natural Science)$",
+      "replacement": "CW (Natural Science)"
+    },
+    {
+      "regex": "^(Masonville via Alumni Hall)$",
+      "replacement": "CWW (Alumni Hall)"
+    }
+  ],
+  "trip_headsign_remove_via": true,
+  "trip_headsign_cleaners": [
+    {
+      "regex": "(^\\d+\\s?)",
+      "ignore_case": true
+    },
+    {
+      "regex": "(^express to )",
+      "ignore_case": true
+    },
+    {
+      "regex": "area",
+      "is_word": true,
+      "ignore_case": true
+    },
+    {
+      "regex": "agyle",
+      "is_word": true,
+      "ignore_case": true,
+      "replacement": "Argyle"
+    },
+    {
+      "regex": "hosptial|hos",
+      "is_word": true,
+      "ignore_case": true,
+      "replacement": "hospital"
+    },
+    {
+      "regex": "masonvile|masvonille|masonvillel|masonville",
+      "is_word": true,
+      "ignore_case": true,
+      "replacement": "Masonville"
+    },
+    {
+      "regex": "only",
+      "is_word": true,
+      "ignore_case": true
+    },
+    {
+      "regex": "univ western ontario|western university",
+      "is_word": true,
+      "ignore_case": true,
+      "replacement": "UWO"
+    }
+  ],
+  "use_stop_code_for_stop_id": true,
+  "stop_original_id_to_stop_id_configs": [
+    {
+      "original_stop_id": "TDUNFLO1",
+      "stop_id": 90001
+    },
+    {
+      "original_stop_id": "TEGEDUN2",
+      "stop_id": 90002
+    },
+    {
+      "original_stop_id": "TKELDUN1",
+      "stop_id": 90003
+    }
+  ],
+  "stop_name_cleaners": [
+    {
+      "regex": "( - #\\d*\\w*'*$)",
+      "ignore_case": true
+    },
+    {
+      "regex": "hosptial|hos",
+      "is_word": true,
+      "ignore_case": true,
+      "replacement": "hospital"
+    },
+    {
+      "regex": "AVE",
+      "replacement": "Ave"
+    },
+    {
+      "comment": "fix uppercase issue",
+      "regex": "at",
+      "is_word": true,
+      "ignore_case": true,
+      "replacement": "@"
+    }
+  ]
+}
