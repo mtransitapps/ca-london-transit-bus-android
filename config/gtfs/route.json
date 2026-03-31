@@ -74,18 +74,18 @@
     }
   ],
   "use_stop_code_for_stop_id": true,
-  "stop_original_id_to_stop_id_configs": [
+  "stop_id_not_supported_configs": [
     {
       "original_stop_id": "TDUNFLO1",
-      "stop_id": 90001
+      "stop_id_int": 90001
     },
     {
       "original_stop_id": "TEGEDUN2",
-      "stop_id": 90002
+      "stop_id_int": 90002
     },
     {
       "original_stop_id": "TKELDUN1",
-      "stop_id": 90003
+      "stop_id_int": 90003
     }
   ],
   "stop_name_cleaners": [
