@@ -80,6 +80,10 @@
       "stop_id": 90001
     },
     {
+      "original_stop_id": "TEGEDUN1",
+      "stop_id": 90004
+    },
+    {
       "original_stop_id": "TEGEDUN2",
       "stop_id": 90002
     },
