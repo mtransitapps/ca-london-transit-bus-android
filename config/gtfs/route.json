@@ -90,6 +90,10 @@
     {
       "original_stop_id": "TKELDUN1",
       "stop_id": 90003
+    },
+    {
+      "original_stop_id": "TFANCOLL",
+      "stop_id": 90004
     }
   ],
   "stop_name_cleaners": [
