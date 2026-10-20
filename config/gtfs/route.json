@@ -93,7 +93,11 @@
     },
     {
       "original_stop_id": "TFANCOLL",
-      "stop_id": 90004
+      "stop_id": 90005
+    },
+    {
+      "original_stop_id": "THIGFLO1",
+      "stop_id": 90006
     }
   ],
   "stop_name_cleaners": [
