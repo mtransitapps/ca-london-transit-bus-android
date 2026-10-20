@@ -98,6 +98,14 @@
     {
       "original_stop_id": "THIGFLO1",
       "stop_id": 90006
+    },
+    {
+      "original_stop_id": "TWELEME1",
+      "stop_id": 90007
+    },
+    {
+      "original_stop_id": "TWELEME2",
+      "stop_id": 90008
     }
   ],
   "stop_name_cleaners": [
